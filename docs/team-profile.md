@@ -1,7 +1,7 @@
 # Team Profile
 
 ## Team Name
-Team 3
+WatchMate
 
 ## Team Members and Roles
 
