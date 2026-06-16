@@ -1,5 +1,5 @@
-# ICT111-TeamName-MVP
-# TravelEase: Movie Recommendation System
+# ICT111-WatchMate-MVP
+# WatchMate: Movie Recommendation System
 
 ## Course Information
 Course Code: ICT111  
@@ -8,7 +8,7 @@ Instructor: Dr. Herison Surbakti
 Project Type: 14-Labs Continuous IT Startup MVP Development  
 
 ## Team Name
-Team 3
+WatchMate
 
 ## Team Members and Roles
 
