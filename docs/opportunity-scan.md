@@ -8,9 +8,10 @@
 
 ## Opportunity Discovery Table
 | No. | Observed Problem | Target User | Current Alternative | Possible IT Solution | Feasible Technology |
+|---|---|---|---|---|---|---|
 | 1 | | | | | |
 | 2 | | | | | |
-| 2 | | | | | |
-| 2 | | | | | |
-| 2 | | | | | |
-| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
