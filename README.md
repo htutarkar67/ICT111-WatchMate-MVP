@@ -61,3 +61,40 @@ In Lab 02, our team evaluated multiple project ideas and used the NUF scoring me
 
 In Lab 03, we will conduct customer discovery interviews to validate the problem and gather feedback from potential users.
 
+| Lab    | Topic                        | Summary                                                                                                                                         | Status    |
+| ------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Lab 03 | Customer Discovery Workflows | Conducted customer interviews and surveys, validated user problems, and built an assumption-evidence table for the Movie Recommendation System. | Completed |
+
+## Current Status
+
+We have completed our customer discovery activities and collected feedback from university students, movie enthusiasts, and streaming platform users.
+
+We validated that users often spend too much time searching for movies.
+We confirmed that existing recommendation methods are not always personalized.
+We identified that users value accurate recommendations more than complex features.
+
+## Customer Problem Discovery Summary
+
+In Lab 03, our team collected evidence from potential users to determine whether the movie recommendation problem is real and significant.
+
+The interviews showed that many users struggle to find movies that match their interests because of the large number of available choices. Users frequently rely on friends, social media, review websites, and streaming platform suggestions, but these methods do not always provide relevant recommendations.
+
+## Target Respondents
+
+Our team gathered customer discovery evidence from:
+
+* University students who regularly watch movies using streaming platforms.
+* Movie enthusiasts who frequently search for new movies and recommendations.
+* Streaming platform users who experience difficulty selecting suitable content.
+
+## Main Evidence Found
+
+Through interviews and surveys, we discovered several important insights:
+
+* Too many choices create decision fatigue: Users often feel overwhelmed when browsing large movie libraries.
+* Searching takes too much time: Many respondents reported spending a long time looking for a movie before making a decision.
+* Recommendations are not always relevant: Existing recommendation systems often suggest movies that do not match user interests.
+* Users want personalized suggestions: Respondents preferred recommendations based on their favorite genres, actors, and viewing preferences.
+
+
+
