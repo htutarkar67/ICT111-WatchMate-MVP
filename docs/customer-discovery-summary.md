@@ -12,10 +12,9 @@ Movie Recommendation System
 
 ## Number of Responses / Interviews
 
-* **University Students:** 12 Actual (12 Planned)
-* **Movie Enthusiasts:** 5 Actual (5 Planned)
-* **Streaming Platform Users:** 5 Actual (5 Planned)
-* **Total Interviews:** 22 Completed
+* **University Students:** 13 Actual 
+* **Movie Enthusiasts:** 2 Actual 
+* **Total Interviews:** 15 Completed
 
 ## Main Repeated Problem
 
