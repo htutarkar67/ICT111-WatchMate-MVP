@@ -95,6 +95,12 @@ Through interviews and surveys, we discovered several important insights:
 * Searching takes too much time: Many respondents reported spending a long time looking for a movie before making a decision.
 * Recommendations are not always relevant: Existing recommendation systems often suggest movies that do not match user interests.
 * Users want personalized suggestions: Respondents preferred recommendations based on their favorite genres, actors, and viewing preferences.
+Updated Problem Statement
 
+Movie viewers often struggle to find movies that match their interests because streaming platforms offer a large number of choices. Existing recommendation methods, including social media, online reviews, and platform-generated suggestions, are often time-consuming or insufficiently personalized. As a result, users experience frustration, decision fatigue, and difficulty discovering suitable movies.
+
+Decision for Next Step
+
+The team has decided to proceed with the current problem direction and continue developing the WatchMate Movie Recommendation System based on validated customer evidence.
 
 
