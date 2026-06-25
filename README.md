@@ -104,4 +104,70 @@ Decision for Next Step
 
 The team has decided to proceed with the current problem direction and continue developing the WatchMate Movie Recommendation System based on validated customer evidence.
 
+# Lab 04: User Persona, Requirements, and User Stories
+
+## Primary Target User
+
+Movie viewers who have difficulty finding movies that match their preferences and spend too much time deciding what to watch.
+
+---
+
+## Persona Summary
+
+**Persona Name:** Alex Tan
+
+**User Type:** University student and frequent movie viewer
+
+**Main Goal:** Receive personalized movie recommendations quickly through an AI chatbot.
+
+**Main Pain Point:** Too many movie choices make it difficult and time-consuming to decide what to watch.
+
+**Current Workaround:** Uses Netflix recommendations, Google searches, movie review websites, and asks friends for suggestions.
+
+---
+
+## Key Requirements
+
+| Req ID | Requirement                                                                          | Priority | Related Evidence                                                |
+| ------ | ------------------------------------------------------------------------------------ | -------- | --------------------------------------------------------------- |
+| FR-01  | Users can interact with an AI chatbot to receive personalized movie recommendations. | Must     | Lab 03 respondents reported difficulty finding suitable movies. |
+| FR-02  | Users can search for movies by title.                                                | Must     | Users want a faster way to find movies.                         |
+| FR-03  | Users can view movie details including synopsis, genre, rating, and release date.    | Must     | Users need more information before deciding what to watch.      |
+| FR-04  | Users can browse trending movies and TV shows.                                       | Should   | Users want to discover popular content.                         |
+| FR-05  | Chat conversations and recommendation history are stored.                            | Must     | Required for recommendation tracking and admin review.          |
+| FR-06  | Administrators can view user chat history.                                           | Must     | Supports monitoring and improvement of recommendation quality.  |
+| NFR-01 | The system should provide recommendations within a reasonable response time.         | Must     | Users expect quick recommendations.                             |
+| NFR-02 | The interface should be simple and easy to navigate.                                 | Must     | Users prefer a user-friendly experience.                        |
+| NFR-03 | The system should be responsive on desktop and mobile devices.                       | Must     | Users may access the platform from different devices.           |
+
+---
+
+## MVP Feature Scope
+
+| Feature                   | Priority | Included in Final Prototype? |
+| ------------------------- | -------- | ---------------------------- |
+| AI Chatbot Recommendation | Must     | Yes                          |
+| Movie Search              | Must     | Yes                          |
+| Movie Detail View         | Must     | Yes                          |
+| Trending Movies Section   | Should   | Yes                          |
+| Chat History Storage      | Must     | Yes                          |
+| Admin View Chat History   | Must     | Yes                          |
+| User Account Registration | Could    | No                           |
+| Social Sharing Feature    | Could    | No                           |
+
+---
+
+## Diagram Links
+
+**User Flow Diagram:** [Insert Diagram Link]
+
+**Use Case Diagram:** [Insert Diagram Link]
+
+---
+
+## GitHub Contribution Evidence
+
+All members contributed to this repository through commits, issues, pull requests, documentation updates, prototype design activities, or requirement analysis tasks. Evidence can be viewed in the repository commit history and issue tracker.
+
+
 
