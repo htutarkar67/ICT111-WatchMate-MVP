@@ -159,9 +159,9 @@ Movie viewers who have difficulty finding movies that match their preferences an
 
 ## Diagram Links
 
-**User Flow Diagram:** [Insert Diagram Link]
+**User Flow Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/user-flow-diagram.md]
 
-**Use Case Diagram:** [Insert Diagram Link]
+**Use Case Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/use-case-diagram.md]
 
 ---
 
