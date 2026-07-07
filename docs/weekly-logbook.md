@@ -244,8 +244,25 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 ---
 
-## 5. Next Actions Before Lab 05
+# Lab 05 Focus
 
-| Task                                        | Owner       | Deadline | GitHub Issue |
-| ------------------------------------------- | ----------- | -------- | ------------ |
+## Product Concept and UI/UX Wireframe
+
+### What We Completed Today
+
+-  Reviewed Lab 04 requirements and user stories.
+-  Defined the product concept for **WatchMate: AI Movie Recommendation System**.
+-  Identified the target users, problem statement, and core value proposition.
+-  Defined the MVP feature list using the MoSCoW prioritization method.
+-  Mapped system features to functional requirements and user stories.
+-  Designed the required UI/UX wireframes:
+  - Homepage
+  - AI Movie Recommendation Chatbot
+  - Search Results
+  - Movie Detail Page
+  - Watchlist
+  - Admin Dashboard
+-  Created the user flow diagram illustrating the user's journey from searching for movies to receiving AI-powered recommendations.
+-  Built a clickable prototype demonstrating the main navigation and interactions.
+-  Updated the GitHub repository with the Product Concept, MVP Feature List, Feature-Requirement Mapping, User Stories, System Requirements, and wireframe documentation.
 
