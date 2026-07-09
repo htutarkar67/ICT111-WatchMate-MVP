@@ -1,1 +1,10 @@
+# Feature-Value Mapping
 
+| Feature ID | MVP Feature | Requirement ID | User Story ID | User Value | Business / Operational Value | Prototype Screen or Module | Priority |
+|------------|-------------|----------------|---------------|------------|------------------------------|----------------------------|----------|
+| **F-01** | Homepage / Main Screen | FR-01, FR-02 | US-01 | Users can quickly understand the purpose of WatchMate and start exploring movies or chatting with the AI assistant. | Introduces the platform and provides easy access to the core features. | `index.html` | Must |
+| **F-02** | AI Movie Recommendation Chatbot | FR-02, FR-03, FR-11 | US-01 | Users can describe their movie preferences and receive personalized movie recommendations through natural conversation. | Delivers the platform's core value by providing intelligent and personalized recommendations. | `chatbot.html` | Must |
+| **F-03** | Movie Search & Trending Movies | FR-04, FR-05 | US-02, US-04 | Users can search for movies or browse trending content to discover new movies quickly. | Improves content discovery and increases user engagement. | `search.html`, `index.html` | Must |
+| **F-04** | Movie Detail View | FR-06 | US-03 | Users can view detailed movie information, including synopsis, genre, rating, release year, and trailer, before deciding what to watch. | Provides complete movie information to support user decisions and improve satisfaction. | `movie-detail.html` | Must |
+| **F-05** | Watchlist & Chat History | FR-05 | US-05, US-06 | Logged-in users can save favorite movies and revisit previous AI conversations for future reference. | Encourages user retention by offering personalized features and preserving recommendation history. | `watchlist.html`, `chat-history.html` | Should |
+| **F-06** | Admin Dashboard | FR-06, FR-12 | US-07 | Administrators can monitor user chat history and chatbot usage statistics. | Helps monitor system usage, understand user interests, and improve the recommendation service. | `admin-dashboard.html` | Could |
