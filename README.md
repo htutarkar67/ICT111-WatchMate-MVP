@@ -205,3 +205,64 @@ The user begins on the **Homepage**, where they can browse trending movies or se
 
 All team members contributed to the development of **WatchMate** using the shared GitHub repository. Contributions included product concept development, user persona creation, system requirements, user stories, MVP feature planning, UI/UX wireframe design, user flow design, clickable prototype development, documentation updates, commits, issues, and pull requests.
 
+---
+
+# Lab 06 Update - Business Model Canvas and Technical Architecture
+
+## Lab 06 Summary
+
+In Lab 06, our group connected the product concept, system requirements, user stories, MVP feature list, and UI/UX wireframes into a complete business model and technical architecture for **WatchMate: AI Movie Recommendation System**. We also designed the system's data structure and architecture diagrams to guide the implementation of the final prototype.
+
+---
+
+## Files Added or Updated
+
+- Business Model Canvas
+- Feature-Value Mapping
+- Technical Architecture
+- Data Structure
+- System Architecture Diagram
+- Data Flow Diagram
+- Weekly Logbook
+
+---
+
+## Technical Direction
+
+For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
+
+The frontend will provide an interactive interface where users can browse trending movies, search for titles, chat with the AI assistant, manage their watchlist, and review previous conversations. The backend will process user requests, communicate with the AI chatbot and TMDB API, and manage user data stored in SQLite. This architecture provides a simple yet scalable solution that supports the project's MVP while allowing future enhancements.
+
+---
+
+## Final Prototype Connection
+
+The documentation and planning completed during Lab 06 serve as the foundation for developing the final WatchMate prototype.
+
+### UI/UX Translation
+
+The completed wireframes—including the homepage, AI chatbot, search results, movie detail page, watchlist, chat history, and admin dashboard—provide clear visual specifications for the final user interface. These wireframes guide the implementation of the React frontend and ensure a consistent user experience.
+
+### Structural Foundation
+
+The frontend pages and React components form the structure of the application. During development, these components will be connected to backend APIs to provide dynamic content, AI-powered recommendations, user authentication, and watchlist management.
+
+### Architectural Blueprint
+
+The system architecture and data flow diagrams define how information moves between the frontend, backend, AI chatbot API, TMDB API, and SQLite database. These diagrams guide the implementation of movie searches, AI recommendations, user authentication, watchlist storage, and chat history management.
+
+### Feature Prioritization
+
+The MVP feature list, system requirements, and user stories define the development priorities. The first implementation phase focuses on the core features:
+
+- AI-powered movie recommendation chatbot
+- Movie search functionality
+- Trending movies and TV shows
+- Movie detail pages with trailers
+- User login and authentication
+- Watchlist management
+- Chat history for logged-in users
+- Admin dashboard for viewing chatbot conversations
+
+Additional features such as advanced AI personalization, recommendation analytics, and streaming platform integration will be considered in future versions after the MVP has been successfully completed.
+
