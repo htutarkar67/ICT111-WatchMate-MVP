@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>What2Watch Prototype</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      .chat-toggle {
+        position: fixed;
+        right: 1.2rem;
+        bottom: 1.2rem;
+        border: none;
+        border-radius: 999px;
+        background: linear-gradient(135deg, #ef4444, #dc2626);
+        color: white;
+        padding: 0.75rem 1.1rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        font-weight: 700;
+        font-size: 0.9rem;
+        cursor: pointer;
+        z-index: 21;
+        box-shadow: 0 4px 20px rgba(239, 68, 68, 0.45);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .chat-toggle:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 28px rgba(239, 68, 68, 0.6);
+      }
+
+      .chat-panel {
+        position: fixed;
+        right: 1.2rem;
+        bottom: 5.2rem;
+        background: #0e0e14;
+        border: 1px solid #252530;
+        border-radius: 1rem;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        z-index: 20;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.65), 0 0 0 1px rgba(255, 255, 255, 0.04);
+        min-width: 300px;
+        min-height: 320px;
+        width: 360px;
+        height: 460px;
+        max-width: calc(100vw - 2.4rem);
+        max-height: calc(100vh - 6rem);
+      }
+
+      .chat-panel[hidden] {
+        display: none;
+      }
+
+      .chat-resize-handle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 22px;
+        height: 22px;
+        cursor: nwse-resize;
+        z-index: 5;
+        border-radius: 1rem 0 0.5rem 0;
+      }
+
+      .chat-resize-handle::before {
+        content: '';
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        width: 10px;
+        height: 10px;
+        border-top: 2px solid rgba(255, 255, 255, 0.18);
+        border-left: 2px solid rgba(255, 255, 255, 0.18);
+        border-radius: 2px 0 0 0;
+      }
+
+      .chat-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.85rem 1rem 0.85rem 1.4rem;
+        background: linear-gradient(135deg, #161620, #1a1a28);
+        border-bottom: 1px solid #252530;
+        color: #f2f2f7;
+        flex-shrink: 0;
+      }
+
+      .chat-header div {
+        display: inline-flex;
+        gap: 0.5rem;
+        align-items: center;
+        font-weight: 700;
+        font-size: 0.95rem;
+      }
+
+      .chat-header button {
+        border: 1px solid #2c2c38;
+        background: #1f1f2a;
+        color: #aaaabc;
+        cursor: pointer;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        font-size: 1.1rem;
+        line-height: 1;
+      }
+
+      .chat-header button:hover {
+        background: rgba(239, 68, 68, 0.18);
+        color: #ef4444;
+        border-color: rgba(239, 68, 68, 0.35);
+      }
+
+      .chat-shell {
+        display: grid;
+        /* narrowed sidebar for better main area; sidebar then main */
+        grid-template-columns: 120px minmax(0, 1fr);
+        flex: 1;
+        min-height: 0;
+      }
+
+      .chat-sidebar {
+        background: #111118;
+        border-right: 1px solid #232330;
+        padding: 0.9rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.7rem;
+      }
+
+      .new-chat,
+      .login-btn {
+        border: none;
+        border-radius: 0.65rem;
+        background: linear-gradient(135deg, #ef4444, #dc2626);
+        color: white;
+        padding: 0.6rem 0.7rem;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      .recent-title {
+        color: #e8e8f4;
+        font-size: 0.8rem;
+        font-weight: 700;
+      }
+
+      .muted {
+        color: #7878a0;
+        font-size: 0.75rem;
+        line-height: 1.4;
+      }
+
+      .chat-main {
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+      }
+
+      .chat-body {
+        flex: 1;
+        overflow-y: auto;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        scroll-behavior: smooth;
+        min-height: 0;
+      }
+
+      .chat-body::-webkit-scrollbar {
+        width: 4px;
+      }
+
+      .chat-body::-webkit-scrollbar-thumb {
+        background: #2c2c3a;
+        border-radius: 4px;
+      }
+
+      .msg {
+        max-width: 88%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+      }
+
+      .msg p {
+        margin: 0;
+        font-size: 0.88rem;
+        line-height: 1.5;
+        padding: 0.65rem 0.85rem;
+        border-radius: 1rem;
+        word-break: break-word;
+      }
+
+      .msg.user {
+        align-self: flex-end;
+        align-items: flex-end;
+      }
+
+      .msg.user p {
+        background: linear-gradient(135deg, #ef4444, #dc2626);
+        color: #fff;
+        border-radius: 1rem 1rem 0.25rem 1rem;
+      }
+
+      .msg.assistant {
+        align-self: flex-start;
+        align-items: flex-start;
+      }
+
+      .msg.assistant p {
+        background: #17171f;
+        color: #e0e0ec;
+        border: 1px solid #252532;
+        border-radius: 1rem 1rem 1rem 0.25rem;
+      }
+
+      .chat-recommendations {
+        margin-top: 0.4rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.45rem;
+      }
+
+      .chat-item {
+        display: flex;
+        gap: 0.6rem;
+        background: #111118;
+        border: 1px solid #222230;
+        border-radius: 0.65rem;
+        padding: 0.5rem;
+      }
+
+      .chat-item img {
+        width: 42px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 0.4rem;
+        flex-shrink: 0;
+        background: #1e1e28;
+      }
+
+      .chat-item h4 {
+        margin: 0;
+        color: #e8e8f4;
+        font-size: 0.8rem;
+        font-weight: 600;
+        line-height: 1.3;
+      }
+
+      .chat-item small {
+        color: #7878a0;
+        font-size: 0.74rem;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .chat-input {
+        border-top: 1px solid #1c1c26;
+        display: flex;
+        gap: 0.6rem;
+        padding: 0.8rem;
+        background: #0e0e14;
+        flex-shrink: 0;
+      }
+
+      .chat-input input {
+        border: 1px solid #252532;
+        background: #141420;
+        color: #f0f0f8;
+        border-radius: 0.65rem;
+        padding: 0.55rem 0.8rem;
+        outline: none;
+        flex: 1;
+        font-size: 0.85rem;
+      }
+
+      .chat-input input::placeholder {
+        color: #44445a;
+      }
+
+      .chat-input button {
+        border: none;
+        border-radius: 0.65rem;
+        background: linear-gradient(135deg, #ef4444, #dc2626);
+        color: white;
+        width: 38px;
+        height: 38px;
+        display: grid;
+        place-items: center;
+        cursor: pointer;
+        flex-shrink: 0;
+      }
+
+      html[data-theme='light'] .chat-panel {
+        background: rgba(255, 255, 255, 0.95);
+        border-color: #e2e8f0;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      }
+
+      html[data-theme='light'] .chat-sidebar {
+        background: #f8fafc;
+        border-right-color: #e2e8f0;
+      }
+
+      html[data-theme='light'] .recent-title {
+        color: #475569;
+      }
+
+      html[data-theme='light'] .msg.assistant p {
+        background: #f8fafc;
+        color: #334155;
+        border-color: #e2e8f0;
+      }
+
+      @media (max-width: 720px) {
+        .chat-shell {
+          grid-template-columns: 1fr;
+        }
+
+        .chat-sidebar {
+          border-right: 0;
+          border-bottom: 1px solid #232330;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <header class="navbar">
+        <button class="logo-btn" aria-label="Open dashboard">
+          <div class="logo-container">
+            <span class="logo">W2W</span>
+          </div>
+        </button>
+
+        <nav class="menu">
+          <a class="menu-link" href="#">Movies</a>
+          <a class="menu-link" href="#">TV Shows</a>
+          <a class="menu-link" href="#">Watchlist</a>
+        </nav>
+
+        <div class="search">
+          <span>🔍</span>
+          <input type="search" placeholder="Search Movies, TV Shows, People..." />
+        </div>
+
+        <div class="nav-actions">
+          <button class="theme-btn" aria-label="Toggle theme">☾</button>
+          <button class="login-btn" type="button">demo</button>
+        </div>
+      </header>
+
+      <section class="hero" style="background-image: linear-gradient(180deg, rgba(13, 16, 23, 0.72), rgba(2, 4, 8, 0.9)), url('https://images.unsplash.com/photo-1517604931442-7c6fb1f17b3e?auto=format&fit=crop&w=1400&q=80');">
+        <div class="overlay"></div>
+        <div class="hero-content">
+          <h1>Passenger</h1>
+          <p>
+            After a young couple witnesses a gruesome highway accident, they
+            soon realize they did not leave the crash scene alone, as a demonic
+            presence called the Passenger that won't stop until it claims them
+            both turns their van life adventure into a nightmare.
+          </p>
+          <div class="hero-meta">
+            <span>Release: 2026-05-20</span>
+            <button type="button">Watch Trailer</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Trending</h2>
+          <div class="tabs">
+            <button class="active" type="button">Trending Today</button>
+            <button type="button">Trending This Week</button>
+          </div>
+        </div>
+
+        <div class="cards-row">
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Passenger" alt="Passenger poster" />
+            <div class="card-info">
+              <h3>Passenger</h3>
+              <p>2026-05-20</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Obsession" alt="Obsession poster" />
+            <div class="card-info">
+              <h3>Obsession</h3>
+              <p>2026-05-13</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=House+of+the+Dragon" alt="House of the Dragon poster" />
+            <div class="card-info">
+              <h3>House of the Dragon</h3>
+              <p>2026</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Moana" alt="Moana poster" />
+            <div class="card-info">
+              <h3>Moana</h3>
+              <p>2026-07-08</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Toy+Story+5" alt="Toy Story 5 poster" />
+            <div class="card-info">
+              <h3>Toy Story 5</h3>
+              <p>2026-06-17</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=The+Odyssey" alt="The Odyssey poster" />
+            <div class="card-info">
+              <h3>The Odyssey</h3>
+              <p>2026-07-15</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Backrooms" alt="Backrooms poster" />
+            <div class="card-info">
+              <h3>Backrooms</h3>
+              <p>2026</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Latest Trailers</h2>
+          <div class="tabs">
+            <button class="active" type="button">Streaming</button>
+            <button type="button">On TV</button>
+            <button type="button">For Rent</button>
+            <button type="button">In Theaters</button>
+          </div>
+        </div>
+
+        <div class="cards-row">
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=Enola+Holmes+3" alt="Enola Holmes 3 poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>Enola Holmes 3</h3>
+              <p>2026</p>
+            </div>
+          </article>
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=Project+Hail+Mary" alt="Project Hail Mary poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>Project Hail Mary</h3>
+              <p>2026</p>
+            </div>
+          </article>
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=The+Sheep+Detectives" alt="The Sheep Detectives poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>The Sheep Detectives</h3>
+              <p>2026</p>
+            </div>
+          </article>
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=The+Shawshank+Redemption" alt="The Shawshank Redemption poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>The Shawshank Redemption</h3>
+              <p>1994</p>
+            </div>
+          </article>
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=Avatar+Fire+and+Ash" alt="Avatar: Fire and Ash poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>Avatar: Fire and Ash</h3>
+              <p>2025</p>
+            </div>
+          </article>
+          <article class="trailer-card card">
+            <img src="https://via.placeholder.com/180x250?text=The+Mummy" alt="Lee Cronin's The Mummy poster" />
+            <button class="play-button" aria-label="Play trailer">▶</button>
+            <div class="card-info">
+              <h3>Lee Cronin's The Mummy</h3>
+              <p>2026</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>What's Popular</h2>
+          <div class="tabs">
+            <button class="active" type="button">Streaming</button>
+            <button type="button">On TV</button>
+            <button type="button">For Rent</button>
+            <button type="button">In Theaters</button>
+          </div>
+        </div>
+
+        <div class="cards-row">
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Obsession" alt="Obsession poster" />
+            <div class="card-info">
+              <h3>Obsession</h3>
+              <p>★ 8.2</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Disclosure+Day" alt="Disclosure Day poster" />
+            <div class="card-info">
+              <h3>Disclosure Day</h3>
+              <p>★ 6.7</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Toy+Story+5" alt="Toy Story 5 poster" />
+            <div class="card-info">
+              <h3>Toy Story 5</h3>
+              <p>★ 7.4</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Scary+Movie" alt="Scary Movie poster" />
+            <div class="card-info">
+              <h3>Scary Movie</h3>
+              <p>★ 5.4</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Backrooms" alt="Backrooms poster" />
+            <div class="card-info">
+              <h3>Backrooms</h3>
+              <p>★ 6.8</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=The+Devil+Wears+Prada+2" alt="The Devil Wears Prada 2 poster" />
+            <div class="card-info">
+              <h3>The Devil Wears Prada 2</h3>
+              <p>★ 7.0</p>
+            </div>
+          </article>
+          <article class="card">
+            <img src="https://via.placeholder.com/180x250?text=Citizen" alt="Citizen poster" />
+            <div class="card-info">
+              <h3>Citizen</h3>
+              <p>★ 6.6</p>
+            </div>
+          </article>
+        </div>
+      </section>
+    </div>
+
+    <button class="chat-toggle" id="chatToggle" type="button" aria-expanded="false">
+      💬 AI
+    </button>
+
+    <aside class="chat-panel" id="chatPanel" hidden aria-hidden="true">
+      <div class="chat-resize-handle" id="chatResizeHandle"></div>
+      <header class="chat-header">
+        <div>
+          <span aria-hidden="true">🤖</span> Movie AI Assistant
+        </div>
+        <button id="chatClose" type="button" aria-label="Close AI chat">×</button>
+      </header>
+
+      <div class="chat-shell">
+        <div class="chat-sidebar">
+          <button class="new-chat" id="newChatBtn" type="button">New Chat</button>
+          <div class="recent-title">Guest mode</div>
+          <div class="muted">Chat history isn’t saved.</div>
+          <button class="login-btn" type="button">Login to save chats</button>
+        </div>
+
+        <div class="chat-main">
+          <div class="chat-body" id="chatBody">
+            <div class="msg assistant">
+              <p>Hi! Ask me for movies, genres, or something similar to your favorite films.</p>
+            </div>
+          </div>
+
+          <form class="chat-input" id="chatForm">
+            <input id="chatInput" type="text" placeholder="e.g. Recommend horror movies or movies like Interstellar" />
+            <button type="submit" aria-label="Send message">➤</button>
+          </form>
+        </div>
+      </div>
+    </aside>
+
+    <script>
+      const chatToggle = document.getElementById('chatToggle');
+      const chatPanel = document.getElementById('chatPanel');
+      const chatClose = document.getElementById('chatClose');
+      const chatBody = document.getElementById('chatBody');
+      const chatForm = document.getElementById('chatForm');
+      const chatInput = document.getElementById('chatInput');
+      const newChatBtn = document.getElementById('newChatBtn');
+      const resizeHandle = document.getElementById('chatResizeHandle');
+
+      function setChatOpen(open) {
+        chatPanel.hidden = !open;
+        chatPanel.setAttribute('aria-hidden', String(!open));
+        chatToggle.setAttribute('aria-expanded', String(open));
+      }
+
+      function addMessage(role, text, recommendations = []) {
+        const wrapper = document.createElement('div');
+        wrapper.className = `msg ${role}`;
+        const textNode = document.createElement('p');
+        textNode.textContent = text;
+        wrapper.appendChild(textNode);
+
+        if (recommendations.length) {
+          const recList = document.createElement('div');
+          recList.className = 'chat-recommendations';
+          recommendations.forEach((item) => {
+            const article = document.createElement('article');
+            article.className = 'chat-item';
+            article.innerHTML = `
+              <img src="${item.poster}" alt="${item.title}" />
+              <div>
+                <h4>${item.title}</h4>
+                <small>${item.description}</small>
+              </div>
+            `;
+            recList.appendChild(article);
+          });
+          wrapper.appendChild(recList);
+        }
+
+        chatBody.appendChild(wrapper);
+        chatBody.scrollTop = chatBody.scrollHeight;
+      }
+
+      function getReply(text) {
+        const value = text.toLowerCase();
+        if (value.includes('horror')) {
+          return {
+            text: 'Here are a few horror picks with strong atmosphere and suspense:',
+            recommendations: [
+              { title: 'The Conjuring', description: 'A tense supernatural thriller with a haunting story.', poster: 'https://via.placeholder.com/42x60?text=Conjuring' },
+              { title: 'A Quiet Place', description: 'A suspenseful monster thriller built around silence.', poster: 'https://via.placeholder.com/42x60?text=Quiet' },
+              { title: 'Sinister', description: 'A chilling mystery with a disturbing supernatural edge.', poster: 'https://via.placeholder.com/42x60?text=Sinister' }
+            ]
+          };
+        }
+
+        if (value.includes('sci-fi') || value.includes('space')) {
+          return {
+            text: 'These sci-fi picks should fit your mood well:',
+            recommendations: [
+              { title: 'Interstellar', description: 'A sweeping space drama with emotional depth.', poster: 'https://via.placeholder.com/42x60?text=Interstellar' },
+              { title: 'Arrival', description: 'A thoughtful story about language and time.', poster: 'https://via.placeholder.com/42x60?text=Arrival' },
+              { title: 'Blade Runner 2049', description: 'A stylish and atmospheric futuristic mystery.', poster: 'https://via.placeholder.com/42x60?text=Blade' }
+            ]
+          };
+        }
+
+        return {
+          text: 'I can help with recommendations, trending picks, or movie-style suggestions. Try asking for a genre or a movie you already like.',
+          recommendations: []
+        };
+      }
+
+      chatToggle.addEventListener('click', () => {
+        const isOpen = chatPanel.hidden;
+        setChatOpen(isOpen);
+      });
+
+      chatClose.addEventListener('click', () => setChatOpen(false));
+
+      chatForm.addEventListener('submit', (event) => {
+        event.preventDefault();
+        const value = chatInput.value.trim();
+        if (!value) return;
+
+        addMessage('user', value);
+        chatInput.value = '';
+
+        window.setTimeout(() => {
+          const reply = getReply(value);
+          addMessage('assistant', reply.text, reply.recommendations);
+        }, 500);
+      });
+
+      newChatBtn.addEventListener('click', () => {
+        chatBody.innerHTML = '';
+        addMessage('assistant', 'New chat started. What kind of movie would you like next?');
+      });
+
+      resizeHandle.addEventListener('mousedown', (event) => {
+        event.preventDefault();
+        const startX = event.clientX;
+        const startY = event.clientY;
+        const startWidth = chatPanel.offsetWidth;
+        const startHeight = chatPanel.offsetHeight;
+
+        // Inverted drag: moving pointer left/up increases panel size,
+        // moving right/down decreases it (reverse of prior behavior).
+        const handleMove = (moveEvent) => {
+          const dx = moveEvent.clientX - startX;
+          const dy = moveEvent.clientY - startY;
+          const nextWidth = Math.max(300, startWidth - dx);
+          const nextHeight = Math.max(320, startHeight - dy);
+          chatPanel.style.width = `${nextWidth}px`;
+          chatPanel.style.height = `${nextHeight}px`;
+        };
+
+        const handleUp = () => {
+          window.removeEventListener('mousemove', handleMove);
+          window.removeEventListener('mouseup', handleUp);
+        };
+
+        window.addEventListener('mousemove', handleMove);
+        window.addEventListener('mouseup', handleUp);
+      });
+    </script>
+  </body>
+</html>
