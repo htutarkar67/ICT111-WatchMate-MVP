@@ -1,1 +1,85 @@
+flowchart LR
 
+%% ===========================
+%% Client
+%% ===========================
+
+subgraph Client
+    U[User]
+    A[Administrator]
+    B[Web Browser]
+end
+
+U --> B
+A --> B
+
+%% ===========================
+%% Frontend
+%% ===========================
+
+subgraph Frontend["WatchMate Frontend"]
+    H[Homepage]
+    S[Movie Search]
+    C[AI Chatbot]
+    D[Movie Details]
+    W[Watchlist]
+    CH[Chat History]
+    AD[Admin Dashboard]
+end
+
+B --> H
+H --> S
+H --> C
+S --> D
+C --> D
+D --> W
+C --> CH
+A --> AD
+
+%% ===========================
+%% Backend
+%% ===========================
+
+subgraph Backend["WatchMate Backend (Node.js / Express)"]
+    API[REST API Server]
+    AUTH[Authentication]
+    CHAT[Chat Service]
+    MOVIE[Movie Service]
+end
+
+H --> API
+S --> API
+C --> API
+D --> API
+W --> API
+CH --> API
+AD --> API
+
+API --> AUTH
+API --> CHAT
+API --> MOVIE
+
+%% ===========================
+%% External Services
+%% ===========================
+
+subgraph External
+    TMDB[TMDB API]
+    AI[Google Gemini API]
+end
+
+MOVIE --> TMDB
+CHAT --> AI
+
+%% ===========================
+%% Database
+%% ===========================
+
+subgraph Database
+    DB[(SQLite Database)]
+end
+
+AUTH --> DB
+CHAT --> DB
+MOVIE --> DB
+AD --> DB
