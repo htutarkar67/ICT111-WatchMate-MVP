@@ -339,6 +339,16 @@ WatchMate: AI Movie Recommendation System
 
 ---
 
+## Contributions
+
+- [x] Created the MVP experiment plan.
+- [x] Updated the critical assumptions and success metrics.
+- [x] Prepared the experiment script and feedback form.
+- [x] Improved the interactive prototype and MVP demonstration materials.
+- Evidence/Commit/Issue Link: https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/
+
+---
+
 ## Key Decisions
 
 | Decision | Reason | Evidence/Requirement Link |
