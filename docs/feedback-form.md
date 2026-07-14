@@ -24,7 +24,7 @@ Rate from **1 = Strongly Disagree** to **5 = Strongly Agree**.
 The AI chatbot provided personalized movie recommendations quickly and was easy to use.
 
 **2. What was confusing?**  
-I wasn't sure what kind of prompts or movie descriptions I should enter into the chatbot.
+It wasn't clear what information I should enter to receive better movie recommendations.
 
 **3. What information was missing?**  
 Example chatbot prompts or suggested questions for first-time users.
