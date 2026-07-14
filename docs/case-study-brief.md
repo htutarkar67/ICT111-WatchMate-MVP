@@ -26,7 +26,9 @@ WatchMate is a web-based AI movie recommendation platform that enables users to 
 
 This lab focuses on designing the user interface and wireframes for WatchMate based on the user persona, system requirements, and user stories developed in previous labs. The wireframes will demonstrate the complete user journey from interacting with the AI chatbot to receiving personalized movie recommendations and viewing movie details, ensuring the design aligns with the project's MVP features.
 
-# Lab 06: WatchMate - AI Movie Recommendation System
+---
+
+# Lab 06 Case Brief
 
 ## Case Context
 
@@ -34,15 +36,21 @@ With the increasing number of movies and TV shows available across multiple stre
 
 The WatchMate prototype allows users to interact with an AI chatbot, describe their movie preferences through natural conversation, receive personalized recommendations, browse trending movies, view movie details, and access previous chatbot conversations. The interactive prototype will be used to evaluate the usability of the system and identify areas for improvement.
 
+---
+
 ## Target Users
 
 - Movie viewers looking for personalized movie recommendations.
 - Students and busy individuals who want to find movies quickly.
 - Administrators who monitor chatbot conversations and recommendation usage.
 
+---
+
 ## Product Direction
 
 WatchMate is a web-based AI movie recommendation platform that enables users to interact with an AI chatbot to discover personalized movie recommendations. The prototype demonstrates the complete user journey, including chatting with the AI, receiving recommendations, viewing movie details, browsing trending movies, and reviewing previous conversations. Administrators can monitor chatbot interactions and recommendation usage.
+
+---
 
 ## Lab 06 Focus
 
