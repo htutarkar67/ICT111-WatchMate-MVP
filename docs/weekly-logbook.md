@@ -316,3 +316,10 @@ WatchMate: AI Movie Recommendation System
 - Develop the admin dashboard for viewing user chat history and chatbot usage.
 - Continue testing and debugging the prototype before the next lab session.
 
+# Weekly Logbook - Lab 07
+
+## Group Information
+- Group name: WatchMate
+- Project title: AI Movie Recommendation System
+- Date: 15 Jul 2026
+
