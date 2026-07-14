@@ -266,3 +266,59 @@ The MVP feature list, system requirements, and user stories define the developme
 
 Additional features such as advanced AI personalization, recommendation analytics, and streaming platform integration will be considered in future versions after the MVP has been successfully completed.
 
+# Lab 07: MVP Experiment Design
+
+## Lab 07 Summary
+
+In Lab 07, our team planned an MVP experiment to evaluate whether WatchMate is easy to use and provides a smooth movie recommendation experience. Before continuing development, we wanted to collect feedback from potential users and identify areas for improvement.
+
+## Experiment Objective
+
+The goal of this experiment is to test whether:
+
+- Users can interact with the AI chatbot naturally.
+- Users can receive personalized movie recommendations based on their preferences.
+- Users can easily view movie details and browse trending movies.
+- The prototype is simple, intuitive, and easy to navigate.
+
+## MVP Experiment Type
+
+**Selected Experiment Type:** Interactive Clickable Prototype
+
+**Reason:**  
+Our prototype is an interactive frontend application designed to simulate the AI movie recommendation workflow. It allows users to complete the main tasks and provides an effective way to evaluate usability before developing the full system.
+
+## Critical Assumptions
+
+During the experiment, we will validate the following assumptions:
+
+- Users prefer AI-powered movie recommendations over manually searching multiple platforms.
+- Users can easily communicate their movie preferences through the chatbot.
+- Users understand and trust the personalized recommendations provided.
+- Users can navigate the system without additional instructions.
+
+## Success Metrics
+
+The experiment will be considered successful if:
+
+- Most users complete the assigned tasks successfully.
+- Users can interact with the chatbot without confusion.
+- Users can receive and view personalized movie recommendations.
+- Users rate the prototype as useful, easy to use, and helpful for finding movies.
+- Feedback helps us identify improvements for the next version.
+
+## Files Added in Lab 07
+
+- `docs/mvp-experiment-plan.md`
+- `docs/critical-assumptions.md`
+- `docs/experiment-script.md`
+- `docs/success-metrics.md`
+- `docs/feedback-form.md`
+- `docs/weekly-logbook.md`
+
+## Connection to the Final Prototype
+
+The results from this experiment will help us improve WatchMate before implementation. User feedback will be used to refine the chatbot interaction, improve the recommendation workflow, enhance the user interface, and ensure the final prototype provides an effective and personalized movie recommendation experience.
+
+---
+
