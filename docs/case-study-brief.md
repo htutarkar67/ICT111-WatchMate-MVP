@@ -56,6 +56,8 @@ WatchMate is a web-based AI movie recommendation platform that enables users to 
 
 This lab focuses on developing an interactive prototype based on the wireframes created in Lab 05. The prototype will be used for usability testing to evaluate navigation, user interactions, and the overall user experience before implementation.
 
+---
+
 # Lab 07 Case Study Brief: WatchMate - AI Movie Recommendation System
 
 ## Problem Context
