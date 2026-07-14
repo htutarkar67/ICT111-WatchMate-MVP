@@ -94,5 +94,3 @@ Users will prefer an AI-powered conversational movie recommendation system becau
 - AI chatbot simulation
 
 ---
-
-
