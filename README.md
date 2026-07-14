@@ -266,6 +266,8 @@ The MVP feature list, system requirements, and user stories define the developme
 
 Additional features such as advanced AI personalization, recommendation analytics, and streaming platform integration will be considered in future versions after the MVP has been successfully completed.
 
+---
+
 # Lab 07: MVP Experiment Design
 
 ## Lab 07 Summary
