@@ -55,3 +55,42 @@ WatchMate is a web-based AI movie recommendation platform that enables users to 
 ## Lab 06 Focus
 
 This lab focuses on developing an interactive prototype based on the wireframes created in Lab 05. The prototype will be used for usability testing to evaluate navigation, user interactions, and the overall user experience before implementation.
+
+# Lab 07 Case Study Brief: WatchMate - AI Movie Recommendation System
+
+## Problem Context
+
+Many users spend considerable time deciding what movie or TV show to watch because existing recommendation methods are often generic and require searching across multiple platforms. Current alternatives include browsing streaming services, reading online reviews, searching social media, or asking friends for recommendations. These approaches are often inefficient and may not provide recommendations that match a user's preferences.
+
+WatchMate aims to simplify the movie discovery process by providing an AI-powered chatbot that delivers personalized movie recommendations through natural language conversations. Before further development, the team needs to validate whether users find this approach useful, easy to use, and more efficient than their current methods.
+
+---
+
+## Practice Purpose
+
+This case study is used to validate the core assumptions of WatchMate through MVP testing. The team will evaluate whether users can successfully complete key tasks using the interactive prototype and whether the proposed solution effectively addresses the identified problem.
+
+---
+
+## Example MVP Experiment Direction
+
+The team wants to test whether users can successfully interact with the AI chatbot, describe their movie preferences, receive personalized recommendations, view movie details, and complete the recommendation process using the interactive prototype.
+
+---
+
+## Example Critical Assumption
+
+Users will prefer an AI-powered conversational movie recommendation system because it provides faster, more personalized, and more convenient movie recommendations than existing methods such as browsing streaming platforms or asking friends.
+
+---
+
+## Example Experiment Type
+
+- Interactive clickable prototype
+- Task-based usability testing
+- Think-aloud usability testing
+- AI chatbot simulation
+
+---
+
+
