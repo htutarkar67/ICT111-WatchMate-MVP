@@ -316,10 +316,35 @@ WatchMate: AI Movie Recommendation System
 - Develop the admin dashboard for viewing user chat history and chatbot usage.
 - Continue testing and debugging the prototype before the next lab session.
 
+---
+
 # Weekly Logbook - Lab 07
 
 ## Group Information
 - Group name: WatchMate
 - Project title: AI Movie Recommendation System
 - Date: 15 Jul 2026
+- GitHub repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
 
+---
+
+## What We Completed Today
+
+- [x] Reviewed project requirements, user stories, MVP features, and interactive prototype
+- [x] Identified critical assumptions for AI-powered movie recommendations
+- [x] Selected MVP experiment type
+- [x] Defined target users and success metrics
+- [x] Prepared experiment script and user feedback form
+- [x] Updated GitHub repository and README
+
+---
+
+## Key Decisions
+
+| Decision | Reason | Evidence/Requirement Link |
+|---|---|---|
+| Selected Interactive Clickable Prototype for MVP Experiment | Allows users to test the complete AI movie recommendation workflow before full implementation. | `docs/mvp-experiment-plan.md` |
+| Included AI Chatbot Conversation as the Core User Flow | Validates whether users can easily describe their movie preferences and receive personalized recommendations. | `docs/critical-assumptions.md`, `docs/user-stories.md` |
+| Prepared Quantitative and Qualitative Feedback Form | Measures task completion, usability, recommendation relevance, and overall user satisfaction during MVP testing. | `docs/feedback-form.md`, `data/feedback-form.csv` |
+
+---
