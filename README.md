@@ -321,4 +321,3 @@ The experiment will be considered successful if:
 The results from this experiment will help us improve WatchMate before implementation. User feedback will be used to refine the chatbot interaction, improve the recommendation workflow, enhance the user interface, and ensure the final prototype provides an effective and personalized movie recommendation experience.
 
 ---
-
