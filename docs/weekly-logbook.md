@@ -364,6 +364,6 @@ WatchMate: AI Movie Recommendation System
 | Problem | Next Action |
 |---|---|
 | The interactive prototype currently simulates AI responses and does not generate real-time personalized movie recommendations. | Integrate AI recommendation logic and connect the chatbot to a movie database to provide dynamic and personalized recommendations. |
-| Some users found the chatbot prompts and navigation flow slightly confusing during usability testing. | Refine the chatbot conversation flow, improve navigation labels, simplify the interface, and update the prototype based on user feedback. |
+| Some users found the chatbot prompts and navigation flow slightly confusing during usability testing. | Refine the chatbot conversation flow, improves navigation labels, simplify the interface, and update the prototype based on user feedback. |
 
 ---
