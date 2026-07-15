@@ -35,7 +35,7 @@ We developed an interactive frontend prototype that simulates the AI-powered mov
 | Students | 4 | They are the primary target users who frequently watch movies and need quick, personalized recommendations. |
 | Movie Viewers | 1 | They represent users who regularly search for movies and can evaluate the usefulness of the recommendation experience. |
 
-## 6. Experiment Procedure Summary
+## 6. Experiment Procedure Summaries
 
 1. Provide testers with access to the interactive prototype.
 2. Ask users to explore the homepage and understand the purpose of WatchMate.
