@@ -65,7 +65,7 @@ Record any observations while the tester performs the tasks.
   Some chatbot prompts and the navigation between Trending Movies and Chat History.
 
 - **Which feature was most useful?**  
-  The AI-powered personalized movie recommendations.
+  The AI-powered movie recommendations.
 
 - **What should be improved before the final prototype?**  
   Add suggested chatbot prompts, provide explanations for recommendations, improve navigation labels, and enhance the chatbot conversation flow.
