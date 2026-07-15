@@ -27,7 +27,7 @@ The AI chatbot provided personalized movie recommendations quickly and was easy 
 It wasn't clear what information I should enter to receive better movie recommendations.
 
 **3. What information was missing?**  
-Example chatbot prompts or suggested questions for first-time users.
+Example chatbot prompts or suggested questions for first-time user.
 
 **4. What should the team improve before the final prototype?**  
 Add example prompts, improve the explanation of why movies are recommended, and make navigation between pages more intuitive.
