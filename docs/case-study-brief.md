@@ -86,7 +86,7 @@ Users will prefer an AI-powered conversational movie recommendation system becau
 
 ---
 
-## Example Experiment Type
+## Example Experiment Types
 
 - Interactive clickable prototype
 - Task-based usability testing
