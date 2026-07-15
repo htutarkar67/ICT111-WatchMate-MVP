@@ -211,7 +211,7 @@ All team members contributed to the development of **WatchMate** using the share
 
 ## Lab 06 Summary
 
-In Lab 06, our group connected the product concept, system requirements, user stories, MVP feature list, and UI/UX wireframes into a complete business model and technical architecture for **WatchMate: AI Movie Recommendation System**. We also designed the system's data structure and architecture diagrams to guide the implementation of the final prototype.
+In Lab 06, our group connected the product concept, system requirements, user stories, MVP feature lists, and UI/UX wireframes into a complete business model and technical architecture for **WatchMate: AI Movie Recommendation System**. We also designed the system's data structure and architecture diagrams to guide the implementation of the final prototype.
 
 ---
 
