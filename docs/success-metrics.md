@@ -17,5 +17,5 @@
 | Result | Decision |
 |---|---|
 | All metrics meet the target | Finalize the prototype design and proceed to full system development, including AI integration. |
-| Some metrics fail | Improve the user interface, chatbot conversation flow, navigation, or recommendation experience, then conduct another round of usability testing. |
+| Some metrics fail | Improve the user interface, chatbot conversation flow, navigation,or recommendation experience, then conduct another round of usability testing. |
 | Most metrics fail | Revisit the core requirements, user stories, and user needs before making significant changes to the prototype. |
