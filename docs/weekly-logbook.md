@@ -374,7 +374,7 @@ WatchMate: AI Movie Recommendation System
 - Group name: WatchMate
 - Project title: AI Movie Recommendation System
 - Repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
-- Lab date: 16 Jul 2026
+- Date: 16 Jul 2026
 
 ## Work Completed Today
 
