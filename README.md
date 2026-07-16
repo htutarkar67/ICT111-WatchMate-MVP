@@ -16,8 +16,7 @@ WatchMate
 |---|---|---|---|
 | 6604128 | Tar Yar Lin Latt | Product Lead | Define problems, target users, and project direction |
 | 6703933 | Bhone Myat Kyaw | Technical Lead | Manage repository and develop the prototype |
-| 6704756 | Htut Arkar Saing | UX/UI Lead | Design the user interface |
-| 6709705 | Adisak Sengsouvanh | Documentation Lead | Maintain project documentation |
+| 6704756 | Htut Arkar Saing | UX/UI & Documentation Lead | Design the user interface, and maintain project documentation |
 
 ## Initial Problem Area
 Many movie viewers experience difficulty finding movies that match their interests and preferences. The increasing number of movies available on streaming platforms often causes users to spend excessive time searching for content. Existing recommendation systems may not always provide personalized suggestions that align with users' specific tastes and viewing habits.
