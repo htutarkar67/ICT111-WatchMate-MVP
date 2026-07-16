@@ -326,7 +326,17 @@ The results from this experiment will help us improve WatchMate before implement
 ## Lab 08: Customer Validation and Analytics Sheet
 
 ### Validation Objective
+Evaluated the usability, task completion, and user satisfaction of WatchMate's core features, including interacting with the AI chatbot, receiving personalized movie recommendations, viewing movie details, browsing trending movies, and accessing chat history.
 
+### Analytics Summary
+
+| Metric | Result |
+|---|---:|
+| Total test users | |
+| Task success rate | |
+| Average feedback score | |
+| Average interest level | |
+| Main confusion point | AI chatbot prompts and navigation between Chat History and Trending Movies |
 
 ### Files Added / Updated
 - `data/validation-results.csv`
