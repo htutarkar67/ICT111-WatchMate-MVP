@@ -322,3 +322,18 @@ The experiment will be considered successful if:
 The results from this experiment will help us improve WatchMate before implementation. User feedback will be used to refine the chatbot interaction, improve the recommendation workflow, enhance the user interface, and ensure the final prototype provides an effective and personalized movie recommendation experience.
 
 ---
+
+## Lab 08: Customer Validation and Analytics Sheet
+
+### Validation Objective
+
+
+### Files Added / Updated
+- `data/validation-results.csv`
+- `data/test-users.csv`
+- `docs/customer-validation-summary.md`
+- `docs/analytics-insights.md`
+- `docs/mvp-decision.md`
+- `docs/test-user-notes.md`
+- `docs/weekly-logbook.md`
+- `screenshots/project-dashboard.png`
