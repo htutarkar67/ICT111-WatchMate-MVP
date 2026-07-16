@@ -367,3 +367,17 @@ WatchMate: AI Movie Recommendation System
 | Some users found the chatbot prompts and navigation flow slightly confusing during usability testing. | Refine the chatbot conversation flow, improves navigation labels, simplify the interface, and update the prototype based on user feedback. |
 
 ---
+
+# Weekly Logbook - Lab 08
+
+## Group Information
+- Group name: WatchMate
+- Project title: AI Movie Recommendation System
+- Repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
+- Lab date: 16 Jul 2026
+
+## Work Completed Today
+
+## Problems Found
+
+## Next Actions
