@@ -58,13 +58,13 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 2. Discussed multiple venture ideas and evaluated their feasibility, user demand, and technical requirements.
 3. Applied NUF (Need, Uniqueness, Feasibility) scoring to compare the proposed ideas.
 4. Selected **WatchMate - Movie Recommendation System** as the final project opportunity.
-5. Updated project documentation and recorded the team's decision.
+5. Updated project documentation and recorded the team's decisions.
 
 ### Selected Opportunity
 
 **WatchMate - Movie Recommendation System**
 
-WatchMate is a web-based platform that helps users discover movies based on their preferences, favorite genres, ratings, and viewing history. The system aims to reduce the time users spend searching for movies and improve their overall movie discovery experience.
+WatchMate is a web-based platform that helps users discover movies based on their preferences, favorite genres, ratings, and viewing history. The system aims to reduce the time user spend searching for movies and improve their overall movies discovery experience.
 
 ### Why It Was Selected (NUF Scoring)
 
