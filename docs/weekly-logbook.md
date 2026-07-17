@@ -43,7 +43,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 
 1. Conduct opportunity analysis and problem identification related to movie recommendation services.
 
-2. Research existing movie recommendation platforms and identify their strengths and weaknesses.
+2. Research existing movie recommendation platform and identify their strengths and weaknesses.
 
 3. Prepare customer validation questions and collect initial feedback from potential users.
 
