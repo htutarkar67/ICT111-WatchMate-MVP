@@ -41,7 +41,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 
 ### Plan for Next Week
 
-1. Conduct opportunity scanning and problem identification related to movie recommendation services.
+1. Conduct opportunity analysis and problem identification related to movie recommendation services.
 
 2. Research existing movie recommendation platforms and identify their strengths and weaknesses.
 
