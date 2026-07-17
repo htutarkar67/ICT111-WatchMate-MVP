@@ -131,7 +131,7 @@ Although the idea helps users manage movies they want to watch, it mainly focuse
 
 ## Problems or Difficulties
 
-**Formulating Neutral Questions:** It was challenging to create interview questions that focused on understanding user behavior without influencing their responses.
+**Formulating Neutral Questions:** It was challenging to develop interview questions that focused on understanding user behavior without influencing their responses.
 
 **Scheduling Coordination:** Coordinating interview times with respondents and team members required careful planning and communication.
 
