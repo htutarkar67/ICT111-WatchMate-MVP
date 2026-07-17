@@ -21,4 +21,4 @@
 | T017 (U017) | Movie Enthusiast | Got recommendations based on mood | None | Mood selection improved recommendation quality. | FR-03 |
 | T018 (U018) | Student | Watched a movie trailer | None | Watching the trailer helped me decide what to watch. | FR-06 |
 | T019 (U019) | Administrator | Viewed user chat history  | None | Dashboard analytics and chat history were easy to access. | FR-12 |
-| T020 (U020) | Student | Logged in and used the AI chatbot | None | The chatbot interaction was smooth after login. | FR-03 |
+| T020 (U020) | Student | Asked AI for movie recommendations | None | The chatbot interaction was smooth after login. | FR-03 |
