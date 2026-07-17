@@ -19,7 +19,7 @@ WatchMate
 | 6704756 | Htut Arkar Saing | UX/UI & Documentation Lead | Design users interface, and maintain project documentation |
 
 ## Initial Problem Area
-Many movie viewers experience difficulty finding movies that match their interests and preferences. The increasing number of movies available on streaming platforms often causes users to spend excessive time searching for content. Existing recommendation systems may not always provide personalized suggestions that align with users' specific tastes and viewing habits.
+Many movie viewers experience difficulty finding movies that match their interests and preferences. The increasing number of movies available on streaming platforms often causes users to spend excessive time searching for content. Existing recommendation systems may not always provide personalized suggestions that align with users' specific tastes and viewing habit.
 
 ## Target Users
 The primary target users are university students, young adults, and movie enthusiasts who regularly watch movies through online streaming platforms. These users are interested in discovering new movies quickly and receiving recommendations based on their personal preferences and favorite genres.
