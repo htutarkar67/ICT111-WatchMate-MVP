@@ -51,7 +51,7 @@ The team plans to develop a web-based movie recommendation platform called Movie
 | Lab 02 | Opportunity Scanning & Selection | Reviewed several project ideas, applied NUF scoring, and selected the Movie Recommendation System. | Completed |
 
 ## Current Status
-During Lab 1, the team created the project repository, selected the Movie Recommendation System idea, identified the target users and problem area, and assigned team roles. The initial project structure was also prepared.
+During Lab 1, the team established the project repository, selected the Movie Recommendation System idea, identified the target users and problem area, and assigned team roles. The initial project structure was also prepared.
 
 ### Current Status
 
