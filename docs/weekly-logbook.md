@@ -79,7 +79,7 @@ WatchMate is a web-based platform that helps users discover movies based on thei
 
 **Smart Movie Watchlist Manager**
 
-Although the idea helps users organize movies they want to watch, it mainly focuses on saving and tracking movies rather than helping users discover new content. The team decided that WatchMate provides greater value by combining movie discovery, personalization, and recommendation features.
+Although the idea helps users manage movies they want to watch, it mainly focuses on saving and tracking movies rather than helping users discover new content. The team decided that WatchMate provides greater value by combining movie discovery, personalization, and recommendation features.
 
 ### Plan for Lab 03
 
