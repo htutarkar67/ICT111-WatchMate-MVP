@@ -24,8 +24,7 @@ What did users do, say, and prove when testing the WatchMate MVP?
 
 2. **AI Chatbot Was the Most Valuable Feature:** The AI chatbot received the highest number of positive responses and was considered the most useful feature. Users appreciated receiving personalized movie recommendations through natural language conversations instead of manually browsing large movie collections.
 
-3. **Minor Navigation Improvements Are Needed:** Although testers completed every task successfully, a few experienced minor delays when navigating between Chat History, Trending Movies, and Movie Details. These observations indicate opportunities to improve navigation and provide better guidance for first-time users.
-
+3. **Minor Navigation Improvements Are Needed:** Although all testers successfully completed the assigned tasks, a few experienced minor delays when navigating between Chat History, Trending Movies, and Movie Details. These results indicate areas for improving navigation and enhancing guidance for first-time users.
 ---
 
 ## 4. Interpretation
