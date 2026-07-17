@@ -330,7 +330,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 
 ### Prototype Version Tested
 - **Version:** v1
-- **Screenshots:** [screenshots/project-dashboard.png](screenshots/project-dashboard.png)
+- **Screenshots:** [screenshots/project-dashboard.png](https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/a20adb7f7e495e33ac4876cae36e12b8747418cd/screenshots/project-dashboard.md)
 
 ### Analytics Summary
 
