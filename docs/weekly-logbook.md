@@ -4,7 +4,7 @@
 
 ### What We Completed
 
-1. Created the GitHub repository for the project and invited all team members to collaborate.
+1. Created the GitHub repository for the projects and invited all team members to collaborate.
 
 2. Created the initial project structure, including the README.md file and documentation folder.
 
