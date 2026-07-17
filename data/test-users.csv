@@ -1,1 +1,6 @@
-
+tester_code,tester_type,user_role,movie_experience,reason_selected
+T01,Student,Undergraduate,Frequently watches movies,Primary target user
+T02,Student,Undergraduate,Uses streaming platforms regularly,Can evaluate movie search and recommendation features
+T03,Student,International Student,Watches movies occasionally,Can evaluate chatbot usability and clarity
+T04,Administrator,System Administrator,Monitors user activity,Can evaluate admin dashboard and chat history features
+T05,Movie Enthusiast,Community Member,Regularly explores new movies,Can evaluate recommendation quality and movie details
