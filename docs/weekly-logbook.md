@@ -222,7 +222,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 ## 3. Requirement Changes / Clarifications
 
 * The project was updated from a traditional movie recommendation system to an AI-powered movie recommendation chatbot.
-* Admin users will not manage movie records.
+* Admin users will not maintain movie records.
 * Admin functionality will focus on viewing user chat history and chatbot usage data.
 * The chatbot will be the primary method for generating movie recommendations.
 
