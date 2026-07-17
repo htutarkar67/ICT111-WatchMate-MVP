@@ -183,7 +183,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 **Primary target user:**
 
-* Movie viewers who struggle to find suitable movies quickly.
+* Movie viewers who find it difficult to find suitable movies quickly.
 
 **Main persona:**
 
