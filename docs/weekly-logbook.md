@@ -385,6 +385,20 @@ WatchMate: AI Movie Recommendation System
 - [x] Wrote MVP decision
 - [x] Updated README
 
+## Contributions
+- Prepared validation dataset (`data/validation-results.csv`) and created GitHub issues for prototype improvements
+- Calculated usability metrics and authored `docs/analytics-insights.md`
+- Authored `docs/customer-validation-summary.md` and synthesized qualitative user feedback
+- Formulated decision rationale in `docs/mvp-decision.md` and updated `README.md`
+
 ## Problems Found
+- **Recommendation Response Time**: A few testers experienced minor delays when generating AI movie recommendations (`FR-03`).
+- **Search Functionality**: Users requested additional search filters such as genre, release year, and language (`FR-04`).
+- **Recommendation Personalization**: Some users suggested more personalized recommendations based on their viewing preferences (`FR-03`).
+- **Chat History Navigation**: A small number of users found it difficult to quickly access previous AI chat history (`FR-12`).
 
 ## Next Actions
+- Optimize the AI recommendation engine to reduce response time (`FR-03`).
+- Add advanced search filters including genre, release year, language, and rating (`FR-04`).
+- Improve recommendation accuracy by incorporating user watch history and preferences (`FR-03`).
+- Enhance chat history navigation for easier access and better usability (`FR-12`).
