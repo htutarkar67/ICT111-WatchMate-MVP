@@ -101,8 +101,7 @@ Movie viewers often struggle to find movies that match their interests because s
 
 Decision for Next Step
 
-The team has decided to proceed with the current problem direction and continue developing the WatchMate Movie Recommendation System based on validated customer evidence.
-
+The team has decided to continue with the current problem direction and further develop the WatchMate Movie Recommendation System based on validated customer evidence.
 # Lab 04: User Persona, Requirements, and User Stories
 
 ## Primary Target User
