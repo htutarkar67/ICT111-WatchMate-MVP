@@ -236,8 +236,7 @@ The frontend will provide an interactive interface where users can browse trendi
 
 ## Final Prototype Connection
 
-The documentation and planning completed during Lab 06 serve as the foundation for developing the final WatchMate prototype.
-
+The documentation and planning completed during Lab 06 provide the foundation for developing the final WatchMate prototype.
 ### UI/UX Translation
 
 The completed wireframes—including the homepage, AI chatbot, search results, movie detail page, watchlist, chat history, and admin dashboard—provide clear visual specifications for the final user interface. These wireframes guide the implementation of the React frontend and ensure a consistent user experience.
