@@ -344,9 +344,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 
 ### MVP Decision
 
-**Continue with minor revisions.**
-
-The MVP direction is validated by positive customer feedback and a **100% task completion rate**. Most users successfully completed the required tasks and found the AI chatbot useful for discovering movies. The team will implement the following improvements before the next iteration:
+**Continue with minor revisions.** The MVP direction is validated by positive customer feedback and a **100% task completion rate**. Most users successfully completed the required tasks and found the AI chatbot useful for discovering movies. The team will implement the following improvements before the next iteration:
 
 1. **Improve AI Chatbot Prompts (FR-03):** Add example prompts and suggested questions to help first-time users start conversations.
 2. **Explain Movie Recommendations (FR-05):** Display a brief explanation of why each movie is recommended based on the user's preferences.
