@@ -52,7 +52,7 @@ WatchMate – AI Movie Recommendation System
 | FR-04 | Users completed movie searches successfully but requested smarter search suggestions. | Add autocomplete and improve keyword matching. |
 | FR-05 | Personalized recommendations were well received, but users wanted recommendation explanations. | Display a brief explanation for each recommended movie. |
 | FR-06 | Movie details were useful, but important informations could be emphasized better. | Improve the layout of ratings, genres, trailers, and streaming information. |
-| FR-12 | Administrators successfully monitored chatbot activity but requested clearer dashboard analytics. | Improve dashboard charts and analytics visualization. |
+| FR-12 | Administrators effectively monitored chatbot activity but requested improved dashboard analytics. | Improve dashboard charts and analytics visualization. |
 
 ## 8. Conclusion
 
