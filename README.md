@@ -326,17 +326,33 @@ The results from this experiment will help us improve WatchMate before implement
 ## Lab 08: Customer Validation and Analytics Sheet
 
 ### Validation Objective
-Evaluated the usability, task completion, and user satisfaction of WatchMate's core features, including interacting with the AI chatbot, receiving personalized movie recommendations, viewing movie details, browsing trending movies, and accessing chat history.
+Evaluated the usability, task completion, and user satisfaction of WatchMate's core features, including interacting with the AI chatbot, receiving personalized movie recommendations, viewing movie details, browsing trending movies, managing watchlists, and accessing previous chat history.
+
+### Prototype Version Tested
+- **Version:** v1
+- **Screenshots:** [screenshots/project-dashboard.png](screenshots/project-dashboard.png)
 
 ### Analytics Summary
 
 | Metric | Result |
 |---|---:|
-| Total test users | |
-| Task success rate | |
-| Average feedback score | |
-| Average interest level | |
+| Total test users | 20 Testers (T001 - T020) |
+| Task success rate | **100.00% (20 / 20)** |
+| Average ease of use | **4.65 / 5.0** |
+| MVP decision signal | **80% Keep, 20% Improve** |
 | Main confusion point | AI chatbot prompts and navigation between Chat History and Trending Movies |
+
+### MVP Decision
+
+**Continue with minor revisions.**
+
+The MVP direction is validated by positive customer feedback and a **100% task completion rate**. Most users successfully completed the required tasks and found the AI chatbot useful for discovering movies. The team will implement the following improvements before the next iteration:
+
+1. **Improve AI Chatbot Prompts (FR-03):** Add example prompts and suggested questions to help first-time users start conversations.
+2. **Explain Movie Recommendations (FR-05):** Display a brief explanation of why each movie is recommended based on the user's preferences.
+3. **Improve Navigation (FR-07, FR-08):** Make the Trending Movies, Watchlist, and Chat History menus easier to locate and understand.
+4. **Enhance Movie Detail Page (FR-06):** Highlight ratings, genres, streaming platforms, and trailers for quicker decision-making.
+5. **Optimize Watchlist Feature (FR-09):** Make it easier for users to save and manage favorite movies.
 
 ### Files Added / Updated
 - `data/validation-results.csv`
