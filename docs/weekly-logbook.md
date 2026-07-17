@@ -64,7 +64,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 
 **WatchMate - Movie Recommendation System**
 
-WatchMate is a web-based platform that helps users discover movies based on their preferences, favorite genres, ratings, and viewing history. The system aims to reduce the time user spend searching for movies and improve their overall movies discovery experience.
+WatchMate is a web-based platforms that helps users discover movies based on their preferences, favorite genres, ratings, and viewing history. The system aims to reduce the time user spend searching for movies and improve their overall movies discovery experience.
 
 ### Why It Was Selected (NUF Scoring)
 
