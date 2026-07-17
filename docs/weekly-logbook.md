@@ -232,7 +232,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 **Technical problem:**
 
-* Determining how to integrate AI chatbot recommendations into the prototype.
+*Identifying how to integrate AI chatbot recommendations into the prototype.
 
 **Team coordination problem:**
 
