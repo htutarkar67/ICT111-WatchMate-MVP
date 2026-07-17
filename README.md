@@ -97,7 +97,7 @@ Through interviews and surveys, we discovered several important insights:
 * Users want personalized suggestions: Respondents preferred recommendations based on their favorite genres, actors, and viewing preferences.
 Updated Problem Statement
 
-Movie viewers often struggle to find movies that match their interests because streaming platforms offer a large number of choices. Existing recommendation methods, including social media, online reviews, and platform-generated suggestions, are often time-consuming or insufficiently personalized. As a result, users experience frustration, decision fatigue, and difficulty discovering suitable movies.
+Movie viewers often struggle to find movies that match their interests because streaming platforms offer a vast number of choices. Existing recommendation methods, including social media, online reviews, and platform-generated suggestions, are often time-consuming or insufficiently personalized. As a result, users experience frustration, decision fatigue, and difficulty discovering suitable movies.
 
 Decision for Next Step
 
