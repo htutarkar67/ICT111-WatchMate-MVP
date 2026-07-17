@@ -1,1 +1,21 @@
-
+TestID,TestDate,TestUserID,UserRole,DeviceType,PrototypeVersion,TaskName,TaskCompleted,CompletionTimeSeconds,EaseOfUseScore,UsefulnessScore,ConfusionPoint,MostUsefulFeature,WouldUseAgain,InterestLevel,RequirementID,MVPDecisionSignal,Notes
+T001,2026-07-20,U001,Student,Mobile,v1,Ask AI for movie recommendations,Yes,85,5,5,Minor delay,AI Chatbot,Yes,5,FR-03,Keep,Completed AI recommendation successfully.
+T002,2026-07-20,U002,Student,Laptop,v1,Search movie by title,Yes,72,5,5,None,Movie Search,Yes,5,FR-04,Keep,Movie search was fast and accurate.
+T003,2026-07-20,U003,Student,Mobile,v1,View movie details,Yes,68,5,5,None,Movie Details,Yes,5,FR-06,Keep,Movie information was clear and complete.
+T004,2026-07-20,U004,Casual Viewer,Mobile,v1,Browse trending movies,Yes,65,4,4,None,Trending Movies,Yes,4,FR-05,Keep,Trending movies were interesting.
+T005,2026-07-21,U005,Student,Laptop,v1,Save movie to watchlist,Yes,58,4,5,None,Watchlist,Yes,5,FR-05,Keep,Watchlist feature was easy to use.
+T006,2026-07-21,U006,Student,Mobile,v1,View previous chat history,Yes,60,4,4,Minor delay,Chat History,Yes,4,FR-05,Improve,Chat history loaded slightly slowly.
+T007,2026-07-21,U007,Movie Enthusiast,Desktop,v1,Get recommendations based on mood,Yes,90,5,5,None,AI Chatbot,Yes,5,FR-03,Keep,Mood-based recommendations matched expectations.
+T008,2026-07-21,U008,Student,Laptop,v1,Watch movie trailer,Yes,70,5,5,None,Trailer Feature,Yes,5,FR-06,Keep,Trailer loaded successfully.
+T009,2026-07-22,U009,Student,Mobile,v1,Login and use AI chatbot,Yes,55,5,5,None,User Login,Yes,5,FR-02,Keep,Login process was simple.
+T010,2026-07-22,U010,Administrator,Desktop,v1,View user chat history,Yes,82,4,5,None,Admin Dashboard,Yes,5,FR-12,Keep,Dashboard analytics were easy to understand.
+T011,2026-07-22,U011,Student,Mobile,v1,Ask AI for movie recommendations,Yes,87,4,5,Minor delay,AI Chatbot,Yes,5,FR-03,Improve,Expected faster chatbot response.
+T012,2026-07-22,U012,Casual Viewer,Laptop,v1,Search movie by title,Yes,75,5,5,None,Movie Search,Yes,5,FR-04,Keep,Search suggestions were useful.
+T013,2026-07-23,U013,Movie Enthusiast,Desktop,v1,View movie details,Yes,69,5,5,None,Movie Details,Yes,5,FR-06,Keep,Movie details were informative.
+T014,2026-07-23,U014,Student,Mobile,v1,Browse trending movies,Yes,63,4,4,None,Trending Movies,Yes,4,FR-05,Keep,Trending section was easy to browse.
+T015,2026-07-23,U015,Student,Laptop,v1,Save movie to watchlist,Yes,61,4,5,None,Watchlist,Yes,5,FR-05,Keep,Saving movies was straightforward.
+T016,2026-07-23,U016,Student,Mobile,v1,View previous chat history,Yes,66,4,4,Minor delay,Chat History,Yes,4,FR-05,Improve,History page could load faster.
+T017,2026-07-24,U017,Movie Enthusiast,Laptop,v1,Get recommendations based on mood,Yes,88,5,5,None,AI Chatbot,Yes,5,FR-03,Keep,Recommendations matched user mood.
+T018,2026-07-24,U018,Student,Mobile,v1,Watch movie trailer,Yes,73,5,5,None,Trailer Feature,Yes,5,FR-06,Keep,Trailer playback was smooth.
+T019,2026-07-24,U019,Administrator,Desktop,v1,View user chat history,Yes,80,4,5,None,Admin Dashboard,Yes,5,FR-12,Keep,User activity reports were useful.
+T020,2026-07-24,U020,Student,Mobile,v1,Ask AI for movie recommendations,Yes,84,5,5,None,AI Chatbot,Yes,5,FR-03,Keep,Overall recommendation experience was excellent.
