@@ -107,7 +107,7 @@ Although the idea helps users manage movies they want to watch, it mainly focuse
 
 **Inefficiency of Current Alternatives:** Users currently rely on friends, social media, Google searches, review websites, and streaming platform suggestions. These methods often require significant time and effort before finding a suitable movie.
 
-**Severe Friction Points:** The main problem is the difficulty of finding movies that match personal interests. Users frequently experience decision fatigue because of the large number of available movie choices.
+**Severe Friction Points:** The main problem is the difficulty of finding movie that match personal interests. Users frequently experience decision fatigue because of the large number of available movie choices.
 
 ---
 
