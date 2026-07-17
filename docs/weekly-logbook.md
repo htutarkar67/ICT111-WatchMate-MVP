@@ -254,7 +254,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 -  Defined the product concept for **WatchMate: AI Movie Recommendation System**.
 -  Identified the target users, problem statement, and core value proposition.
 -  Defined the MVP feature list using the MoSCoW prioritization method.
--  Mapped system features to functional requirements and user stories.
+-  Mapped system features to functional requirements and user needs.
 -  Designed the required UI/UX wireframes:
   - Homepage
   - AI Movie Recommendation Chatbot
