@@ -77,7 +77,7 @@ We identified that users value accurate recommendations more than complex featur
 
 In Lab 03, our team collected evidence from potential users to determine whether the movie recommendation problem is real and significant.
 
-The interviews showed that many users struggle to find movies that match their interests because of the large number of available choices. Users frequently rely on friends, social media, review websites, and streaming platform suggestions, but these methods do not always provide relevant recommendations.
+The interviews revealed that many users struggle to find movies that match their interests due to the overwhelming number of available choices. Users frequently rely on friends, social media, review websites, and streaming platform recommendations, but these sources do not always provide relevant suggestions.
 
 ## Target Respondents
 
