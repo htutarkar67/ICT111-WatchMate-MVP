@@ -187,7 +187,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 **Main persona:**
 
-* Alex Tan, a university student who spends too much time searching for movies and wants personalized recommendations.
+* Alex Tan, a university student who spend too much time searching for movies and wants personalized recommendations.
 
 **Most important problem:**
 
