@@ -250,7 +250,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 ### What We Completed Today
 
--  Reviewed Lab 04 requirements and user stories.
+-  Analyzed Lab 04 requirements and user stories.
 -  Defined the product concept for **WatchMate: AI Movie Recommendation System**.
 -  Identified the target users, problem statement, and core value proposition.
 -  Defined the MVP feature list using the MoSCoW prioritization method.
