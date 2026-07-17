@@ -326,7 +326,7 @@ The results from this experiment will help us improve WatchMate before implement
 ## Lab 08: Customer Validation and Analytics Sheet
 
 ### Validation Objective
-Evaluated the usability, task completion, and user satisfaction of WatchMate's core features, including interacting with the AI chatbot, receiving personalized movie recommendations, viewing movie details, browsing trending movies, managing watchlists, and accessing previous chat history.
+Evaluated the usability, task completion, and user satisfaction of WatchMate's core features, including interacting with the AI chatbot, receiving personalized movie recommendations, viewing movie details, searching for movies, and monitoring chatbot usage through the admin dashboard.
 
 ### Prototype Version Tested
 - **Version:** v1
@@ -346,11 +346,11 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 
 **Continue with minor revisions.** The MVP direction is validated by positive customer feedback and a **100% task completion rate**. Most users successfully completed the required tasks and found the AI chatbot useful for discovering movies. The team will implement the following improvements before the next iteration:
 
-1. **Improve AI Chatbot Prompts (FR-03):** Add example prompts and suggested questions to help first-time users start conversations.
-2. **Explain Movie Recommendations (FR-05):** Display a brief explanation of why each movie is recommended based on the user's preferences.
-3. **Improve Navigation (FR-07, FR-08):** Make the Trending Movies, Watchlist, and Chat History menus easier to locate and understand.
-4. **Enhance Movie Detail Page (FR-06):** Highlight ratings, genres, streaming platforms, and trailers for quicker decision-making.
-5. **Optimize Watchlist Feature (FR-09):** Make it easier for users to save and manage favorite movies.
+1. **Improve AI Chatbot Interaction (FR-03):** Add example prompts and suggested questions to help first-time users communicate their movie preferences more effectively.
+2. **Enhance Movie Search (FR-04):** Improve the search feature with better keyword matching, autocomplete suggestions, and more accurate search results.
+3. **Improve Personalized Movie Recommendations (FR-05):** Display more relevant recommendations and include a short explanation of why each movie is suggested based on the user's preferences.
+4. **Enhance Movie Details (FR-06):** Improve the movie detail page by highlighting ratings, genres, cast, trailers, and streaming platform information for easier decision-making.
+5. **Enhance Admin Dashboard (FR-12):** Improve dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
 
 ### Files Added / Updated
 - `data/validation-results.csv`
