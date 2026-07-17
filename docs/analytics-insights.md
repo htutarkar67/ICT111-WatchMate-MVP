@@ -50,7 +50,7 @@ The remaining **20% "Improve"** feedback focuses mainly on usability enhancement
 
 ## 6. Next Prototype Improvement
 
-1. **Improve AI Chatbot Guidance (FR-03):** Add suggested prompts and example questions to help new users begin conversations with the chatbot.
+1. **Improve AI Chatbot Guidance (FR-03):** Add recommended prompts and example questions to help new users begin conversations with the chatbot.
 
 2. **Enhance Movie Search (FR-04):** Implement autocomplete and improve keyword matching for faster movie searches.
 
