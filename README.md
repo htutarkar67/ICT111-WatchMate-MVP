@@ -348,8 +348,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 2. **Enhance Movie Search (FR-04):** Improve the search feature with better keyword matching, autocomplete suggestions, and more accurate search results.
 3. **Improve Personalized Movie Recommendations (FR-05):** Display more relevant recommendations and include a short explanation of why each movie is suggested based on the user's preferences.
 4. **Enhance Movie Details (FR-06):** Improve the movie detail page by highlighting ratings, genres, cast, trailers, and streaming platform information for easier decision-making.
-5. **Enhance Admin Dashboard (FR-12):** Improve dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
-
+5. **Enhance Admin Dashboard (FR-12):**Enhance dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
 ### Files Added / Updated
 - `data/validation-results.csv`
 - `data/test-users.csv`
