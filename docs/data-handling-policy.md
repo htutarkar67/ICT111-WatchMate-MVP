@@ -61,9 +61,9 @@ To protect user privacy, the prototype minimizes personal data collection by:
 
 The prototype follows responsible data handling practices by:
 
-- Collecting only the data necessary for movie recommendations.
-- Using sample or masked data during demonstrations whenever possible.
-- Avoiding unnecessary sensitive personal information.
+- Gathering only the data necessary for movie recommendations.
+- Using synthetic or masked data during demonstrations whenever possible.
+-Avoiding unnecessary sensitive personal data.
 - Restricting data modification to authorized users and administrators.
 - Clearly informing users how their data is used to generate personalized recommendations.
 - Using collected data only for academic purposes as part of the ICT105 project.
