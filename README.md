@@ -356,4 +356,50 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 - `docs/mvp-decision.md`
 - `docs/test-user-notes.md`
 - `docs/weekly-logbook.md`
-- `screenshots/project-dashboard.png`
+- `screenshots/project-dashboard.md`
+
+## Lab 09 - Responsible IT Check
+
+### Responsible Design Summary
+
+In Lab 09, our group conducted a comprehensive responsible IT design evaluation for **WatchMate - AI Movie Recommendation System**. We evaluated data privacy, ethical AI usage, intellectual property compliance, and basic web security:
+
+* **Privacy & Data Minimization**: Collected only the minimum information required for personalized movie recommendations, including username, email, and movie preferences. Sensitive information such as national ID numbers, home addresses, payment information, and passwords is not collected.
+* **Ethical Transparency**: Added a clear notice explaining that WatchMate is an academic AI prototype and that recommendations are AI-generated suggestions, which may not always match individual preferences.
+* **IP & Licensing**: Verified all third-party assets (Tailwind CSS, Plus Jakarta Sans, Google Material Symbols, Mermaid.js, and Express.js) and confirmed they are used under their respective open-source licenses (MIT, SIL OFL, Apache 2.0).
+* **Basic Security**: Reviewed chatbot input validation, administrator access control, user privacy, AI recommendation transparency, and account security. Planned improvements include role-based access control (RBAC), stronger input validation, and protection of user chat history.
+
+### Files Added / Updated
+
+- `docs/legal-ethical-checklist.md`
+- `docs/privacy-and-data-protection.md`
+- `docs/ip-and-third-party-assets.md`
+- `docs/basic-security-risk-check.md`
+- `docs/risk-register.md`
+- `docs/updated-requirements-note.md`
+- `docs/user-consent-statement.md`
+- `docs/data-handling-policy.md`
+- `docs/weekly-logbook.md`
+- `data/data-inventory.csv`
+- `data/risk-register.csv`
+- `data/third-party-assets-register.csv`
+- `diagrams/privacy-security-review.mmd`
+- `screenshots/privacy-security-review.md`
+
+### Requirement Update
+
+Core system requirements (`FR-01` through `FR-12` in `docs/system-requirements.md`) remain active. Responsible design updates were formally documented in `docs/updated-requirements-note.md`:
+
+- **FR-03**: Added chatbot input validation, example prompts for new users, and a loading indicator while AI recommendations are being generated (Issue **#45**).
+- **FR-04**: Added autocomplete search suggestions and genre filters to improve the movie search experience (Issue **#45**).
+- **FR-06**: Enhanced the movie detail page by displaying recommendation reasons, ratings, genres, streaming platforms, and trailers more clearly (Issue **#48**).
+- **FR-12**: Restricted administrator analytics and movie management features using role-based access control (RBAC) (Issue **#45** & **#47**).
+
+### Team Contributions
+
+| Member Name | Role | Contribution | GitHub Evidence |
+|---|---|---|---|
+| **Bhone Myat Kyaw** (`Kreazx`) | UX/UI Lead | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue **#45** |
+| **Htut Arkar Saing** (`htutarkar67`) | Technical Lead | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue **#46** |
+| **Htut Arkar Saing** (`htutarkar67`) | Documentation Lead | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue **#47** |
+| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue **#48** |
