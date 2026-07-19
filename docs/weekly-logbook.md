@@ -402,3 +402,64 @@ WatchMate: AI Movie Recommendation System
 - Add advanced search filters including genre, release year, language, and rating (`FR-04`).
 - Improve recommendation accuracy by incorporating user watch history and preferences (`FR-03`).
 - Enhance chat history navigation for easier access and better usability (`FR-12`).
+
+# Weekly Logbook - Lab 09
+
+## Group Name
+
+WatchMate
+
+## Date
+
+20/07/2026
+
+## Members Present
+
+- 
+- 
+- 
+
+## Work Completed Today
+
+- **Data inventory:** Completed the project data inventory and classified collected data according to personal data, sensitive data, visibility, and responsible handling.
+- **Privacy review:** Reviewed user data collection, storage, access control, data minimization, and responsible data handling for the AI movie recommendation system.
+- **Ethical review:** Completed the legal and ethical checklist, including AI recommendation transparency and fairness considerations.
+- **IP review:** Documented original work and third-party assets used in the prototype, including licenses and permissions.
+- **Security review:** Conducted a basic security risk assessment covering chatbot input validation, administrator access, user privacy, AI-generated recommendations, and account security.
+- **Risk register:** Identified privacy, security, ethical, and AI recommendation risks together with mitigation actions.
+- **Requirements update note:** Reviewed and updated system requirements based on usability, privacy, and security findings.
+
+## Member Contributions
+
+| Member Name | Contribution | GitHub Evidence |
+|---|---|---|
+| ** ** (`meirosemary`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue `#38` |
+| ** ** (`ai10011`) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.png`. | Issue `#39` |
+| ** ** (`Bilal112344`) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#40` |
+| ** ** (`kyawyel68-Crystal`) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#41` |
+
+## Decisions Made
+
+| Decision | Reason | Evidence / Requirement |
+|---|---|---|
+| Completed a project data inventory. | To identify what user information is collected and ensure responsible data handling. | `data/data-inventory.csv` |
+| Implemented a data handling policy. | To protect user privacy and minimize unnecessary data collection. | `docs/data-handling-policy.md` |
+| Reviewed intellectual property and third-party assets. | To ensure external libraries, icons, fonts, and other resources are properly licensed and documented. | `docs/ip-and-third-party-assets.md` |
+| Performed a security and risk review. | To identify security, privacy, and AI-related risks before the final prototype release. | `docs/security-risk-check.md`, `docs/risk-register.md` |
+| Updated project documentation. | To keep privacy, security, and project documentation consistent throughout the repository. | `docs/updated-requirements-note.md`, `README.md` |
+
+## Issues / Blockers
+
+- Ensuring AI-generated movie recommendations remain accurate, transparent, and free from bias.
+- Reviewing third-party licenses for movie information, icons, and other external assets.
+- Strengthening administrator access control and protecting user chat history.
+- Improving chatbot guidance for first-time users.
+
+## Next Action Before Lab 10
+
+- Finalize all WatchMate prototype features and complete remaining UI improvements.
+- Implement stronger input validation and administrator role-based access control (RBAC).
+- Improve AI recommendation transparency by showing recommendation reasons and loading indicators.
+- Review the complete prototype against all functional requirements.
+- Verify that all documentation and GitHub files remain consistent.
+- Prepare the final prototype demonstration and presentation.
