@@ -1,1 +1,10 @@
-
+Area,Check_Question,Yes_No_Partial,Risk_Level,Mitigation_Action
+AI Chatbot,Are user prompts validated before processing?,Partial,Medium,Validate user input and filter inappropriate prompts before sending requests to the AI service.
+User Account,Is personal information protected?,Yes,Low,Store user email securely and never display personal information on public pages.
+Movie Search,Can invalid search input cause errors?,Partial,Low,Validate search keywords and display friendly messages when no movies are found.
+Watchlist,Can only the account owner manage their watchlist?,Partial,Medium,Restrict watchlist access to the logged-in user and require authentication before editing.
+Dashboard,Can only administrators access analytics?,Partial,High,Implement role-based access control so only administrators can access the dashboard and analytics.
+Recommendation History,Is recommendation history visible only to the user?,Yes,Low,Allow only authenticated users to view or delete their own recommendation history.
+API Key Security,Are API keys hidden from users?,Yes,High,Store OpenAI and TMDB API keys in server-side environment variables and never expose them in client-side code.
+Third-Party API,Are external API requests made securely?,Yes,Medium,Use HTTPS for all API requests and validate responses before displaying data.
+Prototype Data,Does the prototype use sample or non-sensitive data?,Yes,Low,Use fictional user accounts and sample movie preferences for demonstrations and usability testing.
