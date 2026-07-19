@@ -114,7 +114,7 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 **User Type:**University student and frequent movie watcher
 
-**Main Goal:** Receive personalized movie recommendations quickly through an AI chatbot.
+**Main Goal:** Receive quick personalized movie recommendations through an AI chatbot.
 
 **Main Pain Point:** Too many movie choices make it difficult and time-consuming to decide what to watch.
 
