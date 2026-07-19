@@ -229,7 +229,8 @@ In Lab 06, our group connected the product concept, system requirements, user st
 
 For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
 
-**The frontend will offer an interactive interface where users can browse trending movies, search for titles, chat with the AI assistant, manage their watchlist, and review previous conversations. The backend will process user requests, communicate with the AI chatbot and TMDB API, and manage user data stored in SQLite. This architecture provides a simple yet scalable solution that supports the project's MVP while allowing future enhancements.**
+The frontend will offer an interactive interface where users can browse trending movies, search for titles, chat with the AI assistant, manage their watchlist, and review previous conversations. The backend will process user requests, communicate with the AI chatbot and TMDB API, and manage user data stored in SQLite. This architecture provides a simple yet scalable solution that supports the project's MVP while allowing future enhancements.
+
 ---
 
 ## Final Prototype Connection
