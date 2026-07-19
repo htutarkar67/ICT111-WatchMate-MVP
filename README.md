@@ -116,7 +116,7 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 **Main Goal:** Receive quick personalized movie recommendations through an AI chatbot.
 
-**Main Pain Point:** Too many movie choices make it difficult and time-consuming to decide what to watch.
+**Main Pain Point:** Too many movie choices make decisions difficult and time-consuming.
 
 **Current Workaround:** Uses Netflix recommendations, Google searches, movie review websites, and asks friends for suggestions.
 
