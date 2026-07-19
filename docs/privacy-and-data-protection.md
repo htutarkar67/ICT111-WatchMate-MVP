@@ -1,5 +1,8 @@
 # Privacy and Data Protection
 
+## Project Title
+**WatchMate** - AI Movie Recommendation System
+
 ## Data Collection Summary
 
 | Data Field | Why It Is Needed | Personal Data? | Sensitive Data? | Keep / Remove / Replace | Notes |
