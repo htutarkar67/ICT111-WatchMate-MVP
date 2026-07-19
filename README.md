@@ -295,7 +295,7 @@ During the experiment, we will validate the following assumptions:
 
 The experiment will be considered successful if:
 
-- Most users complete the assigned tasks successfully.
+-Most users successfully completed the assigned tasks.
 - Users can interact with the chatbot without confusion.
 - Users can receive and view personalized movie recommendations.
 - Users rate the prototype as useful, easy to use, and helpful for finding movies.
