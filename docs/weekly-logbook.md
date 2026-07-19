@@ -164,7 +164,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 **Lab:** Lab 04 - User Persona, Requirements, and User Stories
 **Group Name:** WatchMate
 **Repository Link:** [Insert GitHub Repository Link]
-**Date:** [Insert Date]
+**Date:** 23/06/2026
 
 ---
 
