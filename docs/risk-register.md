@@ -1,5 +1,8 @@
 # Risk Register
 
+## Project Title
+**WatchMate** - AI Movie Recommendation System
+
 | Risk ID | Category | Risk Description | Affected Feature / Requirement | Severity | Likelihood | Mitigation Action | Owner | GitHub Evidence | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | R-01 | Privacy | Users may enter personal information while chatting with the AI chatbot. | AI Chatbot (FR-03) | High | Medium | Display a privacy notice and advise users not to share sensitive personal information in chat. | WatchMate Team | `/docs/privacy.md` | Open |
