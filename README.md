@@ -298,7 +298,7 @@ The experiment will be considered successful if:
 - Most users successfully completed the assigned tasks.
 - Users can use the chatbot without confusion.
 - Users can receive personalized movie recommendations.
-- Users rate the prototype as useful, easy to use, and helpful for finding movies.
+- Users find the prototype useful, easy to use, and helpful for movie discovery.
 - Feedback helps us identify improvements for the next version.
 
 ## Files Added in Lab 07
