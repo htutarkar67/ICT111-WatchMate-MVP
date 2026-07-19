@@ -156,7 +156,7 @@ Although the idea helps users manage movies they want to watch, it mainly focuse
 In Lab 04, the team will analyze the customer discovery findings and define a clear target user persona for the Movie Recommendation System. We will create user stories based on validated user needs and prioritize features that directly address the problems identified during customer interviews. This will help ensure that the MVP is built around real user evidence rather than assumptions.
 
 
-# Lab 04 - Weekly Logbook
+# Lab 04 - User Persona, Requirement, and User Stories
 
 ## Group Information
 
