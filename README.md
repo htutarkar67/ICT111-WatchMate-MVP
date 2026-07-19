@@ -169,8 +169,7 @@ Movie viewers who experience difficulty finding movies that match their preferen
 
 ## Product Concept
 
-**WatchMate**is a web-based AI movie recommendation system that helps users discover suitable movies and TV shows through natural conversations with an AI chatbot.Instead of spending a long time browsing streaming platforms or searching online, users can describe their preferences, favorite genres, mood, or similar movies, and the AI will generate personalized recommendations.
-
+**WatchMate**is a web-based AI movie recommendation system that helps users discover suitable movies and TV shows through natural conversations with an AI chatbot.Instead of spending significant time browsing streaming platforms or searching online, users can simply describe their preferences, favorite genres, mood, or similar movies, and the AI will provide personalized recommendations based on their interests.
 The system is designed for movie enthusiasts, students, and casual viewers who often struggle to decide what to watch. It solves the problem of information overload by providing fast, intelligent, and personalized movie suggestions in one platform.
 
 ---
