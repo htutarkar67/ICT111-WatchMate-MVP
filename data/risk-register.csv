@@ -1,1 +1,8 @@
-
+Risk_ID,Category,Risk_Description,Affected_Feature_or_Requirement,Severity,Likelihood,Mitigation_Action,Owner,GitHub_Evidence,Status
+R-01,Privacy,Reporter email or contact information may be exposed in public item listings,FR-05 View Records,High,Medium,Display only item information publicly and restrict contact details to authorized administrators,Lemon MVP Team,Issue #09,Open
+R-02,Security,Unauthorized users may access or modify item status,FR-09 Admin Management,High,Medium,Implement authentication and role-based access control for administrator functions,Lemon MVP Team,Issue #10,Open
+R-03,Intellectual Property,Users may upload copyrighted images that they do not own,FR-04 Upload Item Image,Medium,Low,Provide upload guidelines and allow only original or authorized images,Lemon MVP Team,Issue #11,Open
+R-04,Ethical,Fake or misleading lost and found reports may be submitted,FR-03 Report Submission,Medium,Medium,Allow administrators to review, verify, and remove suspicious reports,Lemon MVP Team,Issue #12,Open
+R-05,Data Quality,Duplicate reports for the same item may confuse users,FR-06 Search and Filter,Medium,Medium,Detect duplicate submissions and allow administrators to merge duplicate records,Lemon MVP Team,Issue #13,In Progress
+R-06,Privacy,Uploaded item photos may reveal student faces or personal information,FR-04 Upload Item Image,High,Low,Provide photo upload guidelines and review uploaded images before publication,Lemon MVP Team,Issue #14,Open
+R-07,Operational,Users may have difficulty finding items due to unclear search filters or locations,FR-06 Search and Filter,Medium,Medium,Improve search filters by adding item categories, campus buildings, and clearer location labels,Lemon MVP Team,Issue #15,In Progress
