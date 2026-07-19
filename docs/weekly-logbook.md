@@ -33,7 +33,7 @@
   * README.md
   * docs/weekly-logbook.md
   * docs/team-working-agreement.md
-* Commit link: [Insert Commit Link]
+  * Commit link: [Insert Commit Link]
 
 ### Decision Made This Week
 
