@@ -63,7 +63,7 @@ The prototype follows responsible data handling practices by:
 
 - Gathering only the data necessary for movie recommendations.
 - Using synthetic or masked data during demonstrations whenever possible.
--Avoiding unnecessary sensitive personal data.
-- Restricting data modification to authorized users and administrators.
-- Clearly informing users how their data is used to generate personalized recommendations.
+- Avoiding unnecessary sensitive personal data.
+- Restricting data modification to authorized personnel and administrators.
+- Clearly notifying users how their data is used to generate personalized recommendations.
 - Using collected data only for academic purposes as part of the ICT105 project.
