@@ -71,8 +71,7 @@ We completed our customer discovery activities by gathering feedback from univer
 
 We validated that users spend too much time searching for movies.
 We confirmed that existing recommendations are not always personalized.
-We identified that users value accurate recommendations more than complex features.
-
+We identified that users value accurate recommendations over complex features.
 ## Customer Problem Discovery Summary
 
 In Lab 03, our team collected evidence from potential users to determine whether the movie recommendation problem is real and significant.
