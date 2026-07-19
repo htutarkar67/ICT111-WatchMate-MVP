@@ -160,7 +160,7 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 ## Group Information
 
-* **Course:** ICT105 Fundamental Technology Entrepreneurship
+* **Course:** ICT111 Fundamental Technology Entrepreneurship
 * **Lab:** Lab 04 - User Persona, Requirements, and User Stories
 * **Group Name:** WatchMate
 * **Repository Link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP`
