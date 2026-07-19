@@ -415,9 +415,9 @@ WatchMate
 
 ## Members Present
 
-- 
-- 
-- 
+- Bhone Myat Kyaw
+- Htut Arkar Saing
+- Tar Yar Lin Latt
 
 ## Work Completed Today
 
