@@ -1,1 +1,13 @@
-
+Data_Field,Example_Value,Purpose,Personal_Data,Sensitive_Data,Visibility,Keep_Remove_Replace,Responsible_Action
+user_id,U001,Unique identifier for each user account,No,No,Admin only,Keep,Use as the primary key instead of displaying personal information
+username,MovieFan01,Display name used within the application,Yes,No,Public,Keep,Allow users to change their username and avoid using real names by default
+email,user@example.com,Account login and notification delivery,Yes,No,Admin only,Keep,Store securely and never display publicly
+movie_preferences,Action;Sci-Fi;Comedy,Generate personalized AI movie recommendations,Possibly,No,Private,Keep,Use only for recommendation purposes and allow users to edit or delete preferences
+chat_prompt,"Recommend action movies",User input for AI chatbot recommendations,Possibly,No,Private,Keep with caution,Do not use for advertising or share with third parties
+chat_history,Previous AI conversations,Allow users to review previous recommendations,Possibly,No,Private,Keep,Allow users to clear chat history at any time
+search_history,Inception,Improve search suggestions and user experience,Possibly,No,Private,Keep,Allow users to disable or delete search history
+watchlist,Inception;Interstellar,Store favorite movies for future viewing,No,No,Private,Keep,Accessible only by the account owner
+movie_rating,5 Stars,Collect user feedback on recommended movies,No,No,Private,Keep,Use aggregated ratings for improving recommendations
+recommendation_history,Top Picks July 2026,Track previously recommended movies,No,No,Private,Keep,Allow users to remove recommendation history if desired
+profile_picture,avatar.png,Personalize the user profile,Yes,No,Public/Private,Keep with caution,Allow users to upload or remove profile pictures and avoid displaying sensitive images
+admin_dashboard,Usage Analytics,Monitor system usage and recommendation performance,No,No,Admin only,Keep,Restrict dashboard access to administrators only
