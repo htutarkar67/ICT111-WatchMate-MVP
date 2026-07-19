@@ -1,18 +1,37 @@
 flowchart TD
 
-A[Review WatchMate Features]
---> B[Identify User Data Collected<br/>Chat Input, Movie Preferences,<br/>Search History, Email]
+A["Review WatchMate Features"]
 
-B --> C[Privacy & User Consent Check]
+B["Identify User Data Collected
+(Chat Input, Movie Preferences,
+Search History, Email)"]
 
-C --> D[Ethical Review of AI Recommendations<br/>Fairness, Transparency,<br/>Bias Check]
+C["Privacy & User Consent Check"]
 
-D --> E[Review Third-Party Assets<br/>TMDB API, Movie Posters,<br/>Trailers, AI Services]
+D["Ethical Review of AI Recommendations
+(Fairness, Transparency,
+Bias Check)"]
 
-E --> F[Basic Security Risk Check<br/>Authentication, Data Protection,<br/>Access Control]
+E["Review Third-Party Assets
+(TMDB API, Movie Posters,
+Trailers, AI Services)"]
 
-F --> G[Create Risk Register]
+F["Basic Security Risk Check
+(Authentication, Data Protection,
+Access Control)"]
 
-G --> H[Update Functional Requirements<br/>if necessary]
+G["Create Risk Register"]
 
-H --> I[Update GitHub Documentation]
+H["Update Functional Requirements
+(if necessary)"]
+
+I["Update GitHub Documentation"]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
