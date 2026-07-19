@@ -1,6 +1,11 @@
 tester_code,task_id,task_description,completed,time_seconds,help_needed,confusion_point,rating_clarity_1_5,notes
-T01,T1,Understand homepage purpose,Yes,35,No,,5,Clear title and main button
-T01,T2,Submit lost item report,Yes,95,No,Unsure which location option to select,4,Need clearer location field
-T02,T3,Search found items,Yes,45,No,,5,Search was easy
-T03,T4,Open item detail,Yes,40,No,,4,Wanted photo zoom option
-T04,T5,Check item status,No,80,Yes,Status labels unclear,3,Need better explanation of status
+T01,T1,Understand homepage purpose,Yes,30,No,,5,Homepage clearly explained the app purpose
+T01,T2,Ask AI for movie recommendations,Yes,85,No,,5,Recommendations matched my preferences
+T02,T3,Search movie by title,Yes,40,No,,5,Movie search was fast and accurate
+T03,T4,View movie details,Yes,45,No,,4,Movie information was clear but trailer could be larger
+T04,T5,Browse trending movies,Yes,50,No,Movie categories,4,More movie categories would improve browsing
+T05,T6,Save movie to watchlist,Yes,35,No,,5,Watchlist feature was easy to use
+T06,T7,View previous chat history,Yes,30,No,,5,Chat history was easy to access
+T07,T8,Review dashboard analytics,Yes,60,No,Chart labels,4,Dashboard charts need clearer labels
+T08,T9,Ask AI using mood-based recommendation,No,90,Yes,Chatbot prompts,3,Example prompts would help first-time users
+T09,T10,Search movies with filters,No,75,Yes,Search filters,3,Genre and year filters should be added
