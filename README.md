@@ -70,7 +70,7 @@ In Lab 03, we will conduct customer discovery interviews to validate the problem
 We completed our customer discovery activities by gathering feedback from university students, movie enthusiasts, and streaming platform users. The insights collected helped us understand user needs, preferences, and challenges related to finding suitable movie recommendations.
 
 We validated that users spend too much time searching for movies.
-We confirmed that existing recommendation methods are not always personalized.
+We confirmed that existing recommendations are not always personalized.
 We identified that users value accurate recommendations more than complex features.
 
 ## Customer Problem Discovery Summary
