@@ -112,7 +112,7 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 **Persona Name:** Alex Tan
 
-**User Type:** University student and frequent movie viewer
+**User Type:**University student and frequent movie watcher
 
 **Main Goal:** Receive personalized movie recommendations quickly through an AI chatbot.
 
