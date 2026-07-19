@@ -1,1 +1,9 @@
-
+Asset_Name,Type,Source_URL,License_or_Permission,Used_In,Credit_Required,Risk_Level,Action
+TMDB API,Movie Database API,https://developer.themoviedb.org,TMDB API Terms of Use,Movie search and recommendation features (FR-04, FR-05, FR-06),Yes,Medium,Display the required TMDB attribution and comply with API usage policies.
+Tailwind CSS,CSS Framework,https://tailwindcss.com,MIT License,All prototype pages (Home, Chatbot, Search, Movie Details, Watchlist, Dashboard),No,Low,Keep for MVP; compile optimized CSS for production.
+Google Fonts (Poppins),Font Family,https://fonts.google.com,SIL Open Font License 1.1,Typography across the WatchMate interface,No,Low,Keep or bundle fonts locally for deployment.
+Google Material Symbols,Icon Library,https://fonts.google.com/icons,Apache License 2.0,Navigation icons, chatbot icons, buttons, watchlist, dashboard,No,Low,Maintain consistent icon usage throughout the application.
+OpenAI API,AI Service,https://platform.openai.com,OpenAI API Terms of Use,AI chatbot conversation and personalized movie recommendations (FR-03),No,Medium,Protect API keys using server-side environment variables and never expose keys to clients.
+YouTube Embedded Player,Video Service,https://www.youtube.com,YouTube Terms of Service,Movie trailer playback on Movie Details page (FR-06),Yes,Medium,Embed trailers using the official YouTube player without downloading videos.
+Mermaid.js,Diagram Library,https://mermaid.js.org,MIT License,System architecture, workflow, and privacy/security diagrams,No,Low,Keep for project documentation and GitHub diagrams.
+Placeholder Movie Images,Image Assets,https://placehold.co,Free Placeholder Images,Prototype movie posters before integrating TMDB images,No,Low,Replace with official TMDB poster URLs before final release.
