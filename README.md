@@ -106,7 +106,7 @@ The team has decided to proceed with the current problem direction and continue 
 
 ## Primary Target User
 
-Movie viewers who experience difficulty finding movies that match their preferences and spend excessive time deciding what to watch due to the large number of available options.
+Movie viewers who face challenges finding movies that align with their preferences and often spend significant time deciding what to watch because of the overwhelming number of available choices.
 ---
 
 ## Persona Summary
