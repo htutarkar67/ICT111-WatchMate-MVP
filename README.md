@@ -165,8 +165,7 @@ Movie viewers who have difficulty finding movies that match their preferences an
 
 ## GitHub Contribution Evidence
 
-#All members contributed to this repository through commits, issues, pull requests, documentation updates, prototype design activities, or requirement analysis tasks. Evidence can be viewed in the repository commit history and issue tracker.
-
+#All team members actively contributed to the repository through commits, issue tracking, pull requests, documentation updates, prototype development, and requirement analysis activities. Contribution records can be verified through the repository commit history and issue tracker.
 # Lab 05: Product Concept and UI/UX Wireframe
 
 ## Product Concept
