@@ -118,7 +118,7 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 **Main Pain Point:** Too many movie choices make decisions difficult and time-consuming.
 
-**Current Workaround:** Uses Netflix recommendations, Google searches, movie review websites, and asks friends for suggestions.
+**Current Workaround:** Uses streaming recommendations, online searches, reviews, and friend suggestions.
 
 ---
 
