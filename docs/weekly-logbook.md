@@ -433,10 +433,10 @@ WatchMate
 
 | Member Name | Contribution | GitHub Evidence |
 |---|---|---|
-| ** ** (`meirosemary`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue `#38` |
-| ** ** (`ai10011`) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.png`. | Issue `#39` |
-| ** ** (`Bilal112344`) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#40` |
-| ** ** (`kyawyel68-Crystal`) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#41` |
+| ** ** (``) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue `#38` |
+| ** ** (``) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.png`. | Issue `#39` |
+| ** ** (``) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#40` |
+| ** ** (``) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#41` |
 
 ## Decisions Made
 
