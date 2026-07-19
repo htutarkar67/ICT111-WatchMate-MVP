@@ -1,1 +1,11 @@
-
+tester_code,understood_purpose_1_5,completed_task_1_5,form_clear_1_5,search_useful_1_5,status_clear_1_5,would_use_1_5,most_useful_feature,confusing_part,suggested_improvement
+T01,5,5,5,5,5,5,AI chatbot recommendations,None,Keep the chatbot responses fast
+T02,5,5,4,5,5,5,Movie search,Search suggestions,Add autocomplete while typing
+T03,5,4,5,4,4,4,Personalized recommendations,Recommendation explanation,Explain why each movie is recommended
+T04,5,5,5,4,5,5,Movie details page,Streaming platform information,Highlight streaming services more clearly
+T05,4,4,4,4,4,4,Trending movies,Movie categories,Add more genres and categories
+T06,5,5,5,5,5,5,Dashboard analytics,None,Add more analytics charts
+T07,5,5,5,5,5,5,Movie search,None,Keep search fast and accurate
+T08,5,4,5,4,4,4,AI recommendations,Recommendation explanation,Show recommendation reasons
+T09,5,5,5,5,5,5,Movie details,None,Include more movie trailers
+T10,5,5,5,5,5,5,Dashboard reports,Chart labels,Improve dashboard chart labels
