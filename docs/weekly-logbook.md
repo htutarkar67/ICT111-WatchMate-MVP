@@ -433,9 +433,9 @@ WatchMate
 
 | Member Name | Contribution | GitHub Evidence |
 |---|---|---|
-| ** ** (``) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue `#38` |
-| ** ** (``) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.png`. | Issue `#39` |
-| ** ** (``) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#40` |
+| **Bhone Myat Kyaw** (`Kreazx`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue `#38` |
+| **Htut Arkar Saing** (`htutarkar67`) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.png`. | Issue `#39` |
+| **Htut Arkar Saing** (`htutarkar67`) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#40` |
 | ** ** (``) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#41` |
 
 ## Decisions Made
