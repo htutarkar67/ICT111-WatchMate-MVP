@@ -1,0 +1,4 @@
+segment_id,segment_name,need,value_expected,possible_channel
+CS01,Movie Enthusiasts,Receive personalized movie recommendations,Find movies that match personal preferences quickly,AI Chatbot
+CS02,Casual Movie Viewers,Search for movies and discover trending content,Save time choosing what to watch,Movie Search / Trending Movies
+CS03,Administrator,Monitor chatbot usage and manage movie data,Efficient system management and performance monitoring,Admin Dashboard
