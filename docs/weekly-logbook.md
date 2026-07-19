@@ -47,7 +47,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 
 3. Prepare customer validation questions and collect initial feedback from potential users.
 
-4.Adjust the project scope, target users, and value proposition based on research findings.
+4. Adjust the project scope, target users, and value proposition based on research findings.
 
 
 ## Lab 02: IT Opportunity Scanning
