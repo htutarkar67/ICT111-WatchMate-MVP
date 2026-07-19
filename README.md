@@ -67,7 +67,7 @@ In Lab 03, we will conduct customer discovery interviews to validate the problem
 
 ## Current Status
 
-We have conducted our customer discovery activities and collected feedback from university students, movie enthusiasts, and streaming platform users.
+We have completed our customer discovery activities and collected feedback from university students, movie enthusiasts, and streaming platform users.
 
 We validated that users often spend too much time searching for movies.
 We confirmed that existing recommendation methods are not always personalized.
