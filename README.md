@@ -257,8 +257,7 @@ The MVP feature list, system requirements, and user stories define the developme
 - Chat history for logged-in users
 - Admin dashboard for viewing chatbot conversations
 
-Additional features such as advanced AI personalization, recommendation analytics, and streaming platform integration will be considered in future versions after the MVP has been successfully completed.
-
+Additional features, including advanced AI personalization, recommendation analytics, and streaming platform integration, will be considered for future versions after the MVP has been successfully completed. These enhancements will help improve the overall recommendation experience and system capabilities.
 ---
 
 # Lab 07: MVP Experiment Design
