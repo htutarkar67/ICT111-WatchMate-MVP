@@ -399,7 +399,7 @@ Core system requirements (`FR-01` through `FR-12` in `docs/system-requirements.m
 
 | Member Name | Role | Contribution | GitHub Evidence |
 |---|---|---|---|
-| **Bhone Myat Kyaw** (`Kreazx`) | UX/UI Lead | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue **#45** |
-| **Htut Arkar Saing** (`htutarkar67`) | Technical Lead | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue **#46** |
+| **Bhone Myat Kyaw** (`Kreazx`) | Technical Lead | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | Issue **#45** |
+| **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue **#46** |
 | **Htut Arkar Saing** (`htutarkar67`) | Documentation Lead | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue **#47** |
 | **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue **#48** |
