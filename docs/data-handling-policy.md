@@ -66,4 +66,4 @@ The prototype follows responsible data handling practices by:
 - Avoiding unnecessary sensitive personal data.
 - Restricting data modification to authorized personnel and administrators.
 - Clearly notifying users how their data is used to generate personalized recommendations.
-- Using collected data only for academic purposes as part of the ICT105 project.
+- Using collected data only for academic activities as part of the ICT105 project.
