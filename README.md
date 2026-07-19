@@ -285,8 +285,7 @@ The goal of this experiment is to test whether:
 **Selected Experiment Type:** Interactive Clickable Prototype
 
 **Reason:**  
-Our prototype is an interactive frontend application designed to demonstrate the AI movie recommendation workflow. It enables users to complete the main tasks and provides an effective way to evaluate usability before developing the full system.
-
+Our prototype is an interactive frontend application designed to demonstrate the AI movie recommendation workflow. It enables users to complete the main tasks and provides an effective way to assess usability before developing the full system.
 ## Critical Assumptions
 
 During the experiment, we will validate the following assumptions:
