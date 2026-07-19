@@ -1,5 +1,8 @@
 # Basic Security Risk Check
 
+## Project Title
+**WatchMate** - AI Movie Recommendation System
+
 | Area | Risk Question | Current Status | Risk Level | Mitigation | Owner |
 |---|---|---|---|---|---|
 | **Chat input** | Can users submit invalid or malicious prompts? | Yes, the chatbot currently accepts any text input without validation or length limits. | **Medium** | Validate user input, limit prompt length, and sanitize special characters before processing. | Frontend Developer |
