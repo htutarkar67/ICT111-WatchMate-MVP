@@ -1,1 +1,6 @@
-
+tester_code,task_id,task_description,completed,time_seconds,help_needed,confusion_point,rating_clarity_1_5,notes
+T01,T1,Understand homepage purpose,Yes,35,No,,5,Clear title and main button
+T01,T2,Submit lost item report,Yes,95,No,Unsure which location option to select,4,Need clearer location field
+T02,T3,Search found items,Yes,45,No,,5,Search was easy
+T03,T4,Open item detail,Yes,40,No,,4,Wanted photo zoom option
+T04,T5,Check item status,No,80,Yes,Status labels unclear,3,Need better explanation of status
