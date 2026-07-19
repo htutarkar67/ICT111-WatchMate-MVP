@@ -19,6 +19,6 @@
 - **Safe to continue:** **With revision**
 
 - **Required revision before implementation:**
-  1. Add a loading indicator and explain how AI recommendations are generated (`#63`).
-  2. Implement role-based access control (RBAC) for administrator functions (`#64`).
-  3. Review and monitor AI recommendation bias to ensure fair recommendations for all users (`#66`).
+  1. Add a loading indicator and explain how AI recommendations are generated (`#38`).
+  2. Implement role-based access control (RBAC) for administrator functions (`#40`).
+  3. Review and monitor AI recommendation bias to ensure fair recommendations for all users (`#41`).
