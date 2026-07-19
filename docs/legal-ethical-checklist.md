@@ -7,17 +7,18 @@
 
 | Check Item | Yes/No | Evidence / Notes | Mitigation Action | Owner | GitHub Issue/Commit |
 |---|---|---|---|---|---|
-| Users are informed about the purpose of the prototype. | **Yes** | The homepage clearly explains that WatchMate provides AI-powered movie recommendations based on user preferences. | None required; keep the project description visible on the landing page. | Product Owner | `#issue-101` |
-| The prototype avoids misleading AI claims. | **Yes** | The chatbot recommends movies based on user input and does not claim that recommendations are always accurate or personalized by human experts. | Continue displaying a disclaimer that recommendations are AI-generated suggestions. | QA Tester | `#commit-a12b3c` |
-| The prototype does not collect unnecessary personal data. | **Yes** | Users only enter movie preferences or chat prompts. Sensitive personal information is not required. | Maintain minimal data collection and avoid storing unnecessary user information. | Data Manager | `#commit-b45d6e` |
-| Users can understand how recommendations are generated. | **No** | Some testers were unsure why specific movies were recommended. | Add a short explanation such as "Recommended because you like Action and Sci-Fi movies." | Frontend Developer | `#issue-112` |
-| Administrator features are segregated from normal user features. | **Yes** | The administrator dashboard for monitoring chatbot usage is separated from the user interface. | Continue restricting administrator access through role-based authentication. | Full Stack Developer | `#issue-118` |
-| The prototype avoids harmful or inappropriate recommendations. | **Yes** | The recommendation list excludes offensive or inappropriate content and focuses on general entertainment. | Continue reviewing recommendation results and apply content filtering when necessary. | AI Developer | `#commit-c78d9f` |
+| Users are informed about the purpose of the prototype. | **Yes** | A notice on the homepage explains that WatchMate is an academic AI movie recommendation prototype. | None required; keep the notice visible on the landing page. | Product Lead | `#41` |
+| The prototype avoids misleading claims. | **Yes** | The interface states that movie recommendations are AI-generated suggestions and may not always match user preferences. | Continue displaying a disclaimer that recommendations are suggestions only. | Product Lead | `#41` |
+| The prototype does not collect unnecessary sensitive data. | **Yes** | Only username, email, and movie preferences are collected. National ID, home address, and payment information are not requested. | Continue following the data minimization policy. | UX Lead | `#38` |
+| Users can understand what happens after submitting a request. | **No** | The chatbot currently provides recommendations without indicating how the suggestions are generated or when processing is complete. | Add a loading indicator and a short explanation that recommendations are generated based on user preferences. | Frontend Developer | `#38` |
+| Administrator actions are clearly separated from user actions. | **Yes** | Analytics and movie management features are available only through the administrator dashboard. | Implement role-based access control (RBAC) for administrator functions. | Backend Developer | `#38 / #40` |
+| The prototype avoids unfair or harmful treatment of users. | **Yes** | Recommendations are generated from user preferences and trending movies without considering personal characteristics such as age, gender, or nationality. | Regularly review recommendation quality and monitor for potential AI bias. | AI Developer | `#38` |
 
 ## Summary Decision
 
-- **Safe to continue:** **With minor revision**
+- **Safe to continue:** **With revision**
 
 - **Required revision before implementation:**
-  1. Add explanations for why each movie is recommended to improve user trust (`#issue-112`).
-  2. Continue strengthening role-based access control for the administrator dashboard (`#issue-118`).
+  1. Add a loading indicator and explain how AI recommendations are generated (`#63`).
+  2. Implement role-based access control (RBAC) for administrator functions (`#64`).
+  3. Review and monitor AI recommendation bias to ensure fair recommendations for all users (`#66`).
