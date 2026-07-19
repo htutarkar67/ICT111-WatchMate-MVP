@@ -365,7 +365,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate's c
 
 In Lab 09, our group conducted a comprehensive responsible IT design evaluation for **WatchMate - AI Movie Recommendation System**. We evaluated data privacy, ethical AI usage, intellectual property compliance, and basic web security:
 
-* **Privacy & Data Minimization**: Collected only the minimum information required for personalized movie recommendations, including username, email, and movie preferences. Sensitive information such as national ID numbers, home addresses, payment information, and passwords is not collected.
+* **Privacy & Data Minimization**: Collected only the minimum information required for personalized movie recommendations, such as username, email, and movie preferences. Sensitive information such as national ID numbers, home addresses, payment information, and passwords is not collected.
 * **Ethical Transparency**: Added a clear notice explaining that WatchMate is an academic AI prototype and that recommendations are AI-generated suggestions, which may not always match individual preferences.
 * **IP & Licensing**: Verified all third-party assets (Tailwind CSS, Plus Jakarta Sans, Google Material Symbols, Mermaid.js, and Express.js) and confirmed they are used under their respective open-source licenses (MIT, SIL OFL, Apache 2.0).
 * **Basic Security**: Reviewed chatbot input validation, administrator access control, user privacy, AI recommendation transparency, and account security. Planned improvements include role-based access control (RBAC), stronger input validation, and protection of user chat history.
