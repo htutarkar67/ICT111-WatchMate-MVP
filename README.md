@@ -192,13 +192,13 @@ In Lab 06, our group connected the product concept, system requirements, user st
 
 ## Files Added or Updated
 
-- `/docs/business-model-canvas.md`
-- `/docs/feature-value-mapping.md`
-- `/docs/technical-architecture.md`
-- `/docs/data-structure.md`
-- `/diagrams/system-architecture.mmd`
-- `/diagrams/data-flow.md`
-- `/docs/weekly-logbook.md`
+- [/docs/business-model-canvas.md](/docs/business-model-canvas.md)
+- [/docs/feature-value-mapping.md](/docs/feature-value-mapping.md)
+- [/docs/technical-architecture.md](/docs/technical-architecture.md)
+- [/docs/data-structure.md](/docs/data-structure.md)
+- [/diagrams/system-architecture.mmd](/diagrams/system-architecture.mmd)
+- [/diagrams/data-flow.md](/diagrams/data-flow.md)
+- [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
 
 ## Technical Direction
 For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
