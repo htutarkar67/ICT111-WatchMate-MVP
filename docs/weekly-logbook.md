@@ -204,29 +204,21 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 # Weekly Logbook - Lab 06
 
 ## Group Name
-
 WatchMate
 
----
-
 ## Project Title
-
 WatchMate: AI Movie Recommendation System
 
----
-
 ## Date
-
 09/07/2026
 
----
+
 
 ## Decisions Made Today
-
-- **Business model decision:** `docs/business-model-canvas.md`
-- **Technical architecture decision:** `docs/technical-architecture.md`
-- **Data structure decision:** `docs/data-structure.md`
-- **Diagram decision:** `diagrams/data-flow.mmd` and `diagrams/system-architecture.mmd`
+- **Business model decision:** `/docs/business-model-canvas.md`
+- **Technical architecture decision:** `/docs/technical-architecture.md`
+- **Data structure decision:** `/docs/data-structure.md`
+- **Diagram decision:** `/diagrams/data-flow.md` and `/diagrams/system-architecture.mmd`
 - **MVP decision:** The AI chatbot will be the primary method for generating personalized movie recommendations.
 - **Admin decision:** Administrators will monitor user chat history and chatbot usage instead of managing movie records.
 
