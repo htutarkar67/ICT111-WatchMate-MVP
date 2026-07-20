@@ -192,36 +192,32 @@ In Lab 06, our group connected the product concept, system requirements, user st
 
 ## Files Added or Updated
 
-- Business Model Canvas
-- Feature-Value Mapping
-- Technical Architecture
-- Data Structure
-- System Architecture Diagram
-- Data Flow Diagram
-- Weekly Logbook
+- `docs/business-model-canvas.md`
+- `docs/feature-value-mapping.md`
+- `docs/technical-architecture.md`
+- `docs/data-structure.md`
+- `diagrams/system-architecture.mmd`
+- `diagrams/data-flow.md`
+- `docs/weekly-logbook.md`
 
 ## Technical Direction
-
 For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
 
 The frontend will offer an interactive interface where users can explore trending movies, search for titles, chat with the AI assistant, manage their watchlist, and review previous conversations.The backend will handle user requests, communicate with the AI chatbot and TMDB API, and manage user data stored in SQLite.This architecture offers a simple yet scalable solution that supports the project's MVP while allowing future enhancements.
 
 ## Final Prototype Connection
-
 The documentation and planning completed during Lab 06 provide the foundation for developing the final WatchMate prototype.
+
 ### UI/UX Translation
-
 The completed wireframes, including the homepage, AI chatbot, search results, movie details, watchlist, chat history, and admin dashboard, provide a clear blueprint for the final user interface. These designs guide React frontend development and help maintain a consistent and user-friendly experience.
-### Structural Foundation
 
+### Structural Foundation
 The frontend pages and React components form the structure of the application. During development, these components will be connected to backend APIs to provide dynamic content, AI-powered recommendations, user authentication, and watchlist management.
 
 ### Architectural Blueprint
-
 The system architecture and data flow diagrams define how information moves between the frontend, backend, AI chatbot API, TMDB API, and SQLite database. These diagrams guide the implementation of movie searches, AI recommendations, user authentication, watchlist storage, and chat history management.
 
 ### Feature Prioritization
-
 The MVP feature list, system requirements, and user stories define the development priorities. The first implementation phase focuses on the core features:
 
 - AI-powered movie recommendation chatbot
