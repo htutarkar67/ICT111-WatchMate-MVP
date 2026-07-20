@@ -47,7 +47,7 @@ The team plans to develop a web-based movie recommendation platform called Movie
 
 | Week | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and movie idea exploration | Repository, team profile, and initial venture idea | Completed |
+| Lab 01 | Lab setup and movie idea exploration | Repository, team profile, and initial venture idea | Completed |
 | Lab 02 | Opportunity Scanning & Selection | Reviewed several project ideas, applied NUF scoring, and selected the Movie Recommendation System. | Completed |
 
 ## Current Status
@@ -101,26 +101,22 @@ Movie viewers often struggle to find movies that match their interests because s
 Decision for Next Step
 
 The team has decided to proceed with the current problem direction and continue developing the WatchMate Movie Recommendation System based on validated customer feedback and research findings.
+
+---
+
 # Lab 04: User Persona, Requirements, and User Stories
 
 ## Primary Target User
 
 Movie viewers who face challenges finding movies that align with their preferences and often spend significant time deciding what to watch because of the overwhelming number of available choices.
----
 
 ## Persona Summary
 
 **Persona Name:** Alex Tan
-
 **User Type:**University student and frequent movie watcher
-
 **Main Goal:** Receive quick personalized movie recommendations through an AI chatbot.
-
 **Main Pain Point:** Too many movie choices make decisions difficult and time-consuming.
-
 **Current Workaround:** Uses streaming recommendations, online searches, reviews, and friend suggestions.
-
----
 
 ## Key Requirements
 
@@ -136,8 +132,6 @@ Movie viewers who face challenges finding movies that align with their preferenc
 | NFR-02 | The interface should be simple and easy to navigate.                                 | Must     | Users prefer a user-friendly experience.                        |
 | NFR-03 | The system should be responsive on desktop and mobile devices.                       | Must     | Users may access the platform from different devices.           |
 
----
-
 ## MVP Feature Scope
 
 | Feature                   | Priority | Included in Final Prototype? |
@@ -151,27 +145,24 @@ Movie viewers who face challenges finding movies that align with their preferenc
 | User Account Registration | Could    | No                           |
 | Social Sharing Feature    | Could    | No                           |
 
----
-
 ## Diagram Links
 
 **User Flow Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/user-flow-diagram.md]
 
 **Use Case Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/use-case-diagram.md]
 
----
-
 ## GitHub Contribution Evidence
 
 #All team members actively contributed to the repository through commits, issue tracking, pull requests, documentation updates, prototype development, and requirement analysis activities. Contribution records can be verified through the repository commit history and issue tracker.
+
+---
+
 # Lab 05: Product Concept and UI/UX Wireframe
 
 ## Product Concept
 
 **WatchMate**is a web-based AI movie recommendation system that helps users discover suitable movies and TV shows through natural conversations with an AI chatbot.Instead of spending significant time browsing streaming platforms or searching online, users can simply describe their preferences, favorite genres, mood, or similar movies, and the AI will provide personalized recommendations based on their interests.
 The system is designed for movie enthusiasts, students, and casual viewers who often struggle to decide what to watch. It solves the problem of information overload by providing fast, intelligent, and personalized movie suggestions in one platform.
-
----
 
 ## Requirement-Driven Screens
 
@@ -185,15 +176,11 @@ The system is designed for movie enthusiasts, students, and casual viewers who o
 | Chat History | FR-05 | `/wireframes/chat-history.png` |
 | Admin Dashboard | FR-06, FR-12 | `/wireframes/admin-dashboard.png` |
 
----
-
 ## User Flow
 
 The user begins on the **Homepage**, where they can browse trending movies or search for a specific title. Users can also open the **AI Movie Recommendation Chatbot** and enter their preferences, mood, favorite genre, or a movie they enjoyed. The AI chatbot analyzes the request and provides personalized movie recommendations. Users can then view detailed movie information, watch the trailer, and save movies to their watchlist. Logged-in users can access previous chatbot conversations through the chat history, while administrators can monitor chatbot usage and review user chat history through the admin dashboard.
 
 **User Flow Diagram:** `/diagrams/user-flow.png`
-
----
 
 ## Team Contribution
 
@@ -207,8 +194,6 @@ All team members contributed to the development of **WatchMate** using the share
 
 In Lab 06, our group connected the product concept, system requirements, user stories, MVP feature lists, and UI/UX wireframes into a complete business model and technical architecture for **WatchMate: AI Movie Recommendation System**. We also designed the system's data structure and architecture diagrams to guide the implementation of the final prototype.
 
----
-
 ## Files Added or Updated
 
 - Business Model Canvas
@@ -219,15 +204,11 @@ In Lab 06, our group connected the product concept, system requirements, user st
 - Data Flow Diagram
 - Weekly Logbook
 
----
-
 ## Technical Direction
 
 For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
 
 The frontend will offer an interactive interface where users can explore trending movies, search for titles, chat with the AI assistant, manage their watchlist, and review previous conversations.The backend will handle user requests, communicate with the AI chatbot and TMDB API, and manage user data stored in SQLite.This architecture offers a simple yet scalable solution that supports the project's MVP while allowing future enhancements.
-
----
 
 ## Final Prototype Connection
 
@@ -257,6 +238,7 @@ The MVP feature list, system requirements, and user stories define the developme
 - Admin dashboard for viewing chatbot conversations
 
 Additional features, including advanced AI personalization, recommendation analytics, and streaming platform integration, will be considered for future versions after the MVP has been successfully completed. These enhancements will help improve the overall recommendation experience and system capabilities.
+
 ---
 
 # Lab 07: MVP Experiment Design
@@ -341,7 +323,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 2. **Enhance Movie Search (FR-04):** Improve the search feature with better keyword matching, autocomplete suggestions, and more accurate search results.
 3. **Improve Personalized Movie Recommendations (FR-05):** Display more relevant recommendations and include a short explanation of why each movie is suggested based on the user's preferences.
 4. **Enhance Movie Details (FR-06):** Improve the movie detail page by highlighting ratings, genres, cast, trailers, and streaming platform information for easier decision-making.
-5. **Enhance Admin Dashboard (FR-12):**Enhance dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
+5. **Enhance Admin Dashboard (FR-12):** Enhance dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
 ### Files Added / Updated
 - `data/validation-results.csv`
 - `data/test-users.csv`
@@ -351,6 +333,8 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 - `docs/test-user-notes.md`
 - `docs/weekly-logbook.md`
 - `screenshots/project-dashboard.md`
+
+---
 
 ## Lab 09 - Responsible IT Check
 
@@ -397,3 +381,6 @@ Core system requirements (`FR-01` through `FR-12` in `docs/system-requirements.m
 | **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue **#46** |
 | **Htut Arkar Saing** (`htutarkar67`) | Documentation Lead | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue **#47** |
 | **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue **#48** |
+
+---
+
