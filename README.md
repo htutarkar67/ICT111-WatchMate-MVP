@@ -192,13 +192,13 @@ In Lab 06, our group connected the product concept, system requirements, user st
 
 ## Files Added or Updated
 
-- `docs/business-model-canvas.md`
-- `docs/feature-value-mapping.md`
-- `docs/technical-architecture.md`
-- `docs/data-structure.md`
-- `diagrams/system-architecture.mmd`
-- `diagrams/data-flow.md`
-- `docs/weekly-logbook.md`
+- `/docs/business-model-canvas.md`
+- `/docs/feature-value-mapping.md`
+- `/docs/technical-architecture.md`
+- `/docs/data-structure.md`
+- `/diagrams/system-architecture.mmd`
+- `/diagrams/data-flow.md`
+- `/docs/weekly-logbook.md`
 
 ## Technical Direction
 For this prototype, we will use a **React frontend**, **Node.js and Express.js backend**, **SQLite database**, **TMDB API**, and an **AI chatbot API** (such as Google Gemini) to build the movie recommendation system.
@@ -275,12 +275,12 @@ The experiment will be considered successful if:
 
 ## Files Added in Lab 07
 
-- `docs/mvp-experiment-plan.md`
-- `docs/critical-assumptions.md`
-- `docs/experiment-script.md`
-- `docs/success-metrics.md`
-- `docs/feedback-form.md`
-- `docs/weekly-logbook.md`
+- `/docs/mvp-experiment-plan.md`
+- `/docs/critical-assumptions.md`
+- `/docs/experiment-script.md`
+- `/docs/success-metrics.md`
+- `/docs/feedback-form.md`
+- `/docs/weekly-logbook.md`
 
 ## Connection to the Final Prototype
 
@@ -316,15 +316,16 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 3. **Improve Personalized Movie Recommendations (FR-05):** Display more relevant recommendations and include a short explanation of why each movie is suggested based on the user's preferences.
 4. **Enhance Movie Details (FR-06):** Improve the movie detail page by highlighting ratings, genres, cast, trailers, and streaming platform information for easier decision-making.
 5. **Enhance Admin Dashboard (FR-12):** Enhance dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
+
 ### Files Added / Updated
-- `data/validation-results.csv`
-- `data/test-users.csv`
-- `docs/customer-validation-summary.md`
-- `docs/analytics-insights.md`
-- `docs/mvp-decision.md`
-- `docs/test-user-notes.md`
-- `docs/weekly-logbook.md`
-- `screenshots/project-dashboard.md`
+- `/data/validation-results.csv`
+- `/data/test-users.csv`
+- `/docs/customer-validation-summary.md`
+- `/docs/analytics-insights.md`
+- `/docs/mvp-decision.md`
+- `/docs/test-user-notes.md`
+- `/docs/weekly-logbook.md`
+- `/screenshots/project-dashboard.md`
 
 ---
 
@@ -341,24 +342,24 @@ In Lab 09, our group conducted a comprehensive responsible IT design evaluation 
 
 ### Files Added / Updated
 
-- `docs/legal-ethical-checklist.md`
-- `docs/privacy-and-data-protection.md`
-- `docs/ip-and-third-party-assets.md`
-- `docs/basic-security-risk-check.md`
-- `docs/risk-register.md`
-- `docs/updated-requirements-note.md`
-- `docs/user-consent-statement.md`
-- `docs/data-handling-policy.md`
-- `docs/weekly-logbook.md`
-- `data/data-inventory.csv`
-- `data/risk-register.csv`
-- `data/third-party-assets-register.csv`
-- `diagrams/privacy-security-review.mmd`
-- `screenshots/privacy-security-review.md`
+- `/docs/legal-ethical-checklist.md`
+- `/docs/privacy-and-data-protection.md`
+- `/docs/ip-and-third-party-assets.md`
+- `/docs/basic-security-risk-check.md`
+- `/docs/risk-register.md`
+- `/docs/updated-requirements-note.md`
+- `/docs/user-consent-statement.md`
+- `/docs/data-handling-policy.md`
+- `/docs/weekly-logbook.md`
+- `/data/data-inventory.csv`
+- `/data/risk-register.csv`
+- `/data/third-party-assets-register.csv`
+- `/diagrams/privacy-security-review.mmd`
+- `/screenshots/privacy-security-review.md`
 
 ### Requirement Update
 
-Core system requirements (`FR-01` through `FR-12` in `docs/system-requirements.md`) remain active. Responsible design updates were formally documented in `docs/updated-requirements-note.md`:
+Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.md`) remain active. Responsible design updates were formally documented in `docs/updated-requirements-note.md`:
 
 - **FR-03**: Added chatbot input validation, example prompts for new users, and a loading indicator while AI recommendations are being generated (Issue **#45**).
 - **FR-04**: Added autocomplete search suggestions and genre filters to improve the movie search experience (Issue **#45**).
@@ -369,10 +370,10 @@ Core system requirements (`FR-01` through `FR-12` in `docs/system-requirements.m
 
 | Member Name | Role | Contribution | GitHub Evidence |
 |---|---|---|---|
-| **Bhone Myat Kyaw** (`Kreazx`) | Technical Lead | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/basic-security-risk-check.md`. | [Issue #45](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/45) |
-| **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | [Issue #46](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/46) |
-| **Htut Arkar Saing** (`htutarkar67`) | Documentation Lead | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | [Issue #47](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/47) |
-| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | [Issue #48](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/48) |
+| **Bhone Myat Kyaw** (`Kreazx`) | Technical Lead | Authored `/docs/legal-ethical-checklist.md`, `/docs/privacy-and-data-protection.md`, and `/docs/basic-security-risk-check.md`. | [Issue #45](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/45) |
+| **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead | Prepared `/data/data-inventory.csv`, `/data/risk-register.csv`, `/data/third-party-assets-register.csv`, and created `/diagrams/privacy-security-review.mmd` and `/screenshots/privacy-security-review.md`. | [Issue #46](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/46) |
+| **Htut Arkar Saing** (`htutarkar67`) | Documentation Lead | Authored `/docs/risk-register.md`, `/docs/updated-requirements-note.md`, and `/docs/user-consent-statement.md`. | [Issue #47](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/47) |
+| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Authored `/docs/data-handling-policy.md`, `/docs/ip-and-third-party-assets.md`, updated `/docs/weekly-logbook.md`, and `README.md`. | [Issue #48](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/48) |
 
 ---
 
