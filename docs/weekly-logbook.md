@@ -271,17 +271,20 @@ WatchMate: AI Movie Recommendation System
 | **Tar Yar Lin Latt** | Linked the HTML prototype pages, updated the MVP navigation flow, and revised the `README.md` for Lab 07. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 
 ## Key Decisions
-| Decision | Reason | Evidence/Requirement Link |
+
+| Decision | Reason | Evidence / Requirement Link |
 |---|---|---|
-| Selected Interactive Clickable Prototype for MVP Experiment | Allows users to test the complete AI movie recommendation workflow before full implementation. | `docs/mvp-experiment-plan.md` |
-| Included AI Chatbot Conversation as the Core User Flow | Validates whether users can easily describe their movie preferences and receive personalized recommendations. | `docs/critical-assumptions.md`, `docs/user-stories.md` |
-| Prepared Quantitative and Qualitative Feedback Form | Measures task completion, usability, recommendation relevance, and overall user satisfaction during MVP testing. | `docs/feedback-form.md`, `data/feedback-form.csv` |
+| Selected a **Simple Web Prototype** for MVP testing. | Enables rapid testing of the AI chatbot, movie search, recommendation results, and movie details using linked HTML pages. | `/docs/mvp-experiment-plan.md` |
+| Included both **Movie Viewers** and **Administrators** as test users. | To validate both the user recommendation experience and the administrator analytics dashboard. | `/docs/success-metrics.md`, `/docs/critical-assumptions.md` |
+| Designed both **quantitative and qualitative feedback forms**. | To measure task completion, usability, recommendation quality, and overall user satisfaction. | `/docs/feedback-form.md`, `/data/feedback-form.csv` |
 
 ## Problems and Next Action
-| Problem | Next Action |
-|---|---|
-| The interactive prototype currently simulates AI responses and does not generate real-time personalized movie recommendations. | Integrate AI recommendation logic and connect the chatbot to a movie database to provide dynamic and personalized recommendations. |
-| Some users found the chatbot prompts and navigation flow slightly confusing during usability testing. | Refine the chatbot conversation flow, improves navigation labels, simplify the interface, and update the prototype based on user feedback. |
+
+| Problem | Next Action | Responsible Member |
+|---|---|---|
+| The AI chatbot currently provides recommendations without explaining why specific movies were selected. | Add recommendation explanations such as genres, actors, and user preference matching to improve transparency. | Htut Arkar Saing |
+| Test users requested search suggestions and additional filtering options (genre, release year, rating). | Enhance the search interface with autocomplete and advanced filtering features. | Bhone Myat Kyaw |
+| Some users found the administrator dashboard navigation unclear during testing. | Improve dashboard navigation and simplify the analytics layout. | Tar Yar Lin Latt |
 
 ---
 
@@ -301,12 +304,13 @@ WatchMate: AI Movie Recommendation System
 - [x] Wrote analytics insights
 - [x] Wrote MVP decision
 - [x] Updated README
+- [x] Created GitHub issues for prototype improvements
 
-## Contributions
-- Prepared validation dataset (`data/validation-results.csv`) and created GitHub issues for prototype improvements
-- Calculated usability metrics and authored `docs/analytics-insights.md`
-- Authored `docs/customer-validation-summary.md` and synthesized qualitative user feedback
-- Formulated decision rationale in `docs/mvp-decision.md` and updated `README.md`
+| Member Name | Contribution | GitHub Evidence |
+|---|---|---|
+| **Htut Arkar Saing** | Prepared the validation dataset `/data/validation-results.csv` and created GitHub issues for prototype improvements | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Calculated usability metrics and authored `/docs/analytics-insights.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Tar Yar Lin Latt** | Authored `/docs/customer-validation-summary.md` ,  prepared the MVP decision `/docs/mvp-decision.md`, and updated `README.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 
 ## Problems Found
 - **Recommendation Response Time**: A few testers experienced minor delays when generating AI movie recommendations (`FR-03`).
