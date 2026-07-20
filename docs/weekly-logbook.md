@@ -176,10 +176,10 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 ## Member Contributions
 | Member Name | Contribution | Evidence / Commit Link |
 |---|---|---|
-| **Htut Arkar Saing** | Created `/docs/product-concept.md`, `/docs/feature-requirement-mapping.md`, and updated the README. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Htut Arkar Saing** | Created `/docs/product-concept.md`, `/docs/feature-requirement-mapping.md` | [product-concept.md Link](../docs/product-concept.md) , [feature-requirement-mapping.md Link](../docs/feature-requirement-mapping.md) |
 | **Bhone Myat Kyaw** | Designed the wireframe screens and prepared the sample movie dataset structure. | [wireframes Link](../wireframes/) |
 | **Bhone Myat Kyaw** | Created `/docs/wireframe-specification.md` and `/docs/wireframe-usability-checklist.md` | [wireframe-specification.md Link](../docs/wireframe-specification.md) , [wireframe-usability-checklist.md Link](../docs/wireframe-usability-checklist.md) |
-| **Tar Yar Lin Latt** | Created the user flow diagram, wireframe specification, wireframe usability checklist, and updated the weekly logbook. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Tar Yar Lin Latt** | Created the weekly logbook and updated `README.md`. | [weekly-logbook.md Link](../docs/weekly-logbook.md) |
 
 ## Decisions Made
 | Decision | Reason | Related Requirement |
