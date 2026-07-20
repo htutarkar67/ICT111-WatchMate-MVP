@@ -295,8 +295,8 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 
 ### Prototype Version Tested
 - **Version:** v1
-- **Link:** [/prototype/index.html](prototype/index.html) , [/prototype/style.css](prototype/style.css)
-- **Screenshots:** [/screenshots/project-dashboard.md](screenshots/project-dashboard.md)
+- **Link:** [/prototype/index.html](/prototype/index.html) , [/prototype/style.css](/prototype/style.css)
+- **Screenshots:** [/screenshots/project-dashboard.md](/screenshots/project-dashboard.md)
 
 ### Analytics Summary
 
