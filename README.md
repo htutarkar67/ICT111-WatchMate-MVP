@@ -275,12 +275,12 @@ The experiment will be considered successful if:
 
 ## Files Added in Lab 07
 
-- `/docs/mvp-experiment-plan.md`
-- `/docs/critical-assumptions.md`
-- `/docs/experiment-script.md`
-- `/docs/success-metrics.md`
-- `/docs/feedback-form.md`
-- `/docs/weekly-logbook.md`
+- [/docs/mvp-experiment-plan.md](/docs/mvp-experiment-plan.md)
+- [/docs/critical-assumptions.md](/docs/critical-assumptions.md)
+- [/docs/experiment-script.md](/docs/experiment-script.md)
+- [/docs/success-metrics.md](/docs/success-metrics.md)
+- [/docs/feedback-form.md](/docs/feedback-form.md)
+- [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
 
 ## Connection to the Final Prototype
 
@@ -320,13 +320,13 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 
 ### Files Added / Updated
 - [/data/validation-results.csv](/data/validation-results.csv)
-- `/data/test-users.csv`
-- `/docs/customer-validation-summary.md`
-- `/docs/analytics-insights.md`
-- `/docs/mvp-decision.md`
-- `/docs/test-user-notes.md`
-- `/docs/weekly-logbook.md`
-- `/screenshots/project-dashboard.md`
+- [/data/test-users.csv](/data/test-users.csv)
+- [/docs/customer-validation-summary.md](/docs/customer-validation-summary.md)
+- [/docs/analytics-insights.md](/docs/analytics-insights.md)
+- [/docs/mvp-decision.md](/docs/mvp-decision.md)
+- [/docs/test-user-notes.md](/docs/test-user-notes.md)
+- [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
+- [/screenshots/project-dashboard.md](/screenshots/project-dashboard.md)
 
 ---
 
@@ -343,20 +343,20 @@ In Lab 09, our group conducted a comprehensive responsible IT design evaluation 
 
 ### Files Added / Updated
 
-- `/docs/legal-ethical-checklist.md`
-- `/docs/privacy-and-data-protection.md`
-- `/docs/ip-and-third-party-assets.md`
-- `/docs/basic-security-risk-check.md`
-- `/docs/risk-register.md`
-- `/docs/updated-requirements-note.md`
-- `/docs/user-consent-statement.md`
-- `/docs/data-handling-policy.md`
-- `/docs/weekly-logbook.md`
-- `/data/data-inventory.csv`
-- `/data/risk-register.csv`
-- `/data/third-party-assets-register.csv`
-- `/diagrams/privacy-security-review.mmd`
-- `/screenshots/privacy-security-review.md`
+- [/docs/legal-ethical-checklist.md](/docs/legal-ethical-checklist.md)
+- [/docs/privacy-and-data-protection.md](/docs/privacy-and-data-protection.md)
+- [/docs/ip-and-third-party-assets.md](/docs/ip-and-third-party-assets.md)
+- [/docs/basic-security-risk-check.md](/docs/basic-security-risk-check.md)
+- [/docs/risk-register.md](/docs/risk-register.md)
+- [/docs/updated-requirements-note.md](/docs/updated-requirements-note.md)
+- [/docs/user-consent-statement.md](/docs/user-consent-statement.md)
+- [/docs/data-handling-policy.md](/docs/data-handling-policy.md)
+- [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
+- [/data/data-inventory.csv](/data/data-inventory.csv)
+- [/data/risk-register.csv](/data/risk-register.csv)
+- [/data/third-party-assets-register.csv](/data/third-party-assets-register.csv)
+- [/diagrams/privacy-security-review.mmd](/diagrams/privacy-security-review.mmd)
+- [/screenshots/privacy-security-review.md](/screenshots/privacy-security-review.md)
 
 ### Requirement Update
 
