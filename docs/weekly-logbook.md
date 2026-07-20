@@ -251,7 +251,7 @@ WatchMate: AI Movie Recommendation System
 - Group name: WatchMate
 - Project title: AI Movie Recommendation System
 - Date: 15 Jul 2026
-- GitHub repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
+- Repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
 
 ## What We Completed Today
 - [x] Reviewed project requirements, user stories, MVP features, and interactive prototype
@@ -261,12 +261,17 @@ WatchMate: AI Movie Recommendation System
 - [x] Prepared experiment script and user feedback form
 - [x] Updated GitHub repository and README
 
-## Contributions
+## Member Contributions
+| Member Name | Contribution | Evidence/Commit/Issue Link |
+|---|---|---|
+|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 - Created the MVP experiment plan.
 - Refined the critical assumptions and success metrics.
 - Prepared the experiment script and feedback form.
 - Updated the interactive prototype and MVP demonstration materials.
-- Evidence/Commit/Issue Link: https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/
 
 ## Key Decisions
 | Decision | Reason | Evidence/Requirement Link |
