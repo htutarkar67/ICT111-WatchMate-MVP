@@ -87,9 +87,7 @@ Our team gathered customer discovery evidence from:
 * Streaming platform users who experience difficulty selecting suitable content.
 
 ## Main Evidence Found
-
 Through interviews and surveys, we discovered several important insights:
-
 * Too many choices create decision fatigue: Users often feel overwhelmed when browsing large movie libraries.
 * Searching takes too much time: Many respondents reported spending a long time looking for a movie before making a decision.
 * Recommendations are not always relevant: Existing recommendation systems often suggest movies that do not match user interests.
@@ -98,8 +96,7 @@ Updated Problem Statement
 
 Movie viewers often struggle to find movies that match their interests because streaming platforms offer a vast number of choices. Existing recommendation methods, including social media, online reviews, and platform-generated suggestions, are often time-consuming or insufficiently personalized. As a result, users experience frustration, decision fatigue, and difficulty discovering suitable movies.
 
-Decision for Next Step
-
+## Decision for Next Step
 The team has decided to proceed with the current problem direction and continue developing the WatchMate Movie Recommendation System based on validated customer feedback and research findings.
 
 ---
