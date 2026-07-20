@@ -262,12 +262,13 @@ WatchMate: AI Movie Recommendation System
 - [x] Updated GitHub repository and README
 
 ## Member Contributions
-| Member Name | Contribution | Evidence/Commit/Issue Link |
+
+| Member Name | Contribution | Evidence / Commit / Issue Link |
 |---|---|---|
-|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
-|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
-|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
-|  |  | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Htut Arkar Saing** | Added the initial MVP experiment plan files and updated `docs/mvp-demo-link.md`. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Updated `docs/success-metrics.md` and `docs/critical-assumptions.md` with user testing metrics and validation criteria. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Tar Yar Lin Latt** | Completed `docs/experiment-script.md` and `docs/feedback-form.md` with testing scenarios, observations, and feedback questions. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Htut Arkar Saing** | Linked the HTML prototype pages, updated the MVP navigation flow, and revised the `README.md` for Lab 07. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 - Created the MVP experiment plan.
 - Refined the critical assumptions and success metrics.
 - Prepared the experiment script and feedback form.
