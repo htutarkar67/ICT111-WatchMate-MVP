@@ -306,6 +306,8 @@ WatchMate: AI Movie Recommendation System
 - [x] Updated README
 - [x] Created GitHub issues for prototype improvements
 
+## Member Contributions
+
 | Member Name | Contribution | GitHub Evidence |
 |---|---|---|
 | **Htut Arkar Saing** | Prepared the validation dataset `/data/validation-results.csv` and created GitHub issues for prototype improvements | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
