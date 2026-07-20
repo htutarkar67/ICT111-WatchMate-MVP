@@ -176,8 +176,8 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 ## Member Contributions
 | Member Name | Contribution | Evidence / Commit Link |
 |---|---|---|
-| **Htut Arkar Saing** | Created `docs/product-concept.md`, `docs/feature-requirement-mapping.md`, and updated the README. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
-| **Bhone Myat Kyaw** | Designed the wireframe screens and prepared the sample movie dataset structure. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Htut Arkar Saing** | Created `/docs/product-concept.md`, `/docs/feature-requirement-mapping.md`, and updated the README. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Bhone Myat Kyaw** | Designed the wireframe screens and prepared the sample movie dataset structure. | [wireframes Link](../wireframes/) |
 | **Tar Yar Lin Latt** | Created the user flow diagram, wireframe specification, wireframe usability checklist, and updated the weekly logbook. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
 
 ## Decisions Made
