@@ -26,14 +26,8 @@
 
 ### Evidence of Work
 
-* GitHub repository link: [Insert Repository Link]
-* Screenshot: [Insert Screenshot Here]
-* File created:
-
-  * README.md
-  * docs/weekly-logbook.md
-  * docs/team-working-agreement.md
-  * Commit link: [Insert Commit Link]
+- GitHub repository link: `https://github.com/htutarkar67/ICT111-WatchMate-MVP`
+- **File created:** `docs/team-profile.md`, `docs/idea-log.md`, `docs/weekly-logbook.md`
 
 ### Decision Made This Week
 
@@ -49,45 +43,64 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 
 4. Adjust the project scope, target users, and value proposition based on research findings.
 
+---
 
 ## Lab 02: IT Opportunity Scanning
 
 ### What We Completed
-
-1. Conducted opportunity scanning to identify potential problems in the entertainment and movie discovery industry.
-2. Discussed multiple venture ideas and evaluated their feasibility, user demand, and technical requirements.
-3. Applied NUF (Need, Uniqueness, Feasibility) scoring to compare the proposed ideas.
-4. Selected **WatchMate - Movie Recommendation System** as the final project opportunity.
-5. Updated project documentation and recorded the team's decisions.
+1. Brainstormed six software startup ideas that address common problems faced by students and everyday users.
+2. Evaluated each idea using the NUF (New, Useful, Feasible) scoring framework.
+3. Compared the scores to identify the most suitable project for the semester.
+4. Updated the GitHub repository and added a new collaborator for team development.
 
 ### Selected Opportunity
 
-**WatchMate - Movie Recommendation System**
+**WatchMate – AI Movie Recommendation System**
 
-WatchMate is a web-based platforms that helps users discover movies based on their preferences, favorite genres, ratings, and viewing history. The system aims to reduce the time user spend searching for movies and improve their overall movies discovery experience.
+### Why We Selected It
 
-### Why It Was Selected (NUF Scoring)
+WatchMate received the **highest NUF score (14/15)** and ranked **1st** among all proposed ideas.
 
-| Criteria    | Score (1-10) | Reason                                                                                               |
-| ----------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| Need        | 9            | Many users struggle to find movies that match their interests.                                       |
-| Uniqueness  | 7            | The platform offers personalized recommendations and watchlist management.                           |
-| Feasibility | 9            | The system can be developed using HTML, CSS, JavaScript, Firebase, and TMDB API within the semester. |
-| **Total**   | **25/30**    | Highest score among all proposed ideas.                                                              |
+| Criteria | Score |
+|----------|------:|
+| New | 5 |
+| Useful | 5 |
+| Feasible | 4 |
+| **Total** | **14/15** |
 
-### Rejected Idea
+The team selected this project because it addresses a common problem—users often spend too much time deciding what movie to watch. WatchMate uses an AI chatbot to provide personalized movie recommendations based on user preferences, improving content discovery and the overall viewing experience. The solution is practical for an MVP and can be developed using web technologies and AI APIs.
 
-**Smart Movie Watchlist Manager**
+### What We Rejected
 
-Although the idea helps users manage movies they want to watch, it mainly focuses on saving and tracking movies rather than helping users discover new content. The team decided that WatchMate provides greater value by combining movie discovery, personalization, and recommendation features.
+The following ideas were not selected because they received lower NUF scores:
+
+- **Lost and Found Portal** (13/15) – Useful but less innovative than an AI recommendation system.
+- **Small Business Inventory Tracker** (12/15) – Valuable for businesses but outside our team's interest.
+- **Study Group Finder** (12/15) – Helpful for students but less unique.
+- **Campus Event Tracker** (11/15) – Similar applications already exist.
+- **Classroom Booking System** (10/15) – Lower feasibility due to scheduling and administrative integration.
+
+### What We Learned
+
+1. The NUF framework provides an objective method for evaluating business ideas.
+2. A successful software product should solve a real user problem while remaining technically feasible.
+3. User value and feasibility are as important as innovation when selecting a startup idea.
+4. Working as a team helps compare ideas from different perspectives before making a final decision.
+
+### Evidence of Work
+
+- Opportunity Scan: `/docs/opportunity-scan.md`
+- NUF Scoring Matrix: `/data/opportunity-scoring.xlsx`
+- Selected Opportunity: `/docs/selected-opportunity.md`
+- GitHub Issues: Under my Issues
 
 ### Plan for Lab 03
 
-1. Conduct customer discovery and problem validation with potential users.
-2. Prepare survey questions and collect feedback from students and movie enthusiasts.
-3. Identify user pain points related to movie discovery and recommendation systems.
-4. Refine the project value proposition based on customer feedback.
-5. Document research findings and update the project repository.
+Our team will conduct customer discovery interviews to understand users' movie-watching habits, recommendation preferences, and challenges when selecting movies. The interview questions will be documented in:
+
+`/docs/customer-discovery-questions.md`
+
+
 
 # Lab 03: Customer Problem Discovery
 
