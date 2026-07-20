@@ -177,10 +177,9 @@ The system is designed for movie enthusiasts, students, and casual viewers who o
 
 The user begins on the **Homepage**, where they can browse trending movies or search for a specific title. Users can also open the **AI Movie Recommendation Chatbot** and enter their preferences, mood, favorite genre, or a movie they enjoyed. The AI chatbot analyzes the request and provides personalized movie recommendations. Users can then view detailed movie information, watch the trailer, and save movies to their watchlist. Logged-in users can access previous chatbot conversations through the chat history, while administrators can monitor chatbot usage and review user chat history through the admin dashboard.
 
-**User Flow Diagram:** `/diagrams/user-flow.png`
+**User Flow Diagram:** `/diagrams/user-flow-diagram.md`
 
 ## Team Contribution
-
 All team members contributed to the development of **WatchMate** using the shared GitHub repository. Contributions included product concept development, user persona creation, system requirements, user stories, MVP feature planning, UI/UX wireframe design, user flow design, clickable prototype development, documentation updates, commits, issues, and pull requests.
 
 ---
