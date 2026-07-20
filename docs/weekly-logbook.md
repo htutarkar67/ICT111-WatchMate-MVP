@@ -113,7 +113,7 @@ Our team will conduct customer discovery interviews to understand users' movie-w
 - **Assumption-evidence table:** `/docs/assumption-evidence-table.md`
 - **Commit link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/`
 
-## Plan for Lab 04
+### Plan for Lab 04
 In Lab 04, the team will analyze the customer discovery findings and define a clear target user persona for the Movie Recommendation System. We will create user stories based on validated user needs and prioritize features that directly address the problems identified during customer interviews. This will help ensure that the MVP is built around real user evidence rather than assumptions.
 
 ---
@@ -156,9 +156,9 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 | Task | Owner | Deadline | GitHub Issue |
 | :--- | :--- | :--- | :--- |
 | Complete AI chatbot conversation flow | Htut Arkar Saing | 05/07/2026 | [Issues Link](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues) |
-| Finalize user persona and user stories | Bhone Myat Kyaw | 05/07/2026 |  |
-| Complete user flow and use case diagrams | Tar Yar Lin Latt | 05/07/2026 |  |
-| Review project documentation and update README | All Members | 05/07/2026 | |
+| Finalize user persona and user stories | Bhone Myat Kyaw | 05/07/2026 | [Issues Link](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues) |
+| Complete user flow and use case diagrams | Bhone Myat Kyaw | 05/07/2026 | [Issues Link](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues) |
+| Review project documentation and update README | Tar Yar Lin Latt | 05/07/2026 | [Issues Link](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues) |
 
 ---
 
