@@ -144,9 +144,9 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 ## Diagram Links
 
-**User Flow Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/user-flow-diagram.md]
+**User Flow Diagram:** [/diagrams/user-flow-diagram.md](/diagrams/user-flow-diagram.md) 
 
-**Use Case Diagram:** [https://github.com/htutarkar67/ICT111-WatchMate-MVP/blob/main/diagrams/use-case-diagram.md]
+**Use Case Diagram:** [/diagrams/use-case-diagram.md](/diagrams/use-case-diagram.md)
 
 ## GitHub Contribution Evidence
 
