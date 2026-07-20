@@ -330,24 +330,22 @@ WatchMate: AI Movie Recommendation System
 - Improve recommendation accuracy by incorporating user watch history and preferences (`FR-03`).
 - Enhance chat history navigation for easier access and better usability (`FR-12`).
 
+---
+
 # Weekly Logbook - Lab 09
 
 ## Group Name
-
 WatchMate
 
 ## Date
-
 19/07/2026
 
 ## Members Present
-
 - Bhone Myat Kyaw
 - Htut Arkar Saing
 - Tar Yar Lin Latt
 
 ## Work Completed Today
-
 - **Data inventory:** Completed the project data inventory and classified collected data according to personal data, sensitive data, visibility, and responsible handling.
 - **Privacy review:** Reviewed user data collection, storage, access control, data minimization, and responsible data handling for the AI movie recommendation system.
 - **Ethical review:** Completed the legal and ethical checklist, including AI recommendation transparency and fairness considerations.
@@ -357,7 +355,6 @@ WatchMate
 - **Requirements update note:** Reviewed and updated system requirements based on usability, privacy, and security findings.
 
 ## Member Contributions
-
 | Member Name | Contribution | GitHub Evidence |
 |---|---|---|
 | **Bhone Myat Kyaw** (`Kreazx`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/security-risk-check.md`. | Issue `#45` |
@@ -366,7 +363,6 @@ WatchMate
 | **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#48` |
 
 ## Decisions Made
-
 | Decision | Reason | Evidence / Requirement |
 |---|---|---|
 | Completed a project data inventory. | To identify what user information is collected and ensure responsible data handling. | `data/data-inventory.csv` |
@@ -376,14 +372,12 @@ WatchMate
 | Updated project documentation. | To keep privacy, security, and project documentation consistent throughout the repository. | `docs/updated-requirements-note.md`, `README.md` |
 
 ## Issues / Blockers
-
 - Ensuring AI-generated movie recommendations remain accurate, transparent, and free from bias.
 - Reviewing third-party licenses for movie information, icons, and other external assets.
 - Strengthening administrator access control and protecting user chat history.
 - Improving chatbot guidance for first-time users.
 
 ## Next Action Before Lab 10
-
 - Finalize all WatchMate prototype features and complete remaining UI improvements.
 - Implement stronger input validation and administrator role-based access control (RBAC).
 - Improve AI recommendation transparency by showing recommendation reasons and loading indicators.
