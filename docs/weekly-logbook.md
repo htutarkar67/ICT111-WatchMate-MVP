@@ -212,6 +212,14 @@ WatchMate: AI Movie Recommendation System
 ## Date
 09/07/2026
 
+## Member Contributions
+
+| Member Name | Contribution | Evidence / Commit Link |
+|---|---|---|
+| **Htut Arkar Saing** | Created `/docs/business-model-canvas.md` and `/docs/feature-value-mapping.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Tar Yar Lin Latt** | Updated `/docs/weekly-logbook.md` and `README.md` | `(https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Created `/diagrams/system-architecture.mmd` and `/diagrams/data-flow.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Created `/docs/technical-architecture.md` and `/docs/data-structure.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 
 
 ## Decisions Made Today
