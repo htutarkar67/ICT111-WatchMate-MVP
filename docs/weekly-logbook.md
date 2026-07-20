@@ -230,18 +230,12 @@ WatchMate: AI Movie Recommendation System
 - **MVP decision:** The AI chatbot will be the primary method for generating personalized movie recommendations.
 - **Admin decision:** Administrators will monitor user chat history and chatbot usage instead of managing movie records.
 
----
-
 ## Problems or Risks Found
-
 - Integrating the AI chatbot API with the movie recommendation workflow may require additional testing to ensure accurate and relevant recommendations.
 - Dependence on external services such as the TMDB API and AI API may affect system availability if rate limits or network issues occur.
 - Coordinating GitHub commits and resolving merge conflicts may become challenging as multiple team members work on the frontend, backend, and documentation simultaneously.
 
----
-
 ## Next Actions Before Lab 07
-
 - Complete the UI/UX implementation based on the approved wireframes.
 - Integrate the AI chatbot with the movie recommendation system.
 - Connect the TMDB API to display movie information and search results.
