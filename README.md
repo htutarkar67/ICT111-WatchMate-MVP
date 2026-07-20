@@ -319,7 +319,7 @@ Evaluated the usability, task completion, and user satisfaction of WatchMate’s
 5. **Enhance Admin Dashboard (FR-12):** Enhance dashboard analytics and user activity monitoring to help administrators evaluate chatbot performance and recommendation usage.
 
 ### Files Added / Updated
-- `/data/validation-results.csv`
+- [/data/validation-results.csv](/data/validation-results.csv)
 - `/data/test-users.csv`
 - `/docs/customer-validation-summary.md`
 - `/docs/analytics-insights.md`
