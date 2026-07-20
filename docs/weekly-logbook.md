@@ -162,9 +162,9 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 ---
 
-# Lab 05 Focus
+## Weekly Logbook - Lab 05 Reflection
 
-## Product Concept and UI/UX Wireframe
+### Product Concept and UI/UX Wireframe
 
 ### What We Completed Today
 
