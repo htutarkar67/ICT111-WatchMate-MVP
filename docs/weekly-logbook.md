@@ -253,10 +253,7 @@ WatchMate: AI Movie Recommendation System
 - Date: 15 Jul 2026
 - GitHub repository link: https://github.com/htutarkar67/ICT111-WatchMate-MVP
 
----
-
 ## What We Completed Today
-
 - [x] Reviewed project requirements, user stories, MVP features, and interactive prototype
 - [x] Identified critical assumptions for AI-powered movie recommendations
 - [x] Selected MVP experiment type
@@ -264,30 +261,21 @@ WatchMate: AI Movie Recommendation System
 - [x] Prepared experiment script and user feedback form
 - [x] Updated GitHub repository and README
 
----
-
 ## Contributions
-
 - Created the MVP experiment plan.
 - Refined the critical assumptions and success metrics.
 - Prepared the experiment script and feedback form.
 - Updated the interactive prototype and MVP demonstration materials.
 - Evidence/Commit/Issue Link: https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/
 
----
-
 ## Key Decisions
-
 | Decision | Reason | Evidence/Requirement Link |
 |---|---|---|
 | Selected Interactive Clickable Prototype for MVP Experiment | Allows users to test the complete AI movie recommendation workflow before full implementation. | `docs/mvp-experiment-plan.md` |
 | Included AI Chatbot Conversation as the Core User Flow | Validates whether users can easily describe their movie preferences and receive personalized recommendations. | `docs/critical-assumptions.md`, `docs/user-stories.md` |
 | Prepared Quantitative and Qualitative Feedback Form | Measures task completion, usability, recommendation relevance, and overall user satisfaction during MVP testing. | `docs/feedback-form.md`, `data/feedback-form.csv` |
 
----
-
 ## Problems and Next Action
-
 | Problem | Next Action |
 |---|---|
 | The interactive prototype currently simulates AI responses and does not generate real-time personalized movie recommendations. | Integrate AI recommendation logic and connect the chatbot to a movie database to provide dynamic and personalized recommendations. |
