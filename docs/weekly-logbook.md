@@ -5,29 +5,24 @@
 ### What We Completed
 
 1. Created the GitHub repository for the projects and invited all team members to collaborate.
-
 2. Created the initial project structures, including the README.md file and documentation folders.
-
 3. Brainstormed multiple IT venture ideas and selected **MovieMatch - Personalized Movie Recommendation System** as the final project direction.
 
 ### What We Learned
 
 1. Learned how to organize a GitHub repository for a semester-long entrepreneurship project.
-
 2. Learned the importance of documenting project ideas, team roles, and venture decisions from the beginning.
-
 3. Learned how to evaluate different venture ideas based on feasibility, market need, and technical requirements.
 
 ### Problems or Difficulties
 
 1. The team initially had several different project ideas and needed time to compare their advantages and disadvantages.
-
 2. Some team members were unfamiliar with GitHub repository management and commit procedures.
 
 ### Evidence of Work
 
 - GitHub repository link: `https://github.com/htutarkar67/ICT111-WatchMate-MVP`
-- **File created:** `docs/team-profile.md`, `docs/idea-log.md`, `docs/weekly-logbook.md`
+- **File created:** `/docs/team-profile.md`, `/docs/idea-log.md`, `/docs/weekly-logbook.md`
 
 ### Decision Made This Week
 
@@ -36,11 +31,8 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 ### Plan for Next Week
 
 1. Conduct opportunity analysis and problem identification related to movie recommendation services.
-
 2. Research existing movie recommendation platform and identify their strengths and weaknesses.
-
 3. Prepare customer validation questions and collect initial feedback from potential users.
-
 4. Adjust the project scope, target users, and value proposition based on research findings.
 
 ---
@@ -97,70 +89,47 @@ The following ideas were not selected because they received lower NUF scores:
 ### Plan for Lab 03
 
 Our team will conduct customer discovery interviews to understand users' movie-watching habits, recommendation preferences, and challenges when selecting movies. The interview questions will be documented in:
-
 `/docs/customer-discovery-questions.md`
 
-
-
-# Lab 03: Customer Problem Discovery
-
-## What We Completed
-
-**Defined Target Respondents:** Identified university students, movie enthusiasts, and streaming platform users as the primary target groups for our research.
-
-**Formulated Non-Leading Discovery Questions:** Created a set of customer discovery questions focused on how users currently find movies, the challenges they face, existing workarounds, and the consequences of poor movie recommendations.
-
-**Structured Repository Evidence Files:** Formatted and pushed the foundational documentation templates to GitHub, including `/docs/customer-questions.md`, `/docs/problem-notes.md`, and `/docs/assumption-evidence-table.md`.
-
 ---
 
-## What We Learned About the Problem
+## Lab 03: Customer Problem Discovery
 
-**Opinion vs. Fact Split:** We discovered that some features we initially considered important were less valuable to users than expected. Users care more about receiving accurate and relevant movie recommendations than having many advanced features.
+### What We Completed
 
-**Inefficiency of Current Alternatives:** Users currently rely on friends, social media, Google searches, review websites, and streaming platform suggestions. These methods often require significant time and effort before finding a suitable movie.
+1. **Defined Target Respondents:** Identified university students, movie enthusiasts, and streaming platform users as the primary target groups for our research.
+2. **Formulated Non-Leading Discovery Questions:** Created a set of customer discovery questions focused on how users currently find movies, the challenges they face, existing workarounds, and the consequences of poor movie recommendations.
+3. **Structured Repository Evidence Files:** Formatted and pushed the foundational documentation templates to GitHub, including `/docs/customer-questions.md`, `/docs/problem-notes.md`, and `/docs/assumption-evidence-table.md`.
 
-**Severe Friction Points:** The main problem is the difficulty of finding movie that match personal interests. Users frequently experience decision fatigue because of the large number of available movie choices.
+### What We Learned About the Problem
 
----
+1. **Opinion vs. Fact Split:** We discovered that some features we initially considered important were less valuable to users than expected. Users care more about receiving accurate and relevant movie recommendations than having many advanced features.
+2. **Inefficiency of Current Alternatives:** Users currently rely on friends, social media, Google searches, review websites, and streaming platform suggestions. These methods often require significant time and effort before finding a suitable movie.
+3. **Severe Friction Points:** The main problem is the difficulty of finding movie that match personal interests. Users frequently experience decision fatigue because of the large number of available movie choices.
 
-## What Evidence We Collected
+### What Evidence We Collected
 
-**Number of respondents/interviews:** 22 (Data collection completed)
+- **Number of respondents/interviews:** 22 (Data collection completed)
+- **Evidence file:** `/data/raw-responses.xlsx`
+- **Key repeated pattern:** Many respondents reported spending a long time browsing movies before making a decision and often felt overwhelmed by the number of options available.
 
-**Evidence file:** `/data/raw-responses.xlsx`
+### What We Changed Based on Evidence
 
-**Key repeated pattern:** Many respondents reported spending a long time browsing movies before making a decision and often felt overwhelmed by the number of options available.
+*  **Focus on Personalization:** Based on interview feedback, we decided to prioritize personalized movie recommendations instead of adding many extra features.
+*  **Feature Prioritization:** We refined the MVP scope to focus on user preferences, genre selection, recommendation results, and movie discovery features.
 
----
+### Problems or Difficulties
 
-## What We Changed Based on Evidence
+*  **Formulating Neutral Questions:** It was challenging to develop interview questions that focused on understanding user behavior without influencing their responses.
+*  **Scheduling Coordination:** Coordinating interview times with respondents and team members required careful planning and communication.
 
-**Focus on Personalization:** Based on interview feedback, we decided to prioritize personalized movie recommendations instead of adding many extra features.
+### Evidence of Work
 
-**Feature Prioritization:** We refined the MVP scope to focus on user preferences, genre selection, recommendation results, and movie discovery features.
-
----
-
-## Problems or Difficulties
-
-**Formulating Neutral Questions:** It was challenging to develop interview questions that focused on understanding user behavior without influencing their responses.
-
-**Scheduling Coordination:** Coordinating interview times with respondents and team members required careful planning and communication.
-
----
-
-## Evidence of Work
-
-**GitHub repository link:** https://github.com/htutarkar67/ICT111-WatchMate-MVP
-
-**Customer questions file:** `/docs/customer-questions.md`
-
-**Raw responses file:** `/data/raw-responses.xlsx`
-
-**Assumption-evidence table:** `/docs/assumption-evidence-table.md`
-
-**Commit link:** https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/
+- **GitHub repository link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP`
+- **Customer questions file:** `/docs/customer-questions.md`
+- **Raw responses file:** `/data/raw-responses.xlsx`
+- **Assumption-evidence table:** `/docs/assumption-evidence-table.md`
+- **Commit link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/`
 
 ---
 
