@@ -109,11 +109,11 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 ## Persona Summary
 
-**Persona Name:** Alex Tan
-**User Type:**University student and frequent movie watcher
-**Main Goal:** Receive quick personalized movie recommendations through an AI chatbot.
-**Main Pain Point:** Too many movie choices make decisions difficult and time-consuming.
-**Current Workaround:** Uses streaming recommendations, online searches, reviews, and friend suggestions.
+- **Persona Name:** Alex Tan
+- **User Type:** University student and frequent movie watcher
+- **Main Goal:** Receive quick personalized movie recommendations through an AI chatbot.
+- **Main Pain Point:** Too many movie choices make decisions difficult and time-consuming.
+- **Current Workaround:** Uses streaming recommendations, online searches, reviews, and friend suggestions.
 
 ## Key Requirements
 
@@ -158,20 +158,20 @@ Movie viewers who face challenges finding movies that align with their preferenc
 
 ## Product Concept
 
-**WatchMate**is a web-based AI movie recommendation system that helps users discover suitable movies and TV shows through natural conversations with an AI chatbot.Instead of spending significant time browsing streaming platforms or searching online, users can simply describe their preferences, favorite genres, mood, or similar movies, and the AI will provide personalized recommendations based on their interests.
+**WatchMate** is a web-based AI movie recommendation system that helps users discover suitable movies and TV shows through natural conversations with an AI chatbot.Instead of spending significant time browsing streaming platforms or searching online, users can simply describe their preferences, favorite genres, mood, or similar movies, and the AI will provide personalized recommendations based on their interests.
 The system is designed for movie enthusiasts, students, and casual viewers who often struggle to decide what to watch. It solves the problem of information overload by providing fast, intelligent, and personalized movie suggestions in one platform.
 
 ## Requirement-Driven Screens
 
 | Screen | Related Requirement IDs | Wireframe File |
 |--------|--------------------------|----------------|
-| Homepage / Landing | FR-01, FR-02 | `/wireframes/homepage.png` |
-| AI Movie Recommendation Chatbot | FR-02, FR-03, FR-11 | `/wireframes/ai-chatbot.png` |
-| Search Results | FR-04, FR-05 | `/wireframes/search-results.png` |
-| Movie Detail View | FR-06 | `/wireframes/movie-detail.png` |
-| Watchlist | FR-05 | `/wireframes/watchlist.png` |
-| Chat History | FR-05 | `/wireframes/chat-history.png` |
-| Admin Dashboard | FR-06, FR-12 | `/wireframes/admin-dashboard.png` |
+| Homepage / Landing | FR-01, FR-02 | `/wireframes/homepage.md` |
+| AI Movie Recommendation Chatbot | FR-02, FR-03, FR-11 | `/wireframes/ai-chatbot.md` |
+| Search Results | FR-04, FR-05 | `/wireframes/search-results.md` |
+| Movie Detail View | FR-06 | `/wireframes/movie-detail.md` |
+| Watchlist | FR-05 | `/wireframes/watchlist.md` |
+| Chat History | FR-05 | `/wireframes/chat-history.md` |
+| Admin Dashboard | FR-06, FR-12 | `/wireframes/admin-dashboard.md` |
 
 ## User Flow
 
