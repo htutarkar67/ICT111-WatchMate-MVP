@@ -353,10 +353,10 @@ WatchMate
 ## Member Contributions
 | Member Name | Contribution | GitHub Evidence |
 |---|---|---|
-| **Bhone Myat Kyaw** (`Kreazx`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/security-risk-check.md`. | Issue `#45` |
-| **Htut Arkar Saing** (`htutarkar67`) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue `#46` |
-| **Htut Arkar Saing** (`htutarkar67`) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#47` |
-| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#48` |
+| **Bhone Myat Kyaw** (`Kreazx`) | Authored `docs/legal-ethical-checklist.md`, `docs/privacy-and-data-protection.md`, and `docs/security-risk-check.md`. | Issue `#45` (`https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/45`) |
+| **Htut Arkar Saing** (`htutarkar67`) | Prepared `data/data-inventory.csv`, `data/risk-register.csv`, `data/third-party-assets-register.csv`, and created `diagrams/privacy-security-review.mmd` and `screenshots/privacy-security-review.md`. | Issue `#46` (`https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/46`) |
+| **Htut Arkar Saing** (`htutarkar67`) | Authored `docs/risk-register.md`, `docs/updated-requirements-note.md`, and `docs/user-consent-statement.md`. | Issue `#47` (`https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/47`) |
+| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Authored `docs/data-handling-policy.md`, `docs/ip-and-third-party-assets.md`, updated `docs/weekly-logbook.md`, and `README.md`. | Issue `#48` (`https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues/48`) |
 
 ## Decisions Made
 | Decision | Reason | Evidence / Requirement |
