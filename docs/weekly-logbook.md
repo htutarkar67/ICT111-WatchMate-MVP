@@ -113,96 +113,52 @@ Our team will conduct customer discovery interviews to understand users' movie-w
 - **Assumption-evidence table:** `/docs/assumption-evidence-table.md`
 - **Commit link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/`
 
----
-
 ## Plan for Lab 04
 In Lab 04, the team will analyze the customer discovery findings and define a clear target user persona for the Movie Recommendation System. We will create user stories based on validated user needs and prioritize features that directly address the problems identified during customer interviews. This will help ensure that the MVP is built around real user evidence rather than assumptions.
 
+---
 
-# Lab 04 - User Persona, Requirement, and User Stories
+## Lab 04 - User Persona, Requirements, and User Stories
 
-## Group Information
+### Group Information
 * **Course:** ICT111 Fundamental Technology Entrepreneurship
 * **Lab:** Lab 04 - User Persona, Requirements, and User Stories
 * **Group Name:** WatchMate
 * **Repository Link:** `https://github.com/htutarkar67/ICT111-WatchMate-MVP`
 * **Date:** 25/06/2026
 
----
+### 1. Work Completed Today
+| Member Name | Contribution | GitHub Evidence (Commit/Issue/PR Link) |
+| :--- | :--- | :--- |
+| **Bhone Myat Kyaw** | Prioritized the MVP feature list, defined system requirements, updated the weekly logbook, and updated the README. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Tar Yar Lin Latt** | Created the user persona, wrote the user stories, and reviewed the project requirements. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Htut Arkar Saing** | Designed the user flow, use case diagrams, and reviewed the prototype design. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
 
-## 1. Sub-topics Completed
+### 2. Main Decisions
+* **Primary target user:** Students and movie enthusiasts looking for personalized movie recommendations.
+* **Main persona:** Alex, University Student and Movie Lover.
+* **Most important problem:** Users spend too much time searching multiple streaming platforms and websites before finding movies that match their preferences.
+* **Must-have requirements:** FR-03 (AI Movie Recommendation Chatbot), FR-04 (Movie Search), FR-05 (Trending Movies), FR-06 (Movie Details).
+* **Features included in MVP:** AI chatbot for personalized recommendations, movie search, trending movies, and detailed movie information.
+* **Features postponed:** User watchlists, streaming platform integration, user reviews, social sharing, and personalized notifications.
 
-| Sub-topic Completed                                  | Status                                 |
-| ---------------------------------------------------- | -------------------------------------- |
-| User persona and target users.                       | completed                              |
-| System requirements for WatchMate were.              | completed                              |
-| User stories and acceptance criteria.                | completed                              |
-| README and project documentation were.               | completed                              |
+### 3. Requirement Changes / Clarifications
+* We decided to prioritize **AI-powered personalized recommendations** instead of traditional category browsing.
+* Only the minimum user information (username, email, and movie preferences) is collected to protect user privacy.
+* AI recommendations are presented as suggestions only and may not always perfectly match user preferences.
 
----
+### 4. Problems Encountered
+* **Technical problem:** Designing the chatbot conversation flow while keeping the recommendation process simple for the MVP.
+* **Team coordination problem:** Coordinating chatbot design, UI development, and documentation among team members.
+* **Requirement problem:** Ensuring every user story is directly linked to the functional requirements without adding unnecessary features.
 
-## 2. Main Decisions
-
-**Primary target user:**
-
-* Movie viewers who find it difficult to find suitable movies quickly.
-
-**Main persona:**
-
-* Alex Tan, a university student who spend too much time searching for movies and wants personalized recommendations.
-
-**Most important problem:**
-
-* Users are overwhelmed by too many movie choices and have difficulty finding movies that match their preferences.
-
-**Must-have requirements:**
-
-* AI chatbot for movie recommendations.
-* Movie search functionality.
-* Movie detail page.
-* User chat history storage.
-* Admin view of chat history.
-
-**Features included in MVP:**
-
-* AI chatbot recommendation system.
-* Search movies.
-* View movie details.
-* Browse trending movies.
-* Store recommendation/chat history.
-* Admin dashboard for viewing user chat history.
-
-**Features postponed:**
-
-* User account registration.
-* Social sharing features.
-* Advanced recommendation analytics.
-* Personalized user profiles.
-
----
-
-## 3. Requirement Changes / Clarifications
-
-* The project was updated from a traditional movie recommendation system to an AI-powered movie recommendation chatbot.
-* Admin users will not maintain movie records.
-* Admin functionality will focus on viewing user chat history and chatbot usage data.
-* The chatbot will be the primary method for generating movie recommendations.
-
----
-
-## 4. Problems Encountered
-
-**Technical problem:**
-
-*Identifying how to integrate AI chatbot recommendations into the prototype.
-
-**Team coordination problem:**
-
-* Scheduling discussion times among team members.
-
-**Evidence/requirement problem:**
-
-* Matching user stories and requirements with Lab 03 validation evidence.
+### 5. Next Actions Before Lab 05
+| Task | Owner | Deadline | GitHub Issue |
+| :--- | :--- | :--- | :--- |
+| Complete AI chatbot conversation flow | Htut Arkar Saing | 05/07/2026 | [Issues Link](https://github.com/htutarkar67/ICT111-WatchMate-MVP/issues) |
+| Finalize user persona and user stories | Bhone Myat Kyaw | 05/07/2026 |  |
+| Complete user flow and use case diagrams | Tar Yar Lin Latt | 05/07/2026 |  |
+| Review project documentation and update README | All Members | 05/07/2026 | |
 
 ---
 
