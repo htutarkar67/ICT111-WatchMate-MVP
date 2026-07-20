@@ -162,27 +162,41 @@ In Lab 04, the team will analyze the customer discovery findings and define a cl
 
 ---
 
-## Weekly Logbook - Lab 05 Reflection
+# Weekly Logbook - Lab 05 Reflection
 
-### Product Concept and UI/UX Wireframe
+## What We Completed Today
+- [x] Reviewed Lab 04 requirements
+- [x] Defined the WatchMate product concept
+- [x] Mapped features to functional requirements
+- [x] Created required wireframe screens
+- [x] Created user flow diagram
+- [x] Built a clickable prototype draft and navigation plan
+- [x] Updated the GitHub repository
 
-### What We Completed Today
+## Member Contributions
+| Member Name | Contribution | Evidence / Commit Link |
+|---|---|---|
+| **Htut Arkar Saing** | Created `docs/product-concept.md`, `docs/feature-requirement-mapping.md`, and updated the README. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Bhone Myat Kyaw** | Designed the wireframe screens and prepared the sample movie dataset structure. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
+| **Tar Yar Lin Latt** | Created the user flow diagram, wireframe specification, wireframe usability checklist, and updated the weekly logbook. | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main` |
 
--  Analyzed Lab 04 requirements and user stories.
--  Defined the product concept for **WatchMate: AI Movie Recommendation System**.
--  Identified the target users, problem statement, and core value proposition.
--  Defined the MVP feature list using the MoSCoW prioritization method.
--  Mapped system features to functional requirements and user needs.
--  Designed the required UI/UX wireframes:
-  - Homepage
-  - AI Movie Recommendation Chatbot
-  - Search Results
-  - Movie Detail Page
-  - Watchlist
-  - Admin Dashboard
--  Created the user flow diagram illustrating the user's journey from searching for movies to receiving AI-powered recommendations.
--  Built a clickable prototype demonstrating the main navigation and interactions.
--  Updated the GitHub repository with the Product Concept, MVP Feature List, Feature-Requirement Mapping, User Stories, System Requirements, and wireframe documentation.
+## Decisions Made
+| Decision | Reason | Related Requirement |
+|---|---|---|
+| Built the clickable prototype using HTML pages (`index.html`, `chatbot.html`, `search.html`, `movie-details.html`, `dashboard.html`). | To simulate the complete user journey and prepare for front-end development. | Clickable Prototype |
+| Created dedicated wireframes for the Home Page, AI Chatbot, Movie Search, Trending Movies, Movie Details, and Admin Dashboard. | To cover all core user interactions required by the MVP. | Wireframe Screens |
+| Used a sample movie dataset to populate movie cards and recommendation results. | To provide realistic prototype content and support future API integration. | Product Concept |
+
+## Problems Found
+* **Conversation Flow Design:** Designing a chatbot conversation that feels natural while keeping the MVP simple required several revisions.
+* **Wireframe Consistency:** Ensuring that navigation between the Home page, AI Chatbot, Search page, Movie Details, and Dashboard remained consistent across all wireframes.
+* **Requirement Traceability:** Making sure every wireframe directly supports the functional requirements without introducing unnecessary MVP features.
+
+## Next Steps Before Lab 06
+* Review the wireframe usability checklist and improve navigation consistency.
+* Finalize the sample movie dataset for testing the recommendation features.
+* Begin preparing the Business Model Canvas (BMC) and technical architecture documentation.
+* Plan the integration approach for the AI recommendation engine and movie database API.
 
 ---
 
