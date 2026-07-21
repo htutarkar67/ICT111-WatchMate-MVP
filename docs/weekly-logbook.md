@@ -36,7 +36,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 ### What We Completed
 1. Brainstormed six software startup ideas addressing common user problems.
 2. Evaluated each idea using the NUF (New, Useful, Feasible) framework.
-3. Compared the scores to identify the most suitable project for the semester.
+3. Compared scores to select the most suitable semester project.
 4. Updated the GitHub repository and added a new collaborator for team development.
 
 ### Selected Opportunity
