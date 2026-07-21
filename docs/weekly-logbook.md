@@ -76,7 +76,7 @@ The following ideas were not selected because they received lower NUF scores:
 - GitHub Issues: Under my Issues
 
 ### Plan for Lab 03
-Our team will conduct customer discovery interviews to understand users' movie-watching habits, recommendation preferences, and challenges when selecting movies. The interview questions will be documented in:
+Our team will conduct customer discovery interview to understand users' movie-watching habits, recommendation preferences, and challenges when selecting movies. The interview questions will be documented in:
 `/docs/customer-discovery-questions.md`
 
 ---
