@@ -4,7 +4,7 @@
 
 ### What We Completed
 1. Created the GitHub repository for the projects and invited all team members to collaborate.
-2. Created the initial project structures, including the README.md file and documentation folders.
+2. Created the initial project structure, including the README.md file and documentation folders.
 3. Brainstormed multiple IT venture ideas and selected **MovieMatch - Personalized Movie Recommendation System** as the final project direction.
 
 ### What We Learned
