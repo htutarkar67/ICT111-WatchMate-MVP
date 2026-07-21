@@ -363,7 +363,7 @@ In Lab 09, our group conducted a comprehensive responsible IT design evaluation 
 Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.md`) remain active. Responsible design updates were formally documented in `docs/updated-requirements-note.md`:
 
 - **FR-03**: Added chatbot input validation, example prompts for new users, and a loading indicator while AI recommendations are being generated (Issue **#45**).
-- **FR-04**: Added autocomplete search suggestions and genre filters to improve the movie search experience (Issue **#45**).
+- **FR-04**: Added autocomplete search suggestions and genre filters to improve the movie search experiences (Issue **#45**).
 - **FR-06**: Enhanced the movie detail page by displaying recommendation reasons, ratings, genres, streaming platforms, and trailers more clearly (Issue **#48**).
 - **FR-12**: Restricted administrator analytics and movie management features using role-based access control (RBAC) (Issue **#45** & **#47**).
 
