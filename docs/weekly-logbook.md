@@ -37,7 +37,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 1. Brainstormed six software startup ideas addressing common user problems.
 2. Evaluated each idea using the NUF (New, Useful, Feasible) framework.
 3. Compared scores to select the most suitable semester project.
-4. Updated the GitHub repository and added a new collaborator for team development.
+4. Updated the GitHub repository and added a team collaborator.
 
 ### Selected Opportunity
 **WatchMate – AI Movie Recommendation System**
