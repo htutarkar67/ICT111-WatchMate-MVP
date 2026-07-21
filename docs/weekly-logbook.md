@@ -26,7 +26,7 @@ The team decided to develop **MovieMatch - Personalized Movie Recommendation Sys
 ### Plan for Next Week
 1. Conducted opportunity analysis and identified problems in movie recommendation services.
 2. Researched existing movie recommendation platforms and identified their strengths and weaknesses.
-3. Prepare customer validation questions and collect initial feedback from potential users.
+3. Prepared customer validation questions and collected initial user feedback.
 4. Adjust the project scope, target users, and value proposition based on research findings.
 
 ---
