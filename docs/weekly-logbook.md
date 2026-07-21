@@ -8,7 +8,7 @@
 3. Brainstormed multiple IT venture ideas and selected **MovieMatch - Personalized Movie Recommendation System** as the final project direction.
 
 ### What We Learned
-1. Learned how to organize a GitHub repository for a semester-long entrepreneurship project.
+1.Learned to organize a GitHub repository for a semester-long entrepreneurship project.
 2. Learned the importance of documenting project ideas, team roles, and venture decisions from the beginning.
 3. Learned how to evaluate different venture ideas based on feasibility, market need, and technical requirements.
 
