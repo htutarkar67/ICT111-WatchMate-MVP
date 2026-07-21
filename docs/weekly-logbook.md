@@ -24,7 +24,7 @@
 The team decided to develop **MovieMatch - Personalized Movie Recommendation System** because it addresses a common problem faced by movie viewers, has clear business potential, and can be implemented using web technologies, Firebase, and movie APIs.
 
 ### Plan for Next Week
-1. Conduct opportunity analysis and problem identification related to movie recommendation services.
+1. Conducted opportunity analysis and identified problems in movie recommendation services.
 2. Research existing movie recommendation platform and identify their strengths and weaknesses.
 3. Prepare customer validation questions and collect initial feedback from potential users.
 4. Adjust the project scope, target users, and value proposition based on research findings.
