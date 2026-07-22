@@ -380,3 +380,23 @@ WatchMate
 - Review the complete prototype against all functional requirements.
 - Verify that all documentation and GitHub files remain consistent.
 - Prepare the final prototype demonstration and presentation.
+
+---
+
+# Weekly Logbook - Lab 10
+
+## Lab Topic
+MVP Implementation Sprint 1
+
+## What We Built Today
+
+## Requirement IDs Addressed
+
+## Contribution by Members
+
+| Member | Contribution | Evidence |
+|---|---|---|
+| **Htut Arkar Saing** | Standardized sample datasets & category files | `/data/movies-sample-records.csv`, `/data/movies-status-categories.csv` |
+| **Htut Arkar Saing** | Feature implementation status, implementation plan, & system flow diagrams | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
+| **Bhone Myat Kyaw** | Built and integrated project web prototype | `/prototype/` (``) |
+| **Tar Yar Lin Latt** | Maintained project documentation & weekly progress logbook | `/docs/weekly-logbook.md`, `README.md` |
