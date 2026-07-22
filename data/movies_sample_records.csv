@@ -1,0 +1,13 @@
+movie_id,title,genre,release_year,language,rating,recommendation_type,recommended_for,availability,status
+MV001,Inception,Science Fiction,2010,English,8.8,AI Recommendation,Student,Netflix,Available
+MV002,Parasite,Thriller,2019,Korean,8.5,Trending,Movie Enthusiast,Prime Video,Available
+MV003,Interstellar,Science Fiction,2014,English,8.7,AI Recommendation,Student,Netflix,Available
+MV004,The Dark Knight,Action,2008,English,9.0,Popular,General User,HBO Max,Available
+MV005,La La Land,Romance,2016,English,8.0,Personalized,Student,Netflix,Available
+MV006,Spirited Away,Animation,2001,Japanese,8.6,Editor's Choice,Family,Netflix,Available
+MV007,Avengers: Endgame,Action,2019,English,8.4,Trending,General User,Disney+,Available
+MV008,The Conjuring,Horror,2013,English,7.5,AI Recommendation,Horror Fans,Max,Available
+MV009,The Shawshank Redemption,Drama,1994,English,9.3,Top Rated,General User,Netflix,Available
+MV010,Dune,Science Fiction,2021,English,8.0,New Release,Sci-Fi Fans,HBO Max,Available
+MV011,Your Name,Animation,2016,Japanese,8.4,Personalized,Anime Fans,Crunchyroll,Available
+MV012,John Wick,Action,2014,English,7.4,Trending,Action Fans,Prime Video,Available
