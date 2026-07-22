@@ -32,3 +32,55 @@ flowchart TD
     S --> T[Review User Feedback]
     T --> U[Update Recommendation Settings]
     U --> V[View Analytics Dashboard]
+
+
+==============================
+flowchart TD
+  subgraph Frontend
+    A1[Browser UI / React App]
+    A2[App.tsx / HomePage.tsx]
+    A3[ChatWidget.tsx]
+    A4[MediaCard / SectionBlock]
+  end
+
+  subgraph Backend
+    B1[server.js]
+    B2[routes/movieChat.routes.js]
+    B3[controllers/movieChat.controller.js]
+    B4[routes/tmdb.routes.js]
+    B5[controllers/tmdb.controller.js]
+    B6[routes/auth.routes.js]
+    B7[controllers/auth.controller.js]
+    B8[routes/watchlist.routes.js]
+    B9[controllers/watchlist.controller.js]
+  end
+
+  subgraph Services
+    C1[TMDB API]
+    C2[AI Service (Gemini / OpenAI)]
+    C3[SQLite DB]
+  end
+
+  A1 -->|renders| A2
+  A2 -->|opens chat| A3
+  A2 -->|shows movies| A4
+  A3 -->|POST /api/movie-chat| B2
+  A2 -->|GET /api/tmdb| B4
+  A2 -->|POST /api/auth| B6
+  A2 -->|GET/POST /api/watchlist| B8
+
+  B2 -->|calls| B3
+  B3 -->|fetches movie data| B4
+  B3 -->|generates recommendations| C2
+  B3 -->|stores sessions/chat| C3
+  B4 -->|proxies to TMDB| C1
+  B6 -->|auth operations| C3
+  B8 -->|watchlist CRUD| C3
+
+  B3 -->|returns reply + recommendations| A3
+  B4 -->|returns search/results| A2
+  B8 -->|returns watchlist data| A2
+
+  style Frontend fill:#e9f5ff,stroke:#0099ff,stroke-width:1px
+  style Backend fill:#f7f7f7,stroke:#333,stroke-width:1px
+  style Services fill:#fff0e7,stroke:#ff9900,stroke-width:1px
