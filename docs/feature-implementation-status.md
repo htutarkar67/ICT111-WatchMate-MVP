@@ -1,1 +1,1 @@
-# Lab 10 - Feature Implementation Statu
+# Lab 10 - Feature Implementation Status
