@@ -389,20 +389,29 @@ WatchMate
 MVP Implementation Sprint 1
 
 ## What We Built Today
--
--
--
--
+- [x] Completed the core WatchMate AI Movie Recommendation System prototype.
+- [x] Built the Home Page, AI Chat Recommendation, Movie Catalog, Movie Details, Favorites, Admin Dashboard, and Analytics Dashboard.
+- [x] Implemented Node.js Express server (`server.js`) with JSON data storage and `localStorage` support.
+- [x] Standardized movie genres across datasets and UI filters.
+- [x] Completed the Feature Implementation Status, Implementation Plan, and Implementation Flow Diagram.
 
 ## Requirement IDs Addressed
-- FR-01:
-- FR-02:
--
--
--
--
--
--
+- FR-01: Homepage / Landing Page
+- FR-02: User Login / Registration
+- FR-03: AI Chat Input
+- FR-04: AI Movie Recommendation
+- FR-05: Movie Catalog
+- FR-06: Search & Filter
+- FR-07: Movie Detail View
+- FR-08: Favorites / Watchlist
+- FR-09: Admin Dashboard
+- FR-10: Input Validation
+- FR-11: Recommendation Feedback
+- FR-12: Analytics Dashboard
+- FR-13: UI Consistency
+- FR-14: Responsive Design
+- FR-15: Privacy & Responsible Data Handling
+- FR-16: Prototype Traceability
 
 ## Contribution by Members
 
@@ -410,8 +419,8 @@ MVP Implementation Sprint 1
 |---|---|---|
 | **Htut Arkar Saing** | Standardized sample datasets & category files | `/data/movies-sample-records.csv`, `/data/movies-status-categories.csv` |
 | **Htut Arkar Saing** | Feature implementation status, implementation plan, & system flow diagrams | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
-| **Bhone Myat Kyaw** | Built and integrated project web prototype | `/prototype/project` |
-| **Tar Yar Lin Latt** | Maintained project documentation & weekly progress logbook | `/docs/weekly-logbook.md`, `README.md` |
+| **Bhone Myat Kyaw** | Built the web prototype, implemented the AI recommendation flow, and integrated the Express server. | `/prototype/project`, `server.js` |
+| **Tar Yar Lin Latt** | Updated `README.md`, and Weekly Logbook documentation. | `/docs/weekly-logbook.md`, `README.md` |
 
 ## Screenshots Added
 - `/screenshots/ `
