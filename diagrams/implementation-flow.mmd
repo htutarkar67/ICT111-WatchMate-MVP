@@ -1,41 +1,4 @@
 flowchart TD
-
-    A[User Opens WatchMate] --> B{Choose Action}
-
-    %% Recommendation Flow
-    B -->|Get Movie Recommendations| C[Enter Chat Prompt or Select Preferences]
-    C --> D{Input Valid?}
-
-    D -->|No| E[Show Validation Error]
-    E --> C
-
-    D -->|Yes| F[Send Request to AI Recommendation Engine]
-    F --> G[Analyze User Preferences & Chat Input]
-    G --> H[Retrieve Movie Data from TMDB API]
-    H --> I[Generate Personalized Recommendations]
-    I --> J[Display Recommended Movies]
-    J --> K{View Movie Details?}
-
-    K -->|Yes| L[Open Movie Details]
-    L --> M[View Trailer, Rating & Overview]
-    M --> N[Save to Favorites or Watchlist]
-
-    %% Search Flow
-    B -->|Browse Movies| O[Browse Movie Catalog]
-    O --> P[Apply Genre, Rating or Year Filters]
-    P --> Q[View Filtered Movies]
-    Q --> L
-
-    %% Admin Flow
-    B -->|Admin Login| R[Open Admin Dashboard]
-    R --> S[Manage Movie Dataset]
-    S --> T[Review User Feedback]
-    T --> U[Update Recommendation Settings]
-    U --> V[View Analytics Dashboard]
-
-
-==============================
-flowchart TD
   subgraph Frontend
     A1[Browser UI / React App]
     A2[App.tsx / HomePage.tsx]
