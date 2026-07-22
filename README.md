@@ -377,3 +377,24 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 
 ---
 
+## Lab 10 - MVP Implementation Sprint 1
+
+### Sprint Goal
+
+### Implementation Approach
+
+### Features Implemented in Sprint 1
+
+| Feature | Requirement ID | Status | Evidence |
+|---|---|---|---|
+
+### Screenshots
+
+### Team Contribution
+
+| Member Name | Role | Deliverables & Artifact Evidence |
+|---|---|---|
+| **Htut Arkar Saing** | Product Lead | `/data/movies-sample-records.csv`, `/data/movies-status-categories.csv` |
+| **Htut Arkar Saing** | UX/UI Lead | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
+| **Bhone Myat Kyaw** | Technical Lead | Web prototype development under `/prototype/` |
+| **Tar Yar Lin Latt** | Documentation Lead | `/docs/weekly-logbook.md`, `README.md` |
