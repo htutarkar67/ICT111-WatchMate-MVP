@@ -389,8 +389,20 @@ WatchMate
 MVP Implementation Sprint 1
 
 ## What We Built Today
+-
+-
+-
+-
 
 ## Requirement IDs Addressed
+- FR-01:
+- FR-02:
+-
+-
+-
+-
+-
+-
 
 ## Contribution by Members
 
@@ -402,7 +414,16 @@ MVP Implementation Sprint 1
 | **Tar Yar Lin Latt** | Maintained project documentation & weekly progress logbook | `/docs/weekly-logbook.md`, `README.md` |
 
 ## Screenshots Added
+-
+-
+-
+-
+-
 
 ## Problems Faced
+-
+-
+
 
 ## Plan for Next Lab
+-
