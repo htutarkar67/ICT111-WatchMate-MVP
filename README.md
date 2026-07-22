@@ -407,7 +407,7 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 |---|---|---|
 | **Htut Arkar Saing** | Product Lead | `/data/movies-sample-records.csv`, `/data/movies-status-categories.csv` |
 | **Htut Arkar Saing** | UX/UI Lead | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
-| **Bhone Myat Kyaw** | Technical Lead | Web prototype development under `/prototype/` |
+| **Bhone Myat Kyaw** | Technical Lead | `/prototype/` |
 | **Tar Yar Lin Latt** | Documentation Lead | `/docs/weekly-logbook.md`, `README.md` |
 
 ---
