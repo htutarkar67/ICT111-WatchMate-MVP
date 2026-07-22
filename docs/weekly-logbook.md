@@ -400,3 +400,9 @@ MVP Implementation Sprint 1
 | **Htut Arkar Saing** | Feature implementation status, implementation plan, & system flow diagrams | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
 | **Bhone Myat Kyaw** | Built and integrated project web prototype | `/prototype/` (``) |
 | **Tar Yar Lin Latt** | Maintained project documentation & weekly progress logbook | `/docs/weekly-logbook.md`, `README.md` |
+
+## Screenshots Added
+
+## Problems Faced
+
+## Plan for Next Lab
