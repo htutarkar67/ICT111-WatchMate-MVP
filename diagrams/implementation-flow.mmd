@@ -2,48 +2,33 @@ flowchart TD
 
     A[User Opens WatchMate] --> B{Choose Action}
 
-    %% Movie Recommendation Flow
-    B -->|Get Recommendations| C[Enter Chat Prompt or Select Preferences]
+    %% Recommendation Flow
+    B -->|Get Movie Recommendations| C[Enter Chat Prompt or Select Preferences]
     C --> D{Input Valid?}
 
     D -->|No| E[Show Validation Error]
     E --> C
 
     D -->|Yes| F[Send Request to AI Recommendation Engine]
-    F --> G[Analyze User Preferences]
+    F --> G[Analyze User Preferences & Chat Input]
     G --> H[Retrieve Movie Data from TMDB API]
     H --> I[Generate Personalized Recommendations]
     I --> J[Display Recommended Movies]
-
     J --> K{View Movie Details?}
 
     K -->|Yes| L[Open Movie Details]
-    L --> M[Show Rating, Genre, Cast & Trailer]
-    M --> N{Save Movie?}
+    L --> M[View Trailer, Rating & Overview]
+    M --> N[Save to Favorites or Watchlist]
 
-    N -->|Yes| O[Add to Favorites / Watchlist]
-    N -->|No| P[Return to Recommendations]
-
-    %% Browse Flow
-    B -->|Browse Movies| Q[Browse Movie Catalog]
-    Q --> R[Apply Genre / Rating / Year Filters]
-    R --> S[Display Filtered Movies]
-    S --> L
+    %% Search Flow
+    B -->|Browse Movies| O[Browse Movie Catalog]
+    O --> P[Apply Genre, Rating or Year Filters]
+    P --> Q[View Filtered Movies]
+    Q --> L
 
     %% Admin Flow
-    B -->|Administrator| T[Admin Login]
-    T --> U{Login Successful?}
-
-    U -->|No| V[Show Login Error]
-    V --> T
-
-    U -->|Yes| W[Open Admin Dashboard]
-    W --> X[Manage Movie Database]
-    X --> Y[Review User Feedback]
-    Y --> Z[Update AI Recommendation Settings]
-    Z --> AA[View Analytics Dashboard]
-
-    %% End
-    O --> AB[End]
-    P --> AB
-    AA --> AB
+    B -->|Admin Login| R[Open Admin Dashboard]
+    R --> S[Manage Movie Dataset]
+    S --> T[Review User Feedback]
+    T --> U[Update Recommendation Settings]
+    U --> V[View Analytics Dashboard]
