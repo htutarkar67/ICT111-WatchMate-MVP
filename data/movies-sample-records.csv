@@ -1,0 +1,9 @@
+movie_id,title,genre,release_year,language,rating,recommendation_type,recommended_for,status,description
+MV-001,Inception,Sci-Fi,2010,English,8.8,AI Recommendation,Student,Available,AI recommends this movie for fans of science fiction.
+MV-002,Interstellar,Sci-Fi,2014,English,8.7,Trending,Movie Enthusiast,Available,A space adventure with emotional storytelling.
+MV-003,Parasite,Thriller,2019,Korean,8.5,Popular,General User,Available,Academy Award winning thriller about class differences.
+MV-004,Your Name,Animation,2016,Japanese,8.4,AI Recommendation,Anime Fan,Available,Romantic fantasy anime with beautiful animation.
+MV-005,The Dark Knight,Action,2008,English,9.0,Top Rated,Action Fan,Available,Batman faces the Joker in Gotham City.
+MV-006,Avengers Endgame,Action,2019,English,8.4,Trending,Marvel Fan,Available,The final battle of the Infinity Saga.
+MV-007,Spirited Away,Animation,2001,Japanese,8.6,AI Recommendation,Family,Available,Studio Ghibli fantasy adventure for all ages.
+MV-008,La La Land,Romance,2016,English,8.0,Popular,Romance Fan,Available,A musical romance about dreams and love.
