@@ -414,11 +414,11 @@ MVP Implementation Sprint 1
 | **Tar Yar Lin Latt** | Maintained project documentation & weekly progress logbook | `/docs/weekly-logbook.md`, `README.md` |
 
 ## Screenshots Added
--
--
--
--
--
+- `/screenshots/ `
+- `/screenshots/ `
+- `/screenshots/ `
+- `/screenshots/ `
+- `/screenshots/ `
 
 ## Problems Faced
 -
