@@ -382,13 +382,24 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 ### Sprint Goal
 
 ### Implementation Approach
+-
+-
+-
+-
 
 ### Features Implemented in Sprint 1
 
 | Feature | Requirement ID | Status | Evidence |
 |---|---|---|---|
+|  | FR- | Completed | `` |
+|  | FR- | Completed | `` |
 
 ### Screenshots
+-
+-
+-
+-
+-
 
 ### Team Contribution
 
@@ -398,3 +409,7 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 | **Htut Arkar Saing** | UX/UI Lead | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
 | **Bhone Myat Kyaw** | Technical Lead | Web prototype development under `/prototype/` |
 | **Tar Yar Lin Latt** | Documentation Lead | `/docs/weekly-logbook.md`, `README.md` |
+
+---
+
+
