@@ -1,5 +1,5 @@
 # ICT111-WatchMate-MVP
-# WatchMate: Movie Recommendation System
+# WatchMate: Movie Recommendation Systems
 
 ## Course Information
 Course Code: ICT111  
