@@ -1,4 +1,4 @@
-# Weekly Venture Logbooks
+# Weekly Venture Logbook
 
 ## Lab 1: Lab Setup and IT Venture Repository
 
