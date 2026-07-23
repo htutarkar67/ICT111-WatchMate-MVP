@@ -422,13 +422,6 @@ MVP Implementation Sprint 1
 | **Bhone Myat Kyaw** | Built the web prototype, implemented the AI recommendation flow, and integrated the Express server. | `/prototype/project`, `server.js` |
 | **Tar Yar Lin Latt** | Updated `README.md`, and Weekly Logbook documentation. | `/docs/weekly-logbook.md`, `README.md` |
 
-## Screenshots Added
-- `/screenshots/ `
-- `/screenshots/ `
-- `/screenshots/ `
-- `/screenshots/ `
-- `/screenshots/ `
-
 ## Problems Faced
 -
 -
