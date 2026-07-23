@@ -423,9 +423,14 @@ MVP Implementation Sprint 1
 | **Tar Yar Lin Latt** | Updated `README.md`, and Weekly Logbook documentation. | `/docs/weekly-logbook.md`, `README.md` |
 
 ## Problems Faced
--
--
-
+- Movie genre names were inconsistent between the CSV datasets and HTML filter options. This was resolved by standardizing the movie genres across all datasets and UI components.
+- AI recommendation results did not immediately refresh after users changed their preferences. The recommendation logic was updated to regenerate results dynamically.
+- Navigation components were duplicated across multiple pages.
 
 ## Plan for Next Lab
--
+- Complete the remaining prototype features.
+- Improve AI recommendation quality and chatbot responses.
+- Conduct usability testing and collect user feedback.
+- Refine the responsive user interface.
+- Prepare the final prototype demonstration and presentation.
+- Review all documentation and GitHub repository files before the final submission.
