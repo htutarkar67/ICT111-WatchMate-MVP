@@ -64,5 +64,5 @@ Administrators can:
 - 📄 Movie information page with ratings, genres, synopsis, and trailer
 - ⭐ Personal movie watchlist
 - 💬Chat records
-- 🔐 User authentication
+- 🔐 Login and registration
 - 📊 Admin dashboard for chatbot monitoring
