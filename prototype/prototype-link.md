@@ -62,7 +62,7 @@ Administrators can:
 - 🎬 Search movies and TV shows
 - 🔥 Popular movies and TV shows
 - 📄 Movie information page with ratings, genres, synopsis, and trailer
-- ⭐ Personal watchlist
-- 💬 Chat history
+- ⭐ Personal movie watchlist
+- 💬Chat records
 - 🔐 User authentication
 - 📊 Admin dashboard for chatbot monitoring
