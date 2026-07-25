@@ -377,29 +377,39 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 
 ---
 
-## Lab 10 - MVP Implementation Sprint 1
+# Lab 10 - MVP Implementation Sprint 1
 
 ### Sprint Goal
+Lab 10 focused on developing the first functional version of the WatchMate MVP prototype based on the approved requirements, wireframes, and technical architecture. The objective was to implement the core features that allow users to search for movies, receive recommendations, and browse movie information through a responsive web application.
 
 ### Implementation Approach
--
--
--
--
+- **Development Stack:** HTML5, Tailwind CSS, Vanilla JavaScript
+- **Frontend Implementation:** Responsive web application with client-side JavaScript
+- **Data Source:** `data/movies-sample-records.csv` and local sample movie dataset
+- **Prototype Location:** `prototype/project/`
 
-### Features Implemented in Sprint 1
+### Features Completed in Sprint 1
 
 | Feature | Requirement ID | Status | Evidence |
 |---|---|---|---|
-|  | FR- | Completed | `` |
-|  | FR- | Completed | `` |
+| Homepage | FR-01 | Completed | `prototype/project/index.html` |
+| User Registration/Login UI | FR-02 | Completed | `prototype/project/login.html`, `registration.html` |
+| Movie Preference Form | FR-03 | Completed | `prototype/project/form.html` |
+| Movie Recommendation Engine | FR-04 | Completed | `prototype/project/js/main.js` |
+| Movie Recommendation List | FR-05 | Completed | `prototype/project/records.html` |
+| Search & Filter | FR-06 | Completed | `prototype/project/records.html` |
+| Movie Detail View | FR-07 | Completed | `prototype/project/detail.html` |
+| Recommendation Status | FR-08 | Completed | `prototype/project/detail.html` |
+| User Dashboard | FR-12 | Completed | `prototype/project/dashboard.html` |
 
-### Screenshots
--
--
--
--
--
+### Prototype Screenshots
+- Homepage – `screenshots/homepage.png`
+- Login – `screenshots/login.png`
+- Registration – `screenshots/registration.png`
+- Preference Form – `screenshots/input-form.png`
+- Recommendation List – `screenshots/record-list.png`
+- Movie Detail – `screenshots/detail-view.png`
+- Dashboard – `screenshots/dashboard.png`
 
 ### Team Contribution
 
