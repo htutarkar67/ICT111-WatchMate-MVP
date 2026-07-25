@@ -426,10 +426,10 @@ Lab 10 focused on developing the first functional version of the WatchMate MVP p
 
 ### Prototype Progress
 The core prototype UI design remained consistent from Lab 10 to Lab 11, with Sprint 2 focused on improving **responsiveness**, **usability**, and **user experience** across desktop and mobile devices:
-- **Responsive Navigation (`Shared/components.js`):** Enhanced the navigation bar to provide a smoother browsing experience across different screen sizes.
-- **Homepage Optimization (`index.html`):** Improved the hero section and movie recommendation cards with a responsive layout for mobile and tablet devices.
-- **Search & Filter Enhancement (`records.html` & `js/records.js`):** Improved movie search and filtering functionality, making it easier for users to discover recommended movies.
-- **Dashboard & Recommendation Improvements (`dashboard.html` & `js/dashboard.js`):** Refined the dashboard layout and recommendation summary to improve readability and user interaction.
+- **Responsive Navigation :** Enhanced the navigation bar to provide a smoother browsing experience across different screen sizes.
+- **Homepage Optimization :** Improved the hero section and movie recommendation cards with a responsive layout for mobile and tablet devices.
+- **Search & Filter Enhancement :** Improved movie search and filtering functionality, making it easier for users to discover recommended movies.
+- **Dashboard & Recommendation Improvements :** Refined the dashboard layout and recommendation summary to improve readability and user interaction.
 
 ### Implemented / Improved Features
 
