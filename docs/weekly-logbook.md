@@ -422,6 +422,14 @@ MVP Implementation Sprint 1
 | **Bhone Myat Kyaw** | Built the web prototype, implemented the AI recommendation flow, and integrated the Express server. | `/prototype/project`, `server.js` |
 | **Tar Yar Lin Latt** | Updated `README.md`, and Weekly Logbook documentation. | `/docs/weekly-logbook.md`, `README.md` |
 
+## Screenshots Added
+- `admin-dashboard.md`
+- `ai-chatbot.md`
+- `chat-history.md`
+- `homepage.md`
+- `login.md`
+- `movie-detail.md`
+
 ## Problems Faced
 - Movie genre names were inconsistent between the CSV datasets and HTML filter options. This was resolved by standardizing the movie genres across all datasets and UI components.
 - AI recommendation results did not immediately refresh after users changed their preferences. The recommendation logic was updated to regenerate results dynamically.
@@ -434,3 +442,37 @@ MVP Implementation Sprint 1
 - Refine the responsive user interface.
 - Prepare the final prototype demonstration and presentation.
 - Review all documentation and GitHub repository files before the final submission.
+
+---
+
+# Weekly Logbook - Lab 11
+
+## Lab Topic
+MVP Implementation Sprint 2 and Startup Metrics
+
+## Work Completed Today
+-
+
+## Member Contributions
+| Member Name | Contribution | File/Feature Updated | GitHub Evidence |
+|---|---|---|---|
+| **Bhone Myat Kyaw** |  |  |  |
+| **Bhone Myat Kyaw** |  |  |  |
+| **Bhone Myat Kyaw** |  |  |  |
+
+## Requirements Addressed
+- **
+- **
+
+## Metrics Added
+- **
+- **
+
+## Problems Found
+- **
+- **
+
+## Next Action Before Lab 12
+-
+-
+
