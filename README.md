@@ -440,7 +440,7 @@ The core prototype UI design remained consistent from Lab 10 to Lab 11, with Spr
 | FR-07 | Movie Detail Page Enhancement | Completed | `prototype/project/` (Improved movie information layout and recommendation details) |
 | FR-08 | Recommendation Status Display | Completed | `prototype/project/` (Enhanced recommendation status and user feedback display) |
 | FR-12 | Dashboard Analytics | Completed | `prototype/project/`, `prototype/project/` (Updated recommendation statistics and user activity summary) |
-| FR-14 | Responsive User Interface | Completed | `prototype/project/css/styles.css` (Responsive layouts for desktop, tablet, and mobile devices) |
+| FR-14 | Responsive User Interface | Completed | `prototype/project/` (Responsive layouts for desktop, tablet, and mobile devices) |
 
 ### Startup/Product Metrics
 
