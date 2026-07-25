@@ -453,29 +453,59 @@ MVP Implementation Sprint 1
 ## Lab Topic
 MVP Implementation Sprint 2 and Startup Metrics
 
+## Group Case
+WatchMate - AI Movie Recommendation System
+
 ## Work Completed Today
--
+- Improved the WatchMate prototype by refining the user interface and overall navigation flow across all main pages.
+- Enhanced the movie recommendation workflow, allowing users to receive personalized movie suggestions based on their selected preferences.
+- Improved responsive layouts for desktop and mobile devices to provide a consistent user experience.
+- Defined and documented startup/product metrics (`M-01` through `M-11`) in `docs/startup-metrics.md` to evaluate system usage, recommendation quality, user engagement, and customer validation.
+- Updated project documentation including `docs/feature-implementation-status.md`, `docs/startup-metrics.md`, `docs/prototype-testing-notes.md`, `docs/weekly-logbook.md`, and `README.md`.
 
 ## Member Contributions
 | Member Name | Contribution | File/Feature Updated | GitHub Evidence |
 |---|---|---|---|
-| **Bhone Myat Kyaw** |  |  |  |
-| **Bhone Myat Kyaw** |  |  |  |
-| **Bhone Myat Kyaw** |  |  |  |
+| **Htut Arkar Saing** | Improved recommendation logic and testing dataset | Recommendation Module |  |
+| **Bhone Myat Kyaw** | Prepared Lab 11 documentation | `docs/feature-implementation-status.md`, `docs/startup-metrics.md` |  |
+| **Bhone Myat Kyaw** | Enhanced prototype interface and responsive layouts | `prototype/` |  |
+| Tar Yar Lin Latt | Updated weekly logbook and repository documentation | `docs/weekly-logbook.md`, `README.md` |  |
 
 ## Requirements Addressed
-- **
-- **
+- **FR-03 (Movie Preference Input):** Improved user input form for selecting genres, moods, and preferences.
+- **FR-05 (Movie Recommendation Results):** Enhanced recommendation results layout with movie posters and detailed information.
+- **FR-06 (Search & Filter):** Improved movie search, genre filtering, and sorting functionality.
+- **FR-08 (Recommendation Engine):** Enhanced recommendation processing and recommendation accuracy.
+- **FR-10 (Input Validation):** Improved validation for user input and preference selection.
+- **FR-11 (Feedback Messages):** Added confirmation and notification messages after recommendation generation.
+- **FR-13 (UI Consistency):** Applied a consistent design across all prototype pages.
+- **FR-14 (Responsive Design):** Optimized layouts for desktop, tablet, and mobile devices.
 
 ## Metrics Added
-- **
-- **
+- **M-01:** Total Recommendation Requests
+- **M-02:** Total Movies Recommended
+- **M-03:** Favorite Movies Saved
+- **M-04:** Watchlist Growth
+- **M-05:** Search Success Rate
+- **M-06:** Genre Distribution
+- **M-07:** Average Recommendation Rating
+- **M-08:** Recommendation Acceptance Rate
+- **M-09:** Recommendation Processing Time
+- **M-10:** User Return Rate
+- **M-11:** Most Popular Genre
 
 ## Problems Found
-- **
-- **
+- Some movie cards displayed inconsistently on smaller mobile screens, affecting the overall user experience.
+- The recommendation results required better spacing and alignment for different screen sizes.
+- Search and filter controls required additional improvements for easier navigation on mobile devices.
 
 ## Next Action Before Lab 12
--
--
+- Finalize the WatchMate prototype for the final presentation.
+- Conduct additional usability testing and collect final user feedback.
+- Prepare the final demonstration video and presentation slides.
+- Review all project documentation and GitHub repository before submission.
+
+---
+
+
 
