@@ -392,15 +392,15 @@ Lab 10 focused on developing the first functional version of the WatchMate MVP p
 
 | Feature | Requirement ID | Status | Evidence |
 |---|---|---|---|
-| Homepage | FR-01 | Completed | `prototype/project/index.html` |
-| User Registration/Login UI | FR-02 | Completed | `prototype/project/login.html`, `registration.html` |
-| Movie Preference Form | FR-03 | Completed | `prototype/project/form.html` |
-| Movie Recommendation Engine | FR-04 | Completed | `prototype/project/js/main.js` |
-| Movie Recommendation List | FR-05 | Completed | `prototype/project/records.html` |
-| Search & Filter | FR-06 | Completed | `prototype/project/records.html` |
-| Movie Detail View | FR-07 | Completed | `prototype/project/detail.html` |
-| Recommendation Status | FR-08 | Completed | `prototype/project/detail.html` |
-| User Dashboard | FR-12 | Completed | `prototype/project/dashboard.html` |
+| Homepage | FR-01 | Completed | `prototype/project/` |
+| User Registration/Login UI | FR-02 | Completed | `prototype/project/` |
+| Movie Preference Form | FR-03 | Completed | `prototype/project/` |
+| Movie Recommendation Engine | FR-04 | Completed | `prototype/project/` |
+| Movie Recommendation List | FR-05 | Completed | `prototype/project/` |
+| Search & Filter | FR-06 | Completed | `prototype/project/` |
+| Movie Detail View | FR-07 | Completed | `prototype/project/` |
+| Recommendation Status | FR-08 | Completed | `prototype/project/` |
+| User Dashboard | FR-12 | Completed | `prototype/project/` |
 
 ### Prototype Screenshots
 - Homepage – `screenshots/homepage.png`
