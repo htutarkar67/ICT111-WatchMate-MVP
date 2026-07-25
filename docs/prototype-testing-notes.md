@@ -2,8 +2,8 @@
 
 ## Test Environment & Device Matrix
 
-- **Prototype Live Link:** 
-- **Repository Path:** `htutarkar67/ICT111-WatchMate-MVP`
+- **Prototype Live Link:** https://final-project-production-e4d4.up.railway.app/
+- **Repository Path:** https://github.com/Kreazx/final-project
 - **Testing Session:** Lab 11 Final QA & Verification Sprint
 - **Test Date:** July 25, 2026
 
