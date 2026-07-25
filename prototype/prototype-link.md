@@ -59,9 +59,9 @@ Administrators can:
 ## Main Features
 
 - 🤖 AI-driven movie recommendation chatbot
-- 🎬 Movie and TV show search
-- 🔥 Trending movies and TV shows
-- 📄 Movie detail page with ratings, genres, synopsis, and trailer
+- 🎬 Search movies and TV shows
+- 🔥 Popular movies and TV shows
+- 📄 Movie information page with ratings, genres, synopsis, and trailer
 - ⭐ Personal watchlist
 - 💬 Chat history
 - 🔐 User authentication
