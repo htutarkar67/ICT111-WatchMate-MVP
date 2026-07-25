@@ -1,1 +1,7 @@
-
+field,allowed_values,notes
+user_role,Guest; Member; Administrator,Role of the user accessing the WatchMate system
+movie_genre,Action; Adventure; Animation; Comedy; Crime; Documentary; Drama; Family; Fantasy; Horror; Mystery; Romance; Sci-Fi; Thriller,Movie genres available for recommendation and filtering
+recommendation_source,AI Recommendation Engine; User Preferences; Trending Movies; Top Rated; Genre-Based Filter; Recently Released,Sources used to generate or display movie recommendations
+recommendation_status,Pending; Processing; Completed; Saved; Viewed,Current status of the recommendation request or result
+priority,Low; Medium; High,Priority level assigned to recommendation requests for processing
+device_type,Desktop; Laptop; Tablet; Mobile,Device used to access the WatchMate system
