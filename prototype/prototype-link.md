@@ -65,4 +65,4 @@ Administrators can:
 - ⭐ Personal movie watchlist
 - 💬Chat records
 - 🔐 Login and registration
-- 📊 Admin dashboard for chatbot monitoring
+- 📊Chatbot management dashboard
