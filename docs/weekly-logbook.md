@@ -429,6 +429,9 @@ MVP Implementation Sprint 1
 - `homepage.md`
 - `login.md`
 - `movie-detail.md`
+- `register.md`
+- `search-results.md`
+- `watchlist.md`
 
 ## Problems Faced
 - Movie genre names were inconsistent between the CSV datasets and HTML filter options. This was resolved by standardizing the movie genres across all datasets and UI components.
