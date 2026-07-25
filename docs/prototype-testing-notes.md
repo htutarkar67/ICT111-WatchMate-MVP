@@ -2,7 +2,7 @@
 
 ## Test Environment & Device Matrix
 
-- **Prototype Live Link:** https://htutarkar67.github.io/ICT111-WatchMate-MVP/
+- **Prototype Live Link:** https://htutarkar67.github.com/ICT111-WatchMate-MVP/
 - **Repository Path:** `htutarkar67/ICT111-WatchMate-MVP`
 - **Testing Session:** Lab 11 Final QA & Verification Sprint
 - **Test Date:** July 25, 2026
