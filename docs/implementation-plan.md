@@ -35,10 +35,10 @@
 
 | Member | Responsibility | Evidence of Contribution |
 |---|---|---|
-| **Bhone Myat Kyaw** | Developed the frontend pages, AI movie recommendation features, and integrated TMDB API functionality. | `prototype/project/frontend/`, `controller/tmdb.js` |
-| **Bhone Myat Kyaw** | Implemented backend controllers, user authentication, AI chat, watchlist management, and administrator functions. | [prototype/project/controller/](/prototype/project/controller), `prototype/project/routes/` |
-| **Htut Arkar Saing** | Feature status tracking, implementation plan, & system flow diagrams. | `docs/implementation-plan.md`, `docs-feature-implementation-status.md`, `/diagrams/implementation-flow.mmd` |
-| **Tar Yar Lin Latt** | Prepared weekly logbook, and README updates. | `docs/weekly-logbook.md`, [README.md](../README.md) |
+| **Bhone Myat Kyaw** | Developed the frontend pages, AI movie recommendation features, and integrated TMDB API functionality. | [prototype/project/frontend/](prototype/project/frontend/), [controller/tmdb.js](controller/tmdb.js) |
+| **Bhone Myat Kyaw** | Implemented backend controllers, user authentication, AI chat, watchlist management, and administrator functions. | [prototype/project/controller/](/prototype/project/controller), [prototype/project/routes/](prototype/project/routes/) |
+| **Htut Arkar Saing** | Feature status tracking, implementation plan, & system flow diagrams. | [docs/implementation-plan.md](docs/implementation-plan.md), docs-[feature-implementation-status.md](feature-implementation-status.md), [/diagrams/implementation-flow.mmd](/diagrams/implementation-flow.mmd) |
+| **Tar Yar Lin Latt** | Prepared weekly logbook, and README updates. | [docs/weekly-logbook.md](docs/weekly-logbook.md), [README.md](../README.md) |
 
 ## 5. Risks or Blockers
 
