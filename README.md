@@ -422,4 +422,56 @@ Lab 10 focused on developing the first functional version of the WatchMate MVP p
 
 ---
 
+## Lab 11: MVP Implementation Sprint 2 and Startup Metrics
+
+### Prototype Progress
+The core prototype UI design remained consistent from Lab 10 to Lab 11, with Sprint 2 focused on improving **responsiveness**, **usability**, and **user experience** across desktop and mobile devices:
+- **Responsive Navigation (`Shared/components.js`):** Enhanced the navigation bar to provide a smoother browsing experience across different screen sizes.
+- **Homepage Optimization (`index.html`):** Improved the hero section and movie recommendation cards with a responsive layout for mobile and tablet devices.
+- **Search & Filter Enhancement (`records.html` & `js/records.js`):** Improved movie search and filtering functionality, making it easier for users to discover recommended movies.
+- **Dashboard & Recommendation Improvements (`dashboard.html` & `js/dashboard.js`):** Refined the dashboard layout and recommendation summary to improve readability and user interaction.
+
+### Implemented / Improved Features
+
+| Requirement ID | Feature | Status | Evidence |
+|---|---|---|---|
+| FR-03 | Movie Preference Form Enhancement | Completed | `prototype/project/form.html` (Improved form layout, validation, and responsive design) |
+| FR-06 | Search & Filter Optimization | Completed | `prototype/project/records.html`, `prototype/project/js/records.js` (Enhanced search and filtering functions) |
+| FR-07 | Movie Detail Page Enhancement | Completed | `prototype/project/detail.html` (Improved movie information layout and recommendation details) |
+| FR-08 | Recommendation Status Display | Completed | `prototype/project/detail.html` (Enhanced recommendation status and user feedback display) |
+| FR-12 | Dashboard Analytics | Completed | `prototype/project/dashboard.html`, `prototype/project/js/dashboard.js` (Updated recommendation statistics and user activity summary) |
+| FR-14 | Responsive User Interface | Completed | `prototype/project/css/styles.css` (Responsive layouts for desktop, tablet, and mobile devices) |
+
+### Startup/Product Metrics
+
+Documented startup and product metrics in `docs/startup-metrics.md`, including user activity, recommendation success rate, search effectiveness, recommendation category distribution, user satisfaction, and customer validation results collected during prototype testing.
+
+### Prototype Screenshots
+
+- Homepage – `screenshots/homepage.md`
+- Login – `screenshots/login.md`
+- Registration – `screenshots/register.md`
+- Movie Preference Form – `screenshots/`
+- Recommendation List – `screenshots/`
+- Movie Detail – `screenshots/`
+- Dashboard – `screenshots/`
+
+### Member Contributions
+
+| Member | Role | Sprint 2 Contribution |
+|---|---|---|
+| **Tar Yar Lin Latt** | Product Lead | Prepared startup metrics, customer validation analysis, and business documentation. |
+| **Bhone Myat Kyaw** | Technical Lead | Improved the web prototype, optimized responsive layouts, and enhanced recommendation features. |
+| **Htut Arkar Saing** | UX/UI & Documentation Lead | Updated project documentation, prototype testing notes, feature implementation status, README, and weekly logbook. |
+
+### Remaining Work
+
+- Integrate a live Movie Database API for real-time movie information.
+- Develop personalized recommendation algorithms based on user preferences.
+- Add user authentication and profile management.
+- Improve analytics dashboard with interactive charts and recommendation insights.
+- Prepare the final project presentation and demonstration video.
+
+---
+
 
