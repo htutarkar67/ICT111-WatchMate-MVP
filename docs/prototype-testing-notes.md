@@ -33,3 +33,50 @@
 | **T-10** | FR-11 | User Feedback Messages | Complete login and recommendation actions. | Success notifications appear after each action. | Notifications displayed correctly. | **Pass** | Low: Notification position on mobile. | Improved toast notification positioning. |
 | **T-11** | FR-13, FR-14 | Responsive UI | Test on desktop, tablet, and mobile devices. | Interface adapts correctly to different screen sizes. | Responsive layout displayed correctly. | **Pass** | Low: Movie cards slightly overlapped on small screens. | Adjusted the responsive grid layout. |
 | **T-12** | FR-15, FR-16 | Privacy & End-to-End Flow | Register → Login → Select Preferences → Receive Recommendations → Save Favorite. | Complete workflow executes without errors. | Full workflow completed successfully. | **Pass** | None | Verified all navigation and feature links. |
+
+---
+
+## Summary of Defects & Issue Classification
+
+A total of **5 interface and usability issues** were identified during Lab 11 testing and improved before the final prototype submission.
+
+| Defect ID | Severity | Category | Affected Module | Defect Description | Resolution Status |
+|---|---|---|---|---|---|
+| **DEF-01** | High | Navigation | Home Page | Navigation between the Home page and Recommendation page was unclear for first-time users. | **Resolved** |
+| **DEF-02** | Medium | Search | Search & Recommendation | Some movie searches returned no recommendations when keywords were incomplete. | **Resolved** |
+| **DEF-03** | Medium | User Interface | Recommendation Results | Recommendation cards were not aligned consistently on smaller screens. | **Resolved** |
+| **DEF-04** | Low | Responsive Design | Mobile Layout | Buttons and movie posters overlapped on mobile devices. | **Resolved** |
+| **DEF-05** | Low | Performance | Recommendation Module | Recommendation results loaded more slowly when displaying many movies. | **Resolved** |
+
+---
+
+## Technical Refactoring & Improvements Completed (Lab 11)
+
+### 1. Navigation Improvement
+- Simplified the navigation flow between the Home page, Search page, and Recommendation Results.
+- Improved button placement for easier access.
+
+### 2. Recommendation Search Enhancement
+- Improved keyword matching and recommendation filtering.
+- Added better handling for empty search results.
+
+### 3. User Interface Optimization
+- Standardized movie card layouts and poster sizes.
+- Improved spacing and typography for better readability.
+
+### 4. Responsive Design Enhancement
+- Optimized layouts for desktop, tablet, and mobile devices.
+- Improved button spacing and responsive movie grids.
+
+### 5. Performance Optimization
+- Reduced unnecessary rendering during recommendation generation.
+- Improved loading speed for recommendation results.
+
+---
+
+## Quality Sign-off Verification
+
+- **Requirement Coverage:** All implemented functional requirements were verified during testing.
+- **Pass Rate:** All planned test cases passed successfully.
+- **Open Critical Defects:** None.
+- **Deployment Status:** Ready for GitHub Pages deployment and final presentation.
