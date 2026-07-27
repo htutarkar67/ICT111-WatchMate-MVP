@@ -1,7 +1,7 @@
 # Acquisition Metrics — WatchMate (AI Movie Recommendation System)
 
 ## Purpose
-Define how the group will measure early user interest, landing page engagement, and prototype validation for **WatchMate**, an AI-powered movie recommendation system that helps users discover personalized movies based on their preferences.
+Defines how the group will measure early user interest, landing page engagement, and prototype validation for **WatchMate**, an AI-powered movie recommendation system that helps users discover personalized movies based on their preferences.
 
 ## Required Metrics
 
