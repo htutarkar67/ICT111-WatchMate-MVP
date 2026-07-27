@@ -1,37 +1,41 @@
 EventID,UserID,EventDateTime,UserRole,ActionType,DeviceType,ProcessingTimeSeconds,RequirementID
-E001,U001,2026-07-15 09:10,Student,Login,Mobile,5,FR-02
+E001,U001,2026-07-15 09:10,Student,Login,Mobile,5,FR-04
 E002,U001,2026-07-15 09:12,Student,Ask AI,Mobile,15,FR-03
-E003,U001,2026-07-15 09:13,Student,Receive Recommendation,Mobile,3,FR-08
-E004,U001,2026-07-15 09:15,Student,View Movie Details,Mobile,7,FR-07
-E005,U001,2026-07-15 09:18,Student,Watch Trailer,Mobile,18,FR-07
-E006,U002,2026-07-15 10:05,Movie Enthusiast,Login,Laptop,4,FR-02
+E003,U001,2026-07-15 09:13,Student,Receive Recommendation,Mobile,3,FR-05
+E004,U001,2026-07-15 09:15,Student,View Movie Details,Mobile,7,FR-05
+E005,U001,2026-07-15 09:18,Student,Watch Trailer,Mobile,18,FR-05
+E006,U002,2026-07-15 10:05,Movie Enthusiast,Login,Laptop,4,FR-04
 E007,U002,2026-07-15 10:08,Movie Enthusiast,Browse Trending,Laptop,8,FR-05
 E008,U002,2026-07-15 10:10,Movie Enthusiast,Ask AI,Laptop,14,FR-03
-E009,U002,2026-07-15 10:12,Movie Enthusiast,Receive Recommendation,Laptop,3,FR-08
-E010,U002,2026-07-15 10:15,Movie Enthusiast,Save Watchlist,Laptop,2,FR-11
-E011,U003,2026-07-16 09:20,Student,Login,Desktop,5,FR-02
-E012,U003,2026-07-16 09:22,Student,Search Movie,Desktop,6,FR-06
-E013,U003,2026-07-16 09:24,Student,View Movie Details,Desktop,7,FR-07
-E014,U003,2026-07-16 09:28,Student,Watch Trailer,Desktop,20,FR-07
-E015,U004,2026-07-17 11:10,Movie Enthusiast,Login,Mobile,4,FR-02
+E009,U002,2026-07-15 10:12,Movie Enthusiast,Save Watchlist,Laptop,2,FR-05
+E010,U002,2026-07-15 10:15,Movie Enthusiast,Watch Trailer,Laptop,16,FR-05
+E011,U003,2026-07-16 09:20,Student,Login,Desktop,5,FR-04
+E012,U003,2026-07-16 09:22,Student,View Movie Details,Desktop,6,FR-05
+E013,U003,2026-07-16 09:25,Student,Watch Trailer,Desktop,17,FR-05
+E014,U003,2026-07-16 09:28,Student,Logout,Desktop,2,FR-04
+E015,U004,2026-07-17 11:10,Movie Enthusiast,Login,Mobile,4,FR-04
 E016,U004,2026-07-17 11:12,Movie Enthusiast,Ask AI,Mobile,16,FR-03
-E017,U004,2026-07-17 11:14,Movie Enthusiast,Receive Recommendation,Mobile,3,FR-08
-E018,U004,2026-07-17 11:17,Movie Enthusiast,Open Chat History,Mobile,2,FR-12
-E019,U005,2026-07-18 13:30,Student,Login,Laptop,5,FR-02
-E020,U005,2026-07-18 13:33,Student,Search Movie,Laptop,5,FR-06
-E021,U005,2026-07-18 13:35,Student,View Movie Details,Laptop,8,FR-07
-E022,U005,2026-07-18 13:38,Student,Save Watchlist,Laptop,2,FR-11
-E023,U006,2026-07-19 09:00,Administrator,Login,Desktop,4,FR-09
-E024,U006,2026-07-19 09:05,Administrator,Update Movie Database,Desktop,28,FR-09
-E025,U006,2026-07-19 09:35,Administrator,Manage Categories,Desktop,18,FR-09
-E026,U007,2026-07-20 08:20,Movie Enthusiast,Login,Mobile,5,FR-02
-E027,U007,2026-07-20 08:22,Movie Enthusiast,Browse Trending,Mobile,7,FR-05
-E028,U007,2026-07-20 08:24,Movie Enthusiast,Ask AI,Mobile,15,FR-03
-E029,U007,2026-07-20 08:26,Movie Enthusiast,Receive Recommendation,Mobile,3,FR-08
-E030,U007,2026-07-20 08:28,Movie Enthusiast,Watch Trailer,Mobile,17,FR-07
-E031,U008,2026-07-21 14:10,Student,Login,Laptop,5,FR-02
-E032,U008,2026-07-21 14:12,Student,Ask AI,Laptop,14,FR-03
-E033,U008,2026-07-21 14:15,Student,Receive Recommendation,Laptop,3,FR-08
-E034,U008,2026-07-21 14:17,Student,View Movie Details,Laptop,6,FR-07
-E035,U008,2026-07-21 14:20,Student,Logout,Laptop,2,FR-02
-E036,U009,2026-07-22 10:30,Movie Enthusiast,Logout,Desktop,2,FR-02
+E017,U004,2026-07-17 11:14,Movie Enthusiast,Open Chat History,Mobile,2,FR-05
+E018,U004,2026-07-17 11:16,Movie Enthusiast,Watch Trailer,Mobile,15,FR-05
+E019,U005,2026-07-18 13:30,Student,Login,Laptop,5,FR-04
+E020,U005,2026-07-18 13:33,Student,View Movie Details,Laptop,8,FR-05
+E021,U005,2026-07-18 13:36,Student,Save Watchlist,Laptop,2,FR-05
+E022,U005,2026-07-18 13:38,Student,Logout,Laptop,2,FR-04
+E023,U006,2026-07-19 09:00,Administrator,Login,Desktop,4,FR-04
+E024,U006,2026-07-19 09:05,Administrator,Watch Trailer,Desktop,19,FR-05
+E025,U006,2026-07-19 09:25,Administrator,Logout,Desktop,2,FR-04
+E026,U007,2026-07-20 08:20,Movie Enthusiast,Login,Mobile,5,FR-04
+E027,U007,2026-07-20 08:22,Movie Enthusiast,Ask AI,Mobile,15,FR-03
+E028,U007,2026-07-20 08:24,Movie Enthusiast,Receive Recommendation,Mobile,3,FR-05
+E029,U007,2026-07-20 08:26,Movie Enthusiast,View Movie Details,Mobile,6,FR-05
+E030,U007,2026-07-20 08:29,Movie Enthusiast,Save Watchlist,Mobile,2,FR-05
+E031,U008,2026-07-21 14:10,Student,Login,Laptop,5,FR-04
+E032,U008,2026-07-21 14:12,Student,Watch Trailer,Laptop,16,FR-05
+E033,U008,2026-07-21 14:16,Student,Logout,Laptop,2,FR-04
+E034,U009,2026-07-22 10:30,Movie Enthusiast,Login,Desktop,5,FR-04
+E035,U009,2026-07-22 10:32,Movie Enthusiast,Open Chat History,Desktop,2,FR-05
+E036,U009,2026-07-22 10:35,Movie Enthusiast,Watch Trailer,Desktop,17,FR-05
+E037,U010,2026-07-22 15:10,Student,View Movie Details,Mobile,7,FR-05
+E038,U010,2026-07-22 15:13,Student,Save Watchlist,Mobile,2,FR-05
+E039,U010,2026-07-22 15:15,Student,Logout,Mobile,2,FR-04
+E040,U010,2026-07-22 15:18,Student,Login,Mobile,5,FR-04
