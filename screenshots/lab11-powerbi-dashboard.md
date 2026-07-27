@@ -1,1 +1,1 @@
-<img width="1276" height="717" alt="lab11_watchmate" src="https://github.com/user-attachments/assets/5c66b206-41f2-4018-bf33-39db888e12f0" />
+<img width="1275" height="714" alt="Screenshot 2026-07-27 143602" src="https://github.com/user-attachments/assets/4905c131-2d48-4a60-97ad-094f040c7d62" />
