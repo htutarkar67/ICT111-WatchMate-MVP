@@ -2,7 +2,7 @@
 
 ## Short One-Sentence Message
 
-Discover your next favorite movie with **WatchMate**, the AI-powered movie recommendation system that delivers personalized suggestions in seconds.
+Discover your next favorite movie with **WatchMate**, the AI-powered movie recommendation system that deliver personalized suggestions in seconds.
 
 ## Channel-Specific Messages
 
