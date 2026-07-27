@@ -1,4 +1,4 @@
-channel,target_user,message_angle,cta,metric,responsible_note
+channel,target_user,message_angle,cta,metric,responsible_notes
 Class Presentation,University Students,Discover personalized movie recommendations powered by AI,Try Demo,Demo attempts,Do not collect personal viewing history without consent
 LINE Group,Students,Find your next favorite movie in seconds,Start Chat,CTA clicks,Share only the prototype link
 Instagram Story,Movie Lovers,Get instant movie recommendations based on your preferences,Try WatchMate,Landing page views,Avoid collecting unnecessary personal information
