@@ -417,7 +417,7 @@ Lab 10 focused on developing the first functional version of the WatchMate MVP p
 |---|---|---|
 | **Htut Arkar Saing** | Product Lead | `/data/movies-sample-records.csv`, `/data/movies-status-categories.csv` |
 | **Htut Arkar Saing** | UX/UI Lead | `/docs/feature-implementation-status.md`, `/docs/implementation-plan.md`, `/diagrams/implementation-flow.mmd` |
-| **Bhone Myat Kyaw** | Technical Lead | `/prototype/` |
+| **Bhone Myat Kyaw** | Technical Lead | `/prototype/project/` |
 | **Tar Yar Lin Latt** | Documentation Lead | `/docs/weekly-logbook.md`, `README.md` |
 
 ---
@@ -451,10 +451,12 @@ Documented startup and product metrics in `docs/startup-metrics.md`, including u
 - Homepage – `screenshots/homepage.md`
 - Login – `screenshots/login.md`
 - Registration – `screenshots/register.md`
-- Movie Preference Form – `screenshots/`
-- Recommendation List – `screenshots/`
+- AI Chatbot / Movie Preference – `screenshots/ai-chatbot.md`
+- Search Results (Recommendation List) – `screenshots/search-results.md`
 - Movie Detail – `screenshots/movie-detail.md`
-- Dashboard – `screenshots/`
+- Watchlist – `screenshots/watchlist.md`
+- Chat History – `screenshots/chat-history.md`
+- Admin Dashboard – `screenshots/admin-dashboard.md`
 
 ### Member Contributions
 
@@ -518,10 +520,10 @@ Recorded **118** AI chatbot demo attempts and **62** active testers, resulting i
 ## Screenshots
 
 **Landing page screenshot:**  
-`screenshots/homepage.png`
+`screenshots/homepage.md`
 
 **AI Chatbot screenshot:**  
-`screenshots/chatbot.png`
+`screenshots/ai-chatbot.md`
 
 ---
 
