@@ -1,0 +1,9 @@
+channel,target_user,message_angle,cta,metric,responsible_note
+Class Presentation,University Students,Discover personalized movie recommendations powered by AI,Try Demo,Demo attempts,Do not collect personal viewing history without consent
+LINE Group,Students,Find your next favorite movie in seconds,Start Chat,CTA clicks,Share only the prototype link
+Instagram Story,Movie Lovers,Get instant movie recommendations based on your preferences,Try WatchMate,Landing page views,Avoid collecting unnecessary personal information
+Facebook Student Group,Students,Explore AI-powered movie suggestions for every mood,Give Feedback,Feedback responses,Explain how feedback will be used
+QR Poster (Campus Library),Students on Campus,Scan to try the AI Movie Recommendation System,Scan QR,QR scans/page views,Display only general project information
+Campus Movie Club,Movie Enthusiasts,Help improve our AI recommendation engine,Test Prototype,Signups or testers,Participation is voluntary
+Peer Invitation,Friends and Classmates,Experience personalized movie recommendations,Join Testing,Prototype testers,Collect feedback anonymously
+Email,Potential Testers,Support our class project by testing WatchMate,Give Feedback,Feedback responses,Clearly explain data collection and privacy
