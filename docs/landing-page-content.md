@@ -17,7 +17,7 @@ Tell WatchMate what you like, and receive personalized movie recommendations in 
 Many users spend too much time browsing streaming platforms without finding movies that match their interests. Most recommendation systems rely on general popularity instead of understanding individual preferences, making it difficult for users to discover movies they will truly enjoy.
 
 ## Solution Description
-WatchMate is an AI-powered movie recommendation system that provides personalized movie suggestions based on users' favorite genres, moods, and interests. Instead of scrolling through hundreds of titles, users receive recommendations that better match their preferences, making movie selection faster and more enjoyable.
+WatchMate is an AI-powered movie recommendation system that provides personalized movie suggestions based on users' favorite genres, moods, and interests. Instead of scrolling through hundreds of titles, users receives recommendations that better match their preferences, making movie selection faster and more enjoyable.
 
 ## Key Features
 
