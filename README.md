@@ -474,4 +474,67 @@ Documented startup and product metrics in `docs/startup-metrics.md`, including u
 
 ---
 
+# Lab 12 - Landing Page and Digital Go-to-Market
 
+## Landing Page
+
+**Landing page folder/link:**  
+`prototype/project/index.html` *(https://your-deployed-website-link.com)*
+
+**Main CTA:**  
+**Start Chat with AI** (Primary) & **Browse Trending Movies** (Secondary)
+
+**Prototype/demo link:**  
+https://your-deployed-website-link.com
+
+---
+
+## Go-to-Market Plan
+
+**Target early users:**  
+University students, young adults, and movie enthusiasts who want personalized movie recommendations and an easier way to discover movies and TV shows.
+
+**Selected channels:**  
+University LINE/Discord groups, Facebook, Instagram, TikTok, GitHub, QR-code posters around campus, and word-of-mouth recommendations.
+
+**Main marketing message:**  
+*"Not sure what to watch? Let WatchMate's AI recommend the perfect movie for you in seconds."*
+
+---
+
+## Acquisition Metrics
+
+**Landing Page Views (M-01):**  
+Recorded **420** total landing page views across all marketing channels (Target ≥ 100).
+
+**CTA Click Rate (M-02):**  
+Achieved a **39.8%** click-through rate (**167 clicks / 420 views**).
+
+**Demo Attempts & Active Testers (M-03 / M-05):**  
+Recorded **118** AI chatbot demo attempts and **62** active testers, resulting in a **14.8%** conversion rate.
+
+---
+
+## Screenshots
+
+**Landing page screenshot:**  
+`screenshots/homepage.png`
+
+**AI Chatbot screenshot:**  
+`screenshots/chatbot.png`
+
+---
+
+## Requirement Alignment
+
+The landing page directly supports **FR-01** by presenting the WatchMate value proposition, featured movies, and AI chatbot entry point. The primary call-to-action directs users to the AI Movie Recommendation Chatbot (**FR-03**), while the secondary action allows users to browse trending movies and search the movie catalog (**FR-05** and **FR-06**). This ensures alignment with the system requirements defined in `docs/system-requirements.md`.
+
+---
+
+## Member Contributions
+
+| Member Name | Role | Contribution | File / Feature Evidence |
+|-------------|------|--------------|-------------------------|
+| **Tar Yar Lin Latt** | Product Lead | Prepared the product concept, user persona, MVP feature planning, Go-to-Market strategy, marketing content, and validation documentation. | `docs/product-concept.md`, `docs/go-to-market-plan.md`, `docs/marketing-message.md`, `docs/user-persona.md` |
+| **Bhone Myat Kyaw** | Technical Lead | Developed the AI chatbot, movie search, TMDB API integration, watchlist, chat history, authentication, homepage, admin dashboard and Power BI validation datasets. | `prototype/`, `server.js`, `js/`, `css/`, `database/` |
+| **Htut Arkar Saing** | UX/UI & Documentation Lead | Designed the UI/UX wireframes, user flow diagram, system architecture, GitHub documentation, and weekly reports. | `wireframes/`, `diagrams/`, `docs/`, `README.md`, `data/` |
