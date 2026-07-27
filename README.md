@@ -383,7 +383,7 @@ Core system requirements (`FR-01` through `FR-12` in `/docs/system-requirements.
 Lab 10 focused on developing the first functional version of the WatchMate MVP prototype based on the approved requirements, wireframes, and technical architecture. The objective was to implement the core features that allow users to search for movies, receive recommendations, and browse movie information through a responsive web application.
 
 ### Implementation Approach
-- **Development Stack:** HTML5, Tailwind CSS, Vanilla JavaScript
+- **Development Stack:** Tailwind CSS, Vanilla JavaScript
 - **Frontend Implementation:** Responsive web application with client-side JavaScript
 - **Data Source:** `data/movies-sample-records.csv` and local sample movie dataset
 - **Prototype Location:** `prototype/project/`
