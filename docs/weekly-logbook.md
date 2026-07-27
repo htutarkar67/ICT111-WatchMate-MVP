@@ -466,10 +466,10 @@ WatchMate - AI Movie Recommendation System
 ## Member Contributions
 | Member Name | Contribution | File/Feature Updated | GitHub Evidence |
 |---|---|---|---|
-| **Htut Arkar Saing** | Improved recommendation logic and testing dataset | Recommendation Module | https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/ |
-| **Bhone Myat Kyaw** | Prepared Lab 11 documentation | `docs/feature-implementation-status.md`, `docs/startup-metrics.md` |  |
-| **Bhone Myat Kyaw** | Enhanced prototype interface and responsive layouts | `prototype/` |  |
-| Tar Yar Lin Latt | Updated weekly logbook and repository documentation | `docs/weekly-logbook.md`, `README.md` |  |
+| **Htut Arkar Saing** | Improved recommendation logic and testing dataset | Recommendation Module | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Prepared Lab 11 documentation | `docs/feature-implementation-status.md`, `docs/startup-metrics.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| **Bhone Myat Kyaw** | Enhanced prototype interface and responsive layouts | `prototype/` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
+| Tar Yar Lin Latt | Updated weekly logbook and repository documentation | `docs/weekly-logbook.md`, `README.md` | `https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/` |
 
 ## Requirements Addressed
 - **FR-03 (Movie Preference Input):** Improved user input form for selecting genres, moods, and preferences.
