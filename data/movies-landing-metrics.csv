@@ -1,0 +1,6 @@
+metric_id,metric_name,description,sample_value,how_to_collect
+M-01,Landing Page Views,Number of users who visit the WatchMate landing page,78,"Google Analytics, localStorage counter, or manual observation"
+M-02,CTA Clicks,Number of users who click the 'Try WatchMate' button,32,"Button click event tracking or JavaScript counter"
+M-03,Recommendation Requests,Number of users who start an AI movie recommendation session,32,"Chat session counter or tester log"
+M-04,Feedback Responses,Number of users who submit the feedback form after testing,15,"Google Forms or spreadsheet"
+M-05,Conversion Rate,Recommendation Requests divided by Landing Page Views,0.410,"Formula in spreadsheet"
