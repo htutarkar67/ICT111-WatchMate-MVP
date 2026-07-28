@@ -567,10 +567,10 @@ This lab focused on preparing the final presentation materials for the **WatchMa
 ## Prototype / Demo Link
 
 **Live Demo:**  
-https://your-deployed-website-link.com
+https://final-project-production-e4d4.up.railway.app/
 
 **GitHub Repository:**  
-https://github.com/your-username/your-repository
+https://github.com/BhoneMyatKyaw666/final-project
 
 ---
 
