@@ -481,13 +481,13 @@ Documented startup and product metrics in `docs/startup-metrics.md`, including u
 ## Landing Page
 
 **Landing page folder/link:**  
-`prototype/project/index.html` *(https://your-deployed-website-link.com)*
+`prototype/project` *(https://final-project-production-e4d4.up.railway.app/)*
 
 **Main CTA:**  
 **Start Chat with AI** (Primary) & **Browse Trending Movies** (Secondary)
 
 **Prototype/demo link:**  
-https://your-deployed-website-link.com
+https://final-project-production-e4d4.up.railway.app/
 
 ---
 
@@ -540,3 +540,44 @@ The landing page directly supports **FR-01** by presenting the WatchMate value p
 | **Tar Yar Lin Latt** | Product Lead | Prepared the product concept, user persona, MVP feature planning, Go-to-Market strategy, marketing content, and validation documentation. | `docs/product-concept.md`, `docs/go-to-market-plan.md`, `docs/marketing-message.md`, `docs/user-persona.md` |
 | **Bhone Myat Kyaw** | Technical Lead | Developed the AI chatbot, movie search, TMDB API integration, watchlist, chat history, authentication, homepage, admin dashboard and Power BI validation datasets. | `prototype/`, `server.js`, `js/`, `css/`, `database/` |
 | **Htut Arkar Saing** | UX/UI & Documentation Lead | Designed the UI/UX wireframes, user flow diagram, system architecture, GitHub documentation, and weekly reports. | `wireframes/`, `diagrams/`, `docs/`, `README.md`, `data/` |
+
+---
+
+# Lab 13: Sales Scenario, Demo Script, and User Testing
+
+## Lab 13 Objective
+
+This lab focused on preparing the final presentation materials for the **WatchMate: AI Movie Recommendation System**. Our team completed the sales scenario, demo script, user testing plan, user testing results, and final improvement list to ensure the prototype is ready for the final demonstration in Lab 14.
+
+---
+
+## Files Completed
+
+- `/docs/sales-scenario.md`
+- `/docs/demo-script.md`
+- `/docs/user-testing-plan.md`
+- `/docs/user-testing-results.md`
+- `/docs/final-improvement-list.md`
+- `/docs/weekly-logbook.md`
+- `/screenshots/demo-flow.png`
+- `/screenshots/user-testing-evidence.png`
+
+---
+
+## Prototype / Demo Link
+
+**Live Demo:**  
+https://your-deployed-website-link.com
+
+**GitHub Repository:**  
+https://github.com/your-username/your-repository
+
+---
+
+## Final Preparation Status
+
+The **WatchMate** prototype is **ready for Lab 14**. All core MVP features have been implemented, including the AI movie recommendation chatbot, movie search, trending movies, movie detail pages, watchlist, user authentication, administrator dashboard, and analytics dashboard.
+
+User testing was completed with **20 participants**, and the feedback was analyzed to identify usability improvements. Minor issues such as AI response speed, watchlist visibility, and filter usability have been addressed or documented for future enhancement.
+
+The team has also completed all required documentation, diagrams, screenshots, and testing evidence. The project is now prepared for the final demonstration, evaluation, and presentation in Lab 14.
