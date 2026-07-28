@@ -334,7 +334,7 @@ WatchMate: AI Movie Recommendation System
 WatchMate
 
 ## Date
-19/07/2026
+19 Jul 2026
 
 ## Members Present
 - Bhone Myat Kyaw
@@ -507,7 +507,6 @@ WatchMate - AI Movie Recommendation System
 
 ---
 
-
 # Weekly Logbook - Lab 12
 
 ## Group Name
@@ -517,12 +516,9 @@ WatchMate
 WatchMate - AI Movie Recommendation System
 
 ## Lab Date
-2026-07-27
-
----
+27 Jul 2026
 
 # Work Completed Today
-
 - Designed and improved the WatchMate homepage, including the featured movie banner, trending movie section, search bar, navigation menu, and AI chatbot interface.
 - Enhanced the AI Movie Recommendation Chatbot by improving the recommendation workflow, chat interface, and conversation history for logged-in users.
 - Implemented and refined user authentication, watchlist management, and chat history features.
@@ -530,8 +526,6 @@ WatchMate - AI Movie Recommendation System
 - Prepared the Product Concept, MVP Feature List, Feature-Requirement Mapping, User Flow Diagram, and System Architecture documentation.
 - Conducted user testing using a validation dataset and prepared the testing results for Power BI visualization.
 - Updated the GitHub repository, README documentation, and weekly project logbook.
-
----
 
 # Member Contributions
 
@@ -541,38 +535,59 @@ WatchMate - AI Movie Recommendation System
 | Bhone Myat Kyaw | Developed the AI chatbot integration, movie search, user authentication, watchlist, chat history, backend API integration, admin dashboard  and Power BI validation materials. | `prototype/`, `server.js`, `js/`, `css/`, `database/` |
 | Htut Arkar Saing | Designed the UI/UX wireframes, user flow, system architecture diagrams, GitHub documentation, testing datasets. | `wireframes/`, `diagrams/`, `docs/`, `README.md`, `data/` |
 
----
-
 # Homepage Progress
-
 The WatchMate homepage serves as the main entry point of the system. It includes a featured movie banner, search functionality, trending movies and TV shows, navigation menu, and direct access to the AI Movie Recommendation Chatbot. The homepage is designed to help users quickly discover movies and begin interacting with the AI assistant.
 
----
-
 # AI Chatbot & User Experience Progress
-
 The AI chatbot was enhanced to provide personalized movie recommendations based on users' preferences, favorite genres, moods, actors, or previously watched movies. Logged-in users can save and continue previous conversations, while guest users can still receive recommendations without creating an account.
 
----
-
 # Validation & Analytics Progress
-
 Prepared user testing datasets for Power BI analysis and defined validation metrics, including task completion rate, ease of use, usefulness, interest level, and user feedback. The testing data will be used to evaluate user satisfaction and identify areas for future improvement.
 
----
-
 # Problems Encountered
-
 **AI Recommendation Accuracy:** Some recommendations were too general for certain user preferences. Improvements were made by refining prompts and integrating additional movie metadata from the TMDB API.
 
 **API Response Time:** Occasional delays occurred when retrieving movie information from external APIs. Error handling and loading indicators were added to improve the user experience.
 
----
-
 # Next Action Before Lab 13
-
 - Finalize the WatchMate prototype and perform complete end-to-end testing.
 - Improve AI recommendation quality based on user testing feedback.
 - Complete the Power BI dashboard using validation and user testing datasets.
 - Record the final demonstration video and prepare presentation slides for the project showcase.
 - Review all GitHub documentation and ensure project deliverables are complete before the final submission.
+
+---
+
+# Weekly Logbook - Lab 13
+
+## Group Name
+WatchMate
+
+## Project Title
+WatchMate - AI Movie Recommendation System
+
+## Date
+29 Jul 2026
+
+## Members and Contributions
+| Member | Contribution This Lab | GitHub Evidence |
+| --- | --- | --- |
+| Bhone Myat Kyaw | | |
+| Htut Arkar Saing | | |
+| Tar Yar Lin Latt | | |
+
+## Work Completed
+- Sales scenario:
+- Demo script:
+- User testing plan:
+- User testing results:
+- Final improvement list:
+- Screenshots:
+
+## Key Decisions
+
+## Problems Encountered
+
+## Next Actions Before Lab 14
+
+## Requirement Traceability Notes
