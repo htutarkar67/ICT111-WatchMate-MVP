@@ -55,7 +55,6 @@ Many users spend more time searching for a movie than actually watching one.
 
 - Manage the system
 - View user AI chat history
-- Monitor platform usage
 
 ---
 
