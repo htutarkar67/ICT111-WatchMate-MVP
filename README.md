@@ -520,16 +520,16 @@ Recorded **118** AI chatbot demo attempts and **62** active testers, resulting i
 ## Screenshots
 
 **Landing page screenshot:**  
-`screenshots/homepage.md`
+[/screenshots/homepage.md](/screenshots/homepage.md)
 
 **AI Chatbot screenshot:**  
-`screenshots/ai-chatbot.md`
+[/screenshots/ai-chatbot.md](/screenshots/ai-chatbot.md)
 
 ---
 
 ## Requirement Alignment
 
-The landing page directly supports **FR-01** by presenting the WatchMate value proposition, featured movies, and AI chatbot entry point. The primary call-to-action directs users to the AI Movie Recommendation Chatbot (**FR-03**), while the secondary action allows users to browse trending movies and search the movie catalog (**FR-05** and **FR-06**). This ensures alignment with the system requirements defined in `docs/system-requirements.md`.
+The landing page directly supports **FR-01** by presenting the WatchMate value proposition, featured movies, and AI chatbot entry point. The primary call-to-action directs users to the AI Movie Recommendation Chatbot (**FR-03**), while the secondary action allows users to browse trending movies and search the movie catalog (**FR-05** and **FR-06**). This ensures alignment with the system requirements defined in [/docs/system-requirements.md](/docs/system-requirements.md).
 
 ---
 
@@ -553,13 +553,13 @@ This lab focused on preparing the final presentation materials for the **WatchMa
 
 ## Files Completed
 
-- `/docs/sales-scenario.md`
-- `/docs/demo-script.md`
-- `/docs/user-testing-plan.md`
-- `/docs/user-testing-results.md`
-- `/docs/final-improvement-list.md`
-- `/docs/weekly-logbook.md`
-- `/screenshots/demo-flow.md`
+- [/docs/sales-scenario.md](/docs/sales-scenario.md)
+- [/docs/demo-script.md](/docs/demo-script.md)
+- [/docs/user-testing-plan.md](/docs/user-testing-plan.md)
+- [/docs/user-testing-results.md](/docs/user-testing-results.md)
+- [/docs/final-improvement-list.md](/docs/final-improvement-list.md)
+- [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
+- [/screenshots/demo-flow.md](/screenshots/demo-flow.md)
 
 ---
 
