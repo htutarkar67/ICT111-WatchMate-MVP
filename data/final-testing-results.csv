@@ -1,0 +1,11 @@
+tester_id,target_user_type,task,completed,time_minutes,confusion_point,feedback_score_1_5,comment,improvement_needed
+T01,Student,Generate AI movie recommendation,Yes,2,None,5,Recommendations matched my interests,No
+T02,Movie Enthusiast,Search for a movie,Yes,2,Genre filter could be clearer,4,Search results were accurate,Yes
+T03,Guest,View movie details,Yes,1,None,5,Movie information was easy to understand,No
+T04,Student,Save movie to watchlist,Yes,2,Watchlist button was small,4,Feature was useful for saving movies,Yes
+T05,Movie Enthusiast,Browse trending movies,Yes,2,None,5,Trending section was interesting,No
+T06,Student,Register a new account,Yes,3,Password requirements unclear,4,Registration was simple overall,Yes
+T07,Student,Log in to the system,Yes,1,None,5,Login process was fast,No
+T08,Guest,Receive AI recommendations,Partial,3,Recommendation loading took longer than expected,3,Need faster response time,Yes
+T09,Student,View recommendation history,Yes,2,None,4,History feature was useful,No
+T10,Movie Enthusiast,Watch movie trailer,Yes,2,Trailer button could be more visible,4,Trailer playback worked well,Yes
