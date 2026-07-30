@@ -1,12 +1,12 @@
 requirement_id,feature_or_screen,user_story_id,evidence_source,final_status,screenshot_file,notes
-FR-01,Homepage,US-01,Lab03 User Story Validation,Completed,homepage.png,Landing page introduces WatchMate and AI recommendation feature
-FR-03,Movie Preference Form,US-02,Lab05 Wireframe Validation,Completed,movie-preference-form.png,Users select genres, moods, languages, and viewing preferences
-FR-04,AI Recommendation Processing,US-03,Lab10 Prototype Implementation,Completed,ai-chatbot.png,AI processes user preferences and generates recommendations
-FR-05,Movie Search Results,US-04,Lab10 Prototype Testing,Completed,search-results.png,Users browse and filter recommended movies
-FR-06,Movie Details & Trailer,US-05,Lab10 Prototype Testing,Completed,movie-detail.png,Displays synopsis, ratings, cast, and trailer
-FR-07,AI Chat Recommendation,US-06,Lab11 Startup Metrics,Completed,ai-chatbot.png,Interactive chatbot provides personalized movie recommendations
-FR-08,Recommendation History,US-07,Lab11 Validation Results,Completed,chat-history.png,Stores previous AI conversations and recommendations
-FR-09,Admin Dashboard,US-08,Lab11 Prototype Implementation,Completed,admin-dashboard.png,Administrator monitors system usage and recommendation records
-FR-10,User Registration,US-09,Lab10 Prototype Implementation,Completed,register.png,New users can create an account
-FR-11,Watchlist Management,US-10,Lab11 Feature Validation,Completed,watchlist.png,Users save favorite movies for future viewing
-FR-12,User Login,US-11,Lab10 Prototype Implementation,Completed,login.png,Registered users securely access their accounts
+FR-01,Homepage,US-01,Lab03 User Story Validation,Completed,homepage.png,Landing page introduces WatchMate
+FR-03,Movie Preference Form,US-02,Lab05 Wireframe Validation,Completed,movie-preference-form.png,Users select viewing preferences
+FR-04,AI Recommendation Engine,US-03,Lab10 Prototype Implementation,Completed,ai-chatbot.png,AI generates personalized recommendations
+FR-05,Movie Search Results,US-04,Lab10 Prototype Testing,Completed,search-results.png,Users browse recommended movies
+FR-06,Movie Details,US-05,Lab10 Prototype Testing,Completed,movie-detail.png,Displays synopsis trailer and ratings
+FR-07,Recommendation History,US-06,Lab11 Validation Results,Completed,chat-history.png,Stores previous recommendations
+FR-08,AI Chatbot,US-07,Lab11 Prototype Implementation,Completed,ai-chatbot.png,Interactive recommendation assistant
+FR-09,Admin Dashboard,US-08,Lab11 Startup Metrics,Completed,admin-dashboard.png,Administrator monitors system usage
+FR-10,User Registration,US-09,Lab10 Prototype Implementation,Completed,register.png,New users create accounts
+FR-11,Watchlist,US-10,Lab11 Feature Validation,Completed,watchlist.png,Save favorite movies
+FR-12,User Login,US-11,Lab10 Prototype Implementation,Completed,login.png,Registered users access the system
