@@ -1,0 +1,6 @@
+record_id,record_type,movie_title,genre,recommendation_source,date_generated,status,user_role,last_updated,notes
+REC-001,Recommendation,Inception,Sci-Fi,AI Recommendation Engine,2026-02-10,Completed,Student,2026-02-10,Successfully recommended based on user preferences
+REC-002,Recommendation,The Dark Knight,Action,Trending Movies,2026-02-11,Completed,Movie Enthusiast,2026-02-11,Recommended from trending list
+REC-003,Recommendation,Interstellar,Sci-Fi,User Preferences,2026-02-12,Completed,Student,2026-02-12,Matched preferred genre and rating
+REC-004,Recommendation,Parasite,Thriller,Top Rated Movies,2026-02-13,Failed,Guest,2026-02-13,Recommendation service temporarily unavailable
+REC-005,Recommendation,Inside Out 2,Animation,Recently Released,2026-02-14,Completed,Student,2026-02-14,Recommended based on family-friendly preference
