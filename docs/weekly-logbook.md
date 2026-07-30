@@ -564,30 +564,48 @@ Prepared user testing datasets for Power BI analysis and defined validation metr
 WatchMate
 
 ## Project Title
-WatchMate - AI Movie Recommendation System
+AI Movie Recommendation System
 
 ## Date
-29 Jul 2026
+2026-07-29
 
 ## Members and Contributions
-| Member | Contribution This Lab | GitHub Evidence |
+
+| Member Name | Contribution This Lab | GitHub Evidence |
 | --- | --- | --- |
-| Bhone Myat Kyaw | | |
-| Htut Arkar Saing | | |
-| Tar Yar Lin Latt | | |
+| **Htut Arkar Saing** (Product Lead) | Prepared `docs/sales-scenario.md` and `docs/final-demo-script.md`, defined the product value proposition, customer journey, and presentation flow. | [docs/sales-scenario.md](/docs/sales-scenario.md), [docs/final-demo-script.md](/docs/final-demo-script.md) |
+| **Htut Arkar Saing** (UX/UI Lead) | Prepared `docs/user-testing-plan.md` and organized sample testing records and evaluation documents for the final prototype. | [docs/user-testing-plan.md](/docs/user-testing-plan.md) |
+| **Bhone Myat Kyaw** (Technical Lead) | Updated prototype screens, generated final screenshots, created Mermaid demo flow diagram (`diagrams/final-demo-flow.mmd`), and finalized sample datasets. | [diagrams/final-demo-flow.mmd](/diagrams/final-demo-flow.mmd) |
+| **Tar Yar Lin Latt** (Documentation Lead) | Updated `README.md`, maintained `docs/weekly-logbook.md`, finalized submission documents, and reviewed repository structure. | [README.md](../README.md), [docs/weekly-logbook.md](/docs/weekly-logbook.md) |
 
 ## Work Completed
-- Sales scenario:
-- Demo script:
-- User testing plan:
-- User testing results:
-- Final improvement list:
-- Screenshots:
+
+- **Sales Scenario:** Created a complete sales scenario describing the target users, user problems, AI recommendation solution, value proposition, and demonstration flow in `docs/sales-scenario.md`.
+- **Final Demo Script:** Prepared a 5–7 minute demonstration guide in `docs/final-demo-script.md`, covering Homepage, Login, Preference Selection, AI Recommendation, Movie Details, Watchlist, and Admin Dashboard.
+- **User Testing Plan:** Developed a theoretical user testing framework in `docs/user-testing-plan.md`, including testing objectives, participant profiles, testing tasks, success criteria, and ethical considerations.
+- **Prototype Refinement:** Updated prototype documentation, screenshots, requirement traceability, sample datasets, marketing documents, and repository organization for the final submission.
+- **Final Documentation:** Completed acquisition metrics, go-to-market plan, landing page content, marketing messages, demo flow diagram, traceability matrix, testing results, and final submission checklist.
+- **Repository Maintenance:** Updated `README.md`, organized `/docs`, `/screenshots`, `/diagrams`, and `/data` folders, and verified all required files for Lab 14 submission.
 
 ## Key Decisions
 
+- Selected the AI Movie Recommendation System as the final prototype concept focusing on personalized movie discovery through user preferences.
+- Used sample datasets and simulated analytics instead of live user data because formal user testing was not conducted during this prototype phase.
+- Finalized all documentation using a consistent GitHub folder structure to improve project organization and navigation.
+
 ## Problems Encountered
+
+- Prototype implementation was limited to documentation and interface design without a fully deployed backend service.
+- Some metrics and testing results were represented using realistic sample data for demonstration purposes.
+- Several documentation files required consistent naming and folder organization before the final submission.
 
 ## Next Actions Before Lab 14
 
+- Review all project documents and verify repository completeness.
+- Rehearse the final presentation and demonstration.
+- Verify screenshots, diagrams, and sample datasets.
+- Submit the final GitHub repository and presentation materials.
+
 ## Requirement Traceability Notes
+
+- Verified that all documented functional requirements are linked to prototype screens, supporting documents, screenshots, and sample datasets through the final requirement traceability matrix.
