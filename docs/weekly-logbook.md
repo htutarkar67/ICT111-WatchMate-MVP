@@ -573,10 +573,10 @@ AI Movie Recommendation System
 
 | Member Name | Contribution This Lab | GitHub Evidence |
 | --- | --- | --- |
-| **Htut Arkar Saing** (Product Lead) | Prepared `docs/sales-scenario.md` and `docs/final-demo-script.md`, defined the product value proposition, customer journey, and presentation flow. | [docs/sales-scenario.md](/docs/sales-scenario.md), [docs/final-demo-script.md](/docs/final-demo-script.md) |
-| **Htut Arkar Saing** (UX/UI Lead) | Prepared `docs/user-testing-plan.md` and organized sample testing records and evaluation documents for the final prototype. | [docs/user-testing-plan.md](/docs/user-testing-plan.md) |
-| **Bhone Myat Kyaw** (Technical Lead) | Updated prototype screens, generated final screenshots, created Mermaid demo flow diagram (`diagrams/final-demo-flow.mmd`), and finalized sample datasets. | [diagrams/final-demo-flow.mmd](/diagrams/final-demo-flow.mmd) |
-| **Tar Yar Lin Latt** (Documentation Lead) | Updated `README.md`, maintained `docs/weekly-logbook.md`, finalized submission documents, and reviewed repository structure. | [README.md](../README.md), [docs/weekly-logbook.md](/docs/weekly-logbook.md) |
+| **Htut Arkar Saing** | Prepared `docs/sales-scenario.md` and `docs/final-demo-script.md`, defined the product value proposition, customer journey, and presentation flow. | [docs/sales-scenario.md](/docs/sales-scenario.md), [docs/final-demo-script.md](/docs/final-demo-script.md) |
+| **Htut Arkar Saing** | Prepared `docs/user-testing-plan.md` and organized sample testing records and evaluation documents for the final prototype. | [docs/user-testing-plan.md](/docs/user-testing-plan.md) |
+| **Bhone Myat Kyaw** | Updated prototype screens, generated final screenshots, created Mermaid demo flow diagram (`diagrams/final-demo-flow.mmd`), and finalized sample datasets. | [diagrams/final-demo-flow.mmd](/diagrams/final-demo-flow.mmd) |
+| **Tar Yar Lin Latt** | Updated `README.md`, maintained `docs/weekly-logbook.md`, finalized submission documents, and reviewed repository structure. | [README.md](../README.md), [docs/weekly-logbook.md](/docs/weekly-logbook.md) |
 
 ## Work Completed
 
