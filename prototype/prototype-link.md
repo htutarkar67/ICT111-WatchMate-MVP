@@ -7,7 +7,7 @@ Welcome to the **WatchMate** prototype! WatchMate is an AI-powered movie recomme
 ## Prototype Links
 
 - **GitHub Repository:** *https://github.com/Kreazx/final-project*
-- **Live Demo:** *https://final-project-production-e4d4.up.railway.app/*
+- **Live Demo:** *https://watchmate-mvp.up.railway.app*
 
 ---
 
