@@ -605,8 +605,7 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 ## Final Prototype Links
 
-- **Prototype Folder:** `prototype/`
-- **Homepage:** `prototype/homepage`
+- **Prototype Folder:** [/prototype/project](/prototype/project)
 - **Live Demo:** *Add your GitHub Pages link here after deployment.*
 
 ---
@@ -623,35 +622,35 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 ## Final Documentation
 
-- System Requirements: `docs/system-requirements.md`
-- User Stories: `docs/user-stories.md`
-- MVP Feature List: `docs/mvp-feature-list.md`
-- Feature Implementation Status: `docs/feature-implementation-status.md`
-- Final Prototype Report: `docs/final-prototype-report.md`
-- Final Demo Script: `docs/final-demo-script.md`
-- Final Reflection: `docs/final-reflection.md`
-- Final Submission Checklist: `docs/final-submission-checklist.md`
+- System Requirements: [/docs/system-requirements.md](/docs/system-requirements.md)
+- User Stories: [/docs/user-stories.md](/docs/user-stories.md)
+- MVP Feature List: [/docs/mvp-feature-list.md](/docs/mvp-feature-list.md)
+- Feature Implementation Status: [/docs/feature-implementation-status.md](/docs/feature-implementation-status.md)
+- Final Prototype Report: [/docs/final-prototype-report.md](/docs/final-prototype-report.md)
+- Final Demo Script: [/docs/final-demo-script.md](/docs/final-demo-script.md)
+- Final Reflection: [/docs/final-reflection.md](/docs/final-reflection.md)
+- Final Submission Checklist: [/docs/final-submission-checklist.md](/docs/final-submission-checklist.md)
 
 ---
 
 ## Screenshots
 
-- Homepage – `screenshots/homepage.md`
-- Login – `screenshots/login.md`
-- Register – `screenshots/register.md`
-- AI Chatbot – `screenshots/ai-chatbot.md`
-- Search Results – `screenshots/search-results.md`
-- Movie Detail – `screenshots/movie-detail.md`
-- Watchlist – `screenshots/watchlist.md`
-- Chat History – `screenshots/chat-history.md`
-- Admin Dashboard – `screenshots/admin-dashboard.md`
+- Homepage – [/screenshots/homepage.md](/screenshots/homepage.md)
+- Login – [/screenshots/login.md](/screenshots/login.md)
+- Register – [/screenshots/register.md](/screenshots/register.md)
+- AI Chatbot – [/screenshots/ai-chatbot.md](/screenshots/ai-chatbot.md)
+- Search Results – [/screenshots/search-results.md](/screenshots/search-results.md)
+- Movie Detail – [/screenshots/movie-detail.md](/screenshots/movie-detail.md)
+- Watchlist – [/screenshots/watchlist.md](/screenshots/watchlist.md)
+- Chat History – [/screenshots/chat-history.md](/screenshots/chat-history.md)
+- Admin Dashboard – [/screenshots/admin-dashboard.md](/screenshots/admin-dashboard.md)
 
 ---
 
 ## Pitch Materials
 
-- Final Pitch Slides: `pitch/final-pitch-outline.md`
-- Demo Outline: `pitch/demo-outline.md`
+- Final Pitch Slides: [/pitch/presentation/](/pitch/presentation/)
+- Demo Outline: [/pitch/demo-outline.md](/pitch/demo-outline.md)
 
 ---
 
@@ -659,18 +658,18 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 ### Data
 
-- `data/final-sample-data.csv`
-- `data/final-testing-results.csv`
-- `data/lab11-activity-log.csv`
-- `data/lab11-prototype-records.csv`
-- `data/acquisition-metrics.csv`
-- `data/channel-plan.csv`
+- [/data/final-sample-data.csv](/data/final-sample-data.csv)
+- [/data/final-testing-results.csv](/data/final-testing-results.csv)
+- [/data/lab11-activity-log.csv](/data/lab11-activity-log.csv)
+- [/data/lab11-prototype-records.csv](/data/lab11-prototype-records.csv)
+- [/data/acquisition-metrics.csv](/data/acquisition-metrics.csv)
+- [/data/channel-plan.csv](/data/channel-plan.csv)
 
 ### Diagrams
 
-- `diagrams/system-architecture.mmd`
-- `diagrams/final-demo-flow.mmd`
-- `diagrams/implementation-flow.mmd`
+- [/diagrams/system-architecture.mmd](/diagrams/system-architecture.mmd)
+- [/diagrams/final-demo-flow.mmd](/diagrams/final-demo-flow.mmd)
+- [/diagrams/implementation-flow.mmd](/diagrams/implementation-flow.mmd)
 
 ---
 
