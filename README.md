@@ -223,7 +223,7 @@ The frontend pages and React components form the structure of the application. D
 The system architecture and data flow diagrams illustrate the movement of information between the frontend, backend, AI chatbot API, TMDB API, and SQLite database. These diagrams provide guidance for implementing key features such as movie searching, AI-based recommendations, user authentication, watchlist management, and chat history handling.
 
 ### Feature Prioritization
-The MVP feature list, system requirements, and user stories define the development priorities. The first implementation phase focuses on the core features:
+The MVP feature list, system requirements, and user stories establish the key development priorities. The initial implementation phase will focus on the following core features:
 
 - AI-powered movie recommendation chatbot
 - Movie search functionality
