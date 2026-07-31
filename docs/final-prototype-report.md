@@ -10,7 +10,7 @@
 
 **Repository:** https://github.com/htutarkar67/ICT111-WatchMate-MVP
 
-**Live Demo:** *(Add your deployed website URL here)*
+**Live Demo:** *(https://final-project-production-e4d4.up.railway.app/)*
 
 ---
 
