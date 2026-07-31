@@ -660,8 +660,8 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 - [/data/final-sample-data.csv](/data/final-sample-data.csv)
 - [/data/final-testing-results.csv](/data/final-testing-results.csv)
-- [/data/lab11-activity-log.csv](/data/lab11-activity-log.csv)
-- [/data/lab11-prototype-records.csv](/data/lab11-prototype-records.csv)
+- [/data/lab11-activity-log.csv](/data/lab11_activity_log.csv)
+- [/data/lab11-prototype-records.csv](/data/lab11_prototype_records.csv)
 - [/data/acquisition-metrics.csv](/data/acquisition-metrics.csv)
 - [/data/channel-plan.csv](/data/channel-plan.csv)
 
