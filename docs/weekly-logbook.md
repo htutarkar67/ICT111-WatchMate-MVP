@@ -609,3 +609,50 @@ AI Movie Recommendation System
 ## Requirement Traceability Notes
 
 - Verified that all documented functional requirements are linked to prototype screens, supporting documents, screenshots, and sample datasets through the final requirement traceability matrix.
+
+---
+
+# Weekly Logbook - Lab 14
+
+## Group Name
+WatchMate
+
+## Project Title
+AI Movie Recommendation System
+
+## Date
+2026-07-31
+
+## Members and Contributions
+
+| Member Name | Role | Contribution This Lab | GitHub Evidence |
+| --- | --- | --- | --- |
+| **Tar Yar Lin Latt** | Product Lead | Co-authored the final pitch slides, prepared the Go-to-Market strategy, Business Model Canvas, acquisition metrics, sales scenario, final demo script, and presentation materials in `/pitch/` and `/docs/`. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=taryarlinl66-sys) |
+| **Bhone Myat Kyaw** | Technical Lead | Co-authored the final pitch slides, finalized the AI Movie Recommendation System prototype, updated the prototype implementation, captured the final screenshots (`/screenshots/`), authored `docs/feature-implementation-status.md` and `docs/final-prototype-report.md`, and verified all functional requirements. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=BhoneMyatKyaw666) |
+| **Htut Arkar Saing** | UX/UI Lead & Documentation Lead | Co-authored the final pitch slides, designed the user interface, prepared `docs/final-reflection.md`, `docs/final-submission-checklist.md`, `docs/user-testing-plan.md`, `docs/marketing-message.md`, `docs/landing-page-content.md`, maintained `docs/weekly-logbook.md`, updated `README.md`, and organized the final project documentation for submission. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=htutarkar67) |
+
+## Work Completed
+
+- **Pitch Slides & Presentation:** Co-authored and finalized the presentation slide deck in `/pitch/`, including the project overview, problem statement, proposed solution, Business Model Canvas, Go-to-Market strategy, acquisition metrics, and prototype demonstration flow.
+- **Prototype Finalization:** Completed the AI Movie Recommendation System prototype, verified all implemented features, and captured the final prototype screenshots stored in `/screenshots/`.
+- **Project Documentation:** Finalized all required Lab 14 documents, including the final prototype report, sales scenario, user testing plan, final demo script, acquisition metrics, Go-to-Market plan, landing page content, marketing message, startup metrics, and final submission checklist.
+- **Repository Organization:** Reviewed and organized the repository structure, verified Markdown links, updated `README.md`, and ensured all required files were correctly placed in `/docs/`, `/data/`, `/screenshots/`, `/diagrams/`, and `/pitch/`.
+- **Submission Preparation:** Conducted the final review of documentation, sample datasets, screenshots, diagrams, and presentation materials to ensure the repository was complete and ready for submission.
+
+## Key Decisions
+
+- **Final Prototype Completion:** Completed all planned functional requirements for the AI Movie Recommendation System prototype and confirmed that all supporting documentation accurately reflected the implemented features.
+- **Submission Readiness:** Verified repository structure, documentation, screenshots, diagrams, datasets, and presentation materials before the final Lab 14 submission.
+- **Documentation Consistency:** Standardized document formatting, file naming conventions, and folder organization to improve repository quality and maintain consistency.
+
+## Problems Encountered
+
+- Minor inconsistencies in Markdown formatting and relative document links were identified during the final repository review and corrected before submission.
+- Sample datasets, requirement traceability documents, and supporting evidence were reviewed to ensure consistency with the AI Movie Recommendation System prototype.
+- Repository files were reorganized to improve readability and simplify navigation for reviewers.
+
+## Final Outcome
+
+- Successfully completed the AI Movie Recommendation System prototype.
+- Completed all required documentation, diagrams, screenshots, sample datasets, and presentation materials.
+- Verified repository completeness and prepared the project for the final presentation and Lab 14 submission.
