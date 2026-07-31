@@ -101,7 +101,8 @@ Updated Problem Statement
 Movie viewers often struggle to find movies that match their interests because streaming platforms offer a vast number of choices. Existing recommendation methods, including social media, online reviews, and platform-generated suggestions, are often time-consuming or insufficiently personalized. As a result, users experience frustration, decision fatigue, and difficulty discovering suitable movies.
 
 ## Decision for Next Step
-The team has chosen to continue with the existing problem focus and further develop the WatchMate Movie Recommendation System using verified customer feedback and research outcomes.
+The team has decided to maintain the current problem focus and proceed with the development of the WatchMate Movie Recommendation System based on validated customer feedback and research results.
+
 
 
 ---
