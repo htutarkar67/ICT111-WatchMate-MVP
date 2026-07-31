@@ -211,7 +211,7 @@ For this prototype, we will use a **React frontend**, **Node.js and Express.js b
 The frontend will provide an interactive interface that allows users to browse trending movies, search for film titles, interact with the AI assistant, organize their watchlist, and access previous chat conversations. The backend will process user requests, communicate with the AI chatbot and TMDB API, and manage user information stored in the SQLite database. This architecture delivers a simple and scalable solution that supports the project's MVP while providing flexibility for future improvements.
 
 ## Final Prototype Connection
-The documentation and planning completed in Lab 06 provide the groundwork for developing the final WatchMate prototype.
+The documentation and planning carried out during Lab 06 serve as the foundation for the development of the final WatchMate prototype.
 
 ### UI/UX Translation
 The finished wireframes, including the homepage, AI chatbot, search results, movie details, watchlist, chat history, and admin dashboard, provide a structured layout for the final user interface. These designs assist the React frontend development process while maintaining a consistent and user-friendly experience.
