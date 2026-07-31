@@ -85,7 +85,7 @@ The interview findings showed that many users have difficulty finding movies tha
 
 Our team gathered customer discovery evidence from:
 
-* University students who regularly watch movies using streaming platforms.
+* University students who frequently watch movies through online streaming platforms.
 * Movie enthusiasts who frequently search for new movies and recommendations.
 * Streaming platform users who experience difficulty selecting suitable content.
 
