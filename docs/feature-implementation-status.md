@@ -1,25 +1,25 @@
-# Lab 11 - Feature Implementation Status (Sprint 2)
+# Feature Implementation Status
 
 ## Requirement Implementation Matrix
 
-| Req ID | Required Functionality | Prototype Screen/Module | Current Status | Sprint 2 Evidence & Implementation Details | Next Polish / Enhancement |
+| Requirement ID | Requirement Summary | Prototype Screen/Module | Status | Evidence/Screenshot | Notes |
 |---|---|---|---|---|---|
-| FR-01 | Homepage / Landing Page | Landing Page | **Fully Implemented** | Displays the WatchMate logo, project introduction, navigation menu, and a **Get Started** button to begin movie recommendations. | Add animated hero banner and featured movies. |
-| FR-02 | Primary User Navigation | Navigation Bar | **Fully Implemented** | Users can navigate between Home, Movie Recommendations, About, Contact, Login, and Sign Up pages through a consistent navigation menu. | Improve page transition animations. |
-| FR-03 | User Preference Input | Recommendation Form | **Fully Implemented** | Users enter favorite genres, moods, or movie interests to receive AI-generated movie recommendations. Required fields are validated before submission. | Add additional recommendation preferences such as language, actor, and director. |
-| FR-04 | Movie Data Management | Movie Dataset | **Fully Implemented** | Movie information is loaded from structured datasets and processed by the recommendation system to generate personalized movie suggestions. | Integrate a live movie database API. |
-| FR-05 | Recommendation Results | Recommendation Results | **Fully Implemented** | Displays recommended movies with posters, genres, ratings, release year, and brief descriptions. | Add recommendation ranking and pagination. |
-| FR-06 | Search & Filter | Search Panel | **Fully Implemented** | Users can search movies by title and filter recommendations using genres and categories. | Add filters for language, release year, and runtime. |
-| FR-07 | Movie Detail View | Movie Details | **Fully Implemented** | Shows detailed movie information including synopsis, genre, rating, runtime, release year, and cast information. | Add embedded trailers and streaming platform links. |
-| FR-08 | Recommendation Status | Recommendation Engine | **Fully Implemented** | Personalized AI-generated movie recommendations are displayed based on user preferences and selected genres. | Display recommendation confidence score. |
-| FR-09 | Administrator Functions | Admin Dashboard | **Fully Implemented** | Administrator can manage movie records, categories, and recommendation content through the dashboard. | Improve dashboard usability and reporting tools. |
-| FR-10 | Validation & Error Prevention | Recommendation Form, Login, Sign Up | **Fully Implemented** | Input validation prevents incomplete or invalid submissions and provides user-friendly error messages. | Improve real-time validation feedback. |
-| FR-11 | Confirmation & Feedback | Notification Messages | **Fully Implemented** | Confirmation messages notify users after submitting preferences and receiving movie recommendations. | Add loading animation during recommendation generation. |
-| FR-12 | Dashboard / Summary | Dashboard | **Fully Implemented** | Dashboard provides summaries of recommendations, popular genres, and user activities. | Add interactive charts and analytics. |
-| FR-13 | User Interface Consistency | Entire Prototype | **Fully Implemented** | Consistent colors, typography, buttons, icons, and layouts are applied across all pages. | Improve accessibility and dark mode support. |
-| FR-14 | Responsive Design | All Pages | **Fully Implemented** | The prototype is fully responsive and works across desktop, tablet, and mobile devices. | Optimize layouts for smaller mobile screens. |
-| FR-15 | Privacy & Responsible Data Handling | User Preferences, Privacy Notice | **Fully Implemented** | Only username, email, and movie preferences are collected. A privacy notice and educational disclaimer are provided. | Expand the privacy policy for production deployment. |
-| FR-16 | Prototype Traceability | Project Documentation | **Fully Implemented** | All functional requirements are linked to implementation evidence, MVP validation, and supporting documentation. | Continue updating traceability for future releases. |
+| FR-01 | Homepage or landing screen | `index.html` | Completed | `homepage.png` | Homepage introduces WatchMate, highlights the AI chatbot, trending movies, featured movies, and provides clear navigation for users. |
+| FR-02 | Primary user pathway | `index.html`, `chat.html`, `movie-detail.html` | Completed | `demo-flow.png` | Users can start from the homepage, chat with the AI, receive recommendations, view movie details, and save movies to their watchlist. |
+| FR-03 | User input or data submission | `chat.html`, `js/chat.js` | Completed | `ai-chat.png` | Users can enter movie preferences such as genre, mood, actor, or movie title into the AI chatbot to receive personalized recommendations. |
+| FR-04 | Data storage or simulated storage | `server.js`, `localStorage` | Completed | `chat-history.png` | User watchlists and chat histories are stored using localStorage, while movie information is retrieved through the TMDB API. |
+| FR-05 | View records / information list | `movies.html`, `trending.html` | Completed | `movie-list.png` | Users can browse trending movies and TV shows displayed as responsive movie cards with posters, ratings, and genres. |
+| FR-06 | Search, filter, or category | `movies.html`, `js/movies.js` | Completed | `movie-search.png` | Users can search movies by title and filter results using categories such as genre and popularity. |
+| FR-07 | Detail view | `movie-detail.html`, `js/movie-detail.js` | Completed | `movie-detail.png` | Displays detailed movie information including poster, overview, genres, ratings, cast, trailer, and release date. |
+| FR-08 | Status or progress tracking | `watchlist.html`, `profile.html` | Completed | `watchlist.png` | Users can manage their watchlist and review previous AI conversations through their account. |
+| FR-09 | Admin function | `admin.html`, `js/admin.js` | Completed | `admin-dashboard.png` | Administrators can review user AI chat histories and monitor chatbot usage through the admin dashboard. |
+| FR-10 | Validation and feedback | `login.html`, `signup.html`, `chat.html` | Completed | `validation.png` | Forms validate required fields, display error messages, and provide confirmation feedback after successful actions. |
+| FR-11 | Dashboard / summary / analytics | `dashboard.html`, `js/dashboard.js` | Completed | `dashboard.png` | Dashboard summarizes user testing results, chatbot usage, recommendation statistics, and system performance metrics. |
+| FR-12 | Final prototype traceability | `feature-implementation-status.md`, `system-requirements.md` | Completed | `feature-mapping.png` | All implemented features are mapped directly to the functional requirements and user stories. |
+| FR-13 | UI consistency | `Shared/header.html`, `css/styles.css` | Completed | `homepage.png` | Consistent navigation, typography, buttons, color palette, and responsive layouts are used throughout the application. |
+| FR-14 | Mobile-friendly / responsive design | `index.html`, `movies.html`, `chat.html` | Completed | `responsive-design.png` | Responsive layouts support desktop, tablet, and mobile devices with adaptive navigation and flexible movie cards. |
+| FR-15 | Privacy and responsible data handling | `login.html`, `profile.html` | Completed | `privacy.png` | Only essential user information is collected. Passwords are protected, and personal chat histories are only visible to authorized users and administrators. |
+| FR-16 | User testing and validation integration | `docs/user-testing-results.md`, `data/User Testing Results.xlsx` | Completed | `user-testing-evidence.png` | User testing with 20 participants achieved approximately 80% task completion, providing evidence for final prototype improvements. |
 
 ---
 
@@ -27,39 +27,43 @@
 
 ## Fully Completed Features (16 / 16)
 
-The WatchMate AI Movie Recommendation System successfully implements all functional requirements:
-
-- FR-01 Homepage / Landing Page
-- FR-02 Primary User Navigation
-- FR-03 User Preference Input
-- FR-04 Movie Data Management
-- FR-05 Recommendation Results
+- FR-01 Homepage
+- FR-02 User Workflow
+- FR-03 AI Chat Input
+- FR-04 Data Storage
+- FR-05 Movie Browsing
 - FR-06 Search & Filter
-- FR-07 Movie Detail View
-- FR-08 Recommendation Status
-- FR-09 Administrator Functions
-- FR-10 Validation & Error Prevention
-- FR-11 Confirmation & Feedback
-- FR-12 Dashboard / Summary
-- FR-13 User Interface Consistency
+- FR-07 Movie Details
+- FR-08 Watchlist & Chat History
+- FR-09 Admin Dashboard
+- FR-10 Validation & Feedback
+- FR-11 Dashboard & Analytics
+- FR-12 Requirement Traceability
+- FR-13 UI Consistency
 - FR-14 Responsive Design
-- FR-15 Privacy & Responsible Data Handling
-- FR-16 Prototype Traceability
+- FR-15 Privacy & Security
+- FR-16 User Testing Integration
 
-## Sprint 2 Improvements Delivered (Lab 11)
+---
 
-- Improved the AI movie recommendation workflow by refining user preference collection and recommendation accuracy.
-- Enhanced search and filtering features to help users quickly discover movies based on title, genre, and category.
-- Added validation and confirmation messages to improve the recommendation process.
-- Completed the administrator dashboard for managing movie information and recommendation content.
-- Completed the dashboard summary to display recommendation statistics and popular genres.
-- Applied responsible IT practices by including privacy notices, educational MVP disclaimers, and collecting only essential user information.
-- Updated project documentation, implementation evidence, MVP validation results, analytics summaries, and repository files to maintain complete requirement traceability.
+## Key Implementation Highlights
 
-## Future Enhancements
+###  AI-Powered Movie Recommendation
 
-- Integrate a live movie database API (TMDB).
-- Improve the AI recommendation algorithm using additional user preference factors.
-- Add watchlists, favorite movies, and recommendation history.
-- Enhance dashboard analytics with interactive charts.
-- Continue improving the user interface based on user feedback.
+Users can interact with the AI chatbot using natural language to receive personalized movie recommendations based on genre, mood, actors, directors, or similar movies.
+
+###  Comprehensive Movie Information
+
+Movie detail pages display posters, ratings, genres, overviews, trailers, cast information, and release dates using TMDB API integration.
+
+###  Personalized User Experience
+
+Logged-in users can save movies to their watchlist and review previous AI chatbot conversations.
+
+###  Administrator Dashboard
+
+Administrators can monitor chatbot activity, review user chat histories, and analyze overall platform usage.
+
+###  Analytics & Validation
+
+Power BI dashboards visualize user testing results, chatbot usage, recommendation statistics, task completion rates, and usability metrics. User validation with **20 participants** achieved an **approximately 80% task completion rate**, demonstrating that the prototype effectively meets its intended objectives.
