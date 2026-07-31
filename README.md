@@ -263,7 +263,7 @@ Our prototype is an interactive frontend application designed to demonstrate the
 
 During the experiment, we will validate the following assumptions:
 
-- Users prefer AI-powered movie recommendations over manually searching multiple platforms.
+- Users prefer receiving AI-driven movie recommendations rather than manually searching across multiple platforms.
 - Users can easily communicate their movie preferences through the chatbot.
 - Users understand and trust the personalized recommendations provided.
 - Users can navigate the system without additional instructions.
