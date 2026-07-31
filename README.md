@@ -23,7 +23,8 @@ Many movie viewers struggle to find films that suit their interests and preferen
 
 
 ## Target Users
-The main target audience includes university students, young adults, and movie lovers who regularly watch films on online streaming platforms. These users want to find new movies efficiently and receive personalized recommendations based on their interests and preferred genres.
+The primary target users are university students, young adults, and film enthusiasts who frequently use online streaming platforms to watch movies. They aim to discover new films quickly and receive customized recommendations based on their favorite genres and personal interests.
+
 ## Initial IT Venture Direction
 The team plans to develop a web-based movie recommendation platform called MovieMatch. The system will allow users to search for movies, select favorite genres, save watchlists, rate movies, and receive personalized recommendations. The platform aims to improve movie discovery and reduce the time users spend searching for suitable content.
 
