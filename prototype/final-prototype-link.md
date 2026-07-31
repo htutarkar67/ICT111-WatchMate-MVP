@@ -2,7 +2,7 @@
 
 ## Final Prototype URL
 
-- **Live Hosted Web Prototype:** https://htutarkar67.github.io/ICT111-WatchMate-MVP/
+- **Live Demo Link** *https://watchmate-mvp.up.railway.app/*
 - **GitHub Repository Source:** https://github.com/htutarkar67/ICT111-WatchMate-MVP//tree/main/prototype/project
 
 ---
