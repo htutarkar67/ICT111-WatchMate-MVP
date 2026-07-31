@@ -266,7 +266,7 @@ During the experiment, we will validate the following assumptions:
 - Users prefer receiving AI-driven movie recommendations rather than manually searching across multiple platforms.
 - The chatbot enables users to communicate their movie preferences easily and receive recommendations based on their interests.
 - Users understand and trust the personalized recommendations provided.
-- Users can navigate the system without additional instructions.
+- Users can use and navigate the system independently without requiring additional guidance.
 
 ## Success Metrics
 
