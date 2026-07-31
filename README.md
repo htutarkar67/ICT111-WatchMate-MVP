@@ -606,7 +606,7 @@ Many users spend too much time searching for movies across multiple streaming pl
 ## Final Prototype Links
 
 - **Prototype Folder:** [/prototype/project](/prototype/project)
-- **Live Demo:** *Add your GitHub Pages link here after deployment.*
+- **Live Demo:** https://watchmate-mvp.up.railway.app
 
 ---
 
