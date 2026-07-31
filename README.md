@@ -220,7 +220,7 @@ The finished wireframes, including the homepage, AI chatbot, search results, mov
 The frontend pages and React components form the structure of the application. During development, these components will be connected to backend APIs to provide dynamic content, AI-powered recommendations, user authentication, and watchlist management.
 
 ### Architectural Blueprint
-The system architecture and data flow diagrams define how information moves between the frontend, backend, AI chatbot API, TMDB API, and SQLite database. These diagrams guide the implementation of movie searches, AI recommendations, user authentication, watchlist storage, and chat history management.
+The system architecture and data flow diagrams illustrate the movement of information between the frontend, backend, AI chatbot API, TMDB API, and SQLite database. These diagrams provide guidance for implementing key features such as movie searching, AI-based recommendations, user authentication, watchlist management, and chat history handling.
 
 ### Feature Prioritization
 The MVP feature list, system requirements, and user stories define the development priorities. The first implementation phase focuses on the core features:
