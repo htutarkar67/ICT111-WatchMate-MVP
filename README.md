@@ -105,8 +105,7 @@ The team has decided to proceed with the current problem direction and continue 
 
 ## Primary Target User
 
-Movie viewers who face challenges finding movies that align with their preferences and often spend significant time deciding what to watch because of the overwhelming number of available choices.
-
+Movie viewers who have difficulty finding films that match their interests and often spend a considerable amount of time choosing what to watch due to the large variety of available options.
 ## Persona Summary
 
 - **Persona Name:** Alex Tan
