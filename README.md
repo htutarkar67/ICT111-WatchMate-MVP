@@ -649,7 +649,7 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 ## Pitch Materials
 
-- Final Pitch Slides: [/pitch/presentation/](/pitch/presentation/)
+- Final Pitch Slides: [WatchMate-Group-presentation-slides](/pitch/presentation/WatchMate_presentation_slides.pdf)
 - Demo Outline: [/pitch/demo-outline.md](/pitch/demo-outline.md)
 
 ---
