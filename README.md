@@ -70,7 +70,8 @@ In Lab 03, we will conduct customer discovery interviews to validate the problem
 
 ## Current Status
 
-We completed our customer discovery process by collecting feedback from university students, movie enthusiasts, and users of online streaming platforms. The information gathered enabled us to better understand their needs, preferences, and difficulties in finding suitable movie recommendations.
+We carried out our customer discovery process by obtaining feedback from university students, movie enthusiasts, and online streaming platform users. The feedback collected helped us gain a deeper understanding of their needs, preferences, and the challenges they face when searching for suitable movie recommendations.
+
 We validated that users spend too much time searching for movies.
 We confirmed that existing recommendations are not always personalized.
 We identified that users value accurate recommendations over complex features.
