@@ -212,8 +212,7 @@ The frontend will provide an interactive interface that allows users to browse t
 The documentation and planning completed in Lab 06 provide the groundwork for developing the final WatchMate prototype.
 
 ### UI/UX Translation
-The completed wireframes, including the homepage, AI chatbot, search results, movie details, watchlist, chat history, and admin dashboard, serve as a clear framework for the final user interface. These designs support React frontend development while ensuring a consistent and easy-to-use user experience.
-
+The finished wireframes, including the homepage, AI chatbot, search results, movie details, watchlist, chat history, and admin dashboard, provide a structured layout for the final user interface. These designs assist the React frontend development process while maintaining a consistent and user-friendly experience.
 
 ### Structural Foundation
 The frontend pages and React components form the structure of the application. During development, these components will be connected to backend APIs to provide dynamic content, AI-powered recommendations, user authentication, and watchlist management.
