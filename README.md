@@ -87,7 +87,8 @@ Our team gathered customer discovery evidence from:
 
 * University students who frequently watch movies through online streaming platforms.
 * Movie lovers who regularly look for new films and personalized recommendations.
-* Streaming platform users who experience difficulty selecting suitable content.
+* Streaming platform users who face challenges when choosing suitable content.
+
 
 ## Main Evidence Found
 Through interviews and surveys, we discovered several important insights:
