@@ -552,7 +552,6 @@ This lab focused on preparing the final presentation materials for the **WatchMa
 - [/docs/user-testing-results.md](/docs/user-testing-results.md)
 - [/docs/final-improvement-list.md](/docs/final-improvement-list.md)
 - [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
-- [/screenshots/demo-flow.md](/screenshots/demo-flow.md)
 
 ## Prototype / Demo Link
 
