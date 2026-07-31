@@ -403,13 +403,13 @@ Lab 10 focused on developing the first functional version of the WatchMate MVP p
 | User Dashboard | FR-12 | Completed | `prototype/project/` |
 
 ### Prototype Screenshots
-- Homepage – `screenshots/homepage.png`
-- Login – `screenshots/login.png`
-- Registration – `screenshots/registration.png`
-- Preference Form – `screenshots/input-form.png`
-- Recommendation List – `screenshots/record-list.png`
-- Movie Detail – `screenshots/detail-view.png`
-- Dashboard – `screenshots/dashboard.png`
+- Homepage – `screenshots/homepage.md`
+- Login – `screenshots/login.md`
+- Registration – `screenshots/register.md`
+- AI Chatbot / Movie Preference  – `screenshots/ai-chatbot.md`
+- Recommendation List – `screenshots/search-results.md`
+- Movie Detail – `screenshots/movie-detail.md`
+- Admin Dashboard – `screenshots/admin-dashboard.md`
 
 ### Team Contribution
 
@@ -489,7 +489,6 @@ Documented startup and product metrics in `docs/startup-metrics.md`, including u
 **Prototype/demo link:**  
 https://final-project-production-e4d4.up.railway.app/
 
----
 
 ## Go-to-Market Plan
 
@@ -502,7 +501,6 @@ University LINE/Discord groups, Facebook, Instagram, TikTok, GitHub, QR-code pos
 **Main marketing message:**  
 *"Not sure what to watch? Let WatchMate's AI recommend the perfect movie for you in seconds."*
 
----
 
 ## Acquisition Metrics
 
@@ -515,7 +513,6 @@ Achieved a **39.8%** click-through rate (**167 clicks / 420 views**).
 **Demo Attempts & Active Testers (M-03 / M-05):**  
 Recorded **118** AI chatbot demo attempts and **62** active testers, resulting in a **14.8%** conversion rate.
 
----
 
 ## Screenshots
 
@@ -525,13 +522,11 @@ Recorded **118** AI chatbot demo attempts and **62** active testers, resulting i
 **AI Chatbot screenshot:**  
 [/screenshots/ai-chatbot.md](/screenshots/ai-chatbot.md)
 
----
 
 ## Requirement Alignment
 
 The landing page directly supports **FR-01** by presenting the WatchMate value proposition, featured movies, and AI chatbot entry point. The primary call-to-action directs users to the AI Movie Recommendation Chatbot (**FR-03**), while the secondary action allows users to browse trending movies and search the movie catalog (**FR-05** and **FR-06**). This ensures alignment with the system requirements defined in [/docs/system-requirements.md](/docs/system-requirements.md).
 
----
 
 ## Member Contributions
 
