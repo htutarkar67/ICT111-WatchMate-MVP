@@ -481,13 +481,13 @@ Documented startup and product metrics in `docs/startup-metrics.md`, including u
 ## Landing Page
 
 **Landing page folder/link:**  
-`prototype/project` *(https://final-project-production-e4d4.up.railway.app/)*
+`prototype/project` *https://watchmate-mvp.up.railway.app/*
 
 **Main CTA:**  
 **Start Chat with AI** (Primary) & **Browse Trending Movies** (Secondary)
 
 **Prototype/demo link:**  
-https://final-project-production-e4d4.up.railway.app/
+https://watchmate-mvp.up.railway.app/
 
 
 ## Go-to-Market Plan
@@ -557,7 +557,7 @@ This lab focused on preparing the final presentation materials for the **WatchMa
 ## Prototype / Demo Link
 
 **Live Demo:**  
-https://final-project-production-e4d4.up.railway.app/
+https://watchmate-mvp.up.railway.app/
 
 **GitHub Repository:**  
 https://github.com/BhoneMyatKyaw666/final-project
