@@ -573,7 +573,7 @@ The **WatchMate** prototype is **ready for Lab 14**. All core MVP features have 
 
 User testing was completed with **20 participants**, and the feedback was analyzed to identify usability improvements. Minor issues such as AI response speed, watchlist visibility, and filter usability have been addressed or documented for future enhancement.
 
-The team has completed all required documentation, diagrams, screenshots, and testing evidence. The project is now ready for the final demonstration, evaluation, and Lab 14 presentation.
+The team has finalized all required documentation, diagrams, screenshots, and testing evidence. The project is now prepared for the final demonstration, assessment, and Lab 14 presentation.
 
 ---
 
