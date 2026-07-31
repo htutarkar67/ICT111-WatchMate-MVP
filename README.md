@@ -682,4 +682,4 @@ Many users spend too much time searching for movies across multiple streaming pl
 
 The **WatchMate – AI Movie Recommendation System** prototype has been completed for the ICT111 Fundamental Technology Entrepreneurship course. The project includes the web prototype, screenshots, documentation, sample datasets, diagrams, marketing materials, testing documents, and presentation materials prepared for the final Lab 14 submission.
 
-The prototype implements all required functional requirements and demonstrates the core features of an AI-powered movie recommendation system, including AI chatbot interaction, personalized recommendations, movie search, movie details, watchlist management, recommendation history, and administrator functions.
+The prototype fulfills all required functional requirements and showcases the essential features of an AI-powered movie recommendation system, including AI chatbot communication, personalized suggestions, movie searching, movie information display, watchlist management, recommendation history tracking, and administrator features.
