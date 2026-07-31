@@ -587,3 +587,95 @@ The team has completed all required documentation, diagrams, screenshots, and te
 
 ## Project Overview
 
+WatchMate is an AI-powered movie recommendation system that helps users discover movies based on their personal preferences. Instead of spending time browsing through hundreds of titles on different streaming platforms, users can interact with an AI chatbot, select their favorite genres and preferences, and receive personalized movie recommendations. The system also provides movie details, search functionality, watchlist management, and recommendation history in an easy-to-use web interface.
+
+## Target Users
+
+- **Movie Lovers:** Receive personalized movie recommendations based on genres, moods, languages, and viewing preferences.
+- **Students and Casual Viewers:** Quickly discover suitable movies without spending time searching multiple platforms.
+- **Administrators:** Manage movie categories, recommendation data, and monitor overall system activity.
+
+---
+
+## Problem Statement
+
+Many users spend too much time searching for movies across multiple streaming platforms and often struggle to decide what to watch. Generic recommendation lists may not match individual preferences, leading to decision fatigue. WatchMate addresses this problem by providing AI-generated personalized movie recommendations through an interactive chatbot and intelligent filtering system.
+
+---
+
+## Final Prototype Links
+
+- **Prototype Folder:** `prototype/`
+- **Homepage:** `prototype/homepage`
+- **Live Demo:** *Add your GitHub Pages link here after deployment.*
+
+---
+
+## Demo Accounts for Testing
+
+| Account Type | Username / Email | Password | Access Role |
+| :--- | :--- | :--- | :--- |
+| **Student User** | `student@watchmate.com` | `password123` | Member |
+| **Movie Enthusiast** | `movie@watchmate.com` | `password123` | Member |
+| **Administrator** | `admin@watchmate.com` | `admin123` | Administrator |
+
+---
+
+## Final Documentation
+
+- System Requirements: `docs/system-requirements.md`
+- User Stories: `docs/user-stories.md`
+- MVP Feature List: `docs/mvp-feature-list.md`
+- Feature Implementation Status: `docs/feature-implementation-status.md`
+- Final Prototype Report: `docs/final-prototype-report.md`
+- Final Demo Script: `docs/final-demo-script.md`
+- Final Reflection: `docs/final-reflection.md`
+- Final Submission Checklist: `docs/final-submission-checklist.md`
+
+---
+
+## Screenshots
+
+- Homepage – `screenshots/homepage.md`
+- Login – `screenshots/login.md`
+- Register – `screenshots/register.md`
+- AI Chatbot – `screenshots/ai-chatbot.md`
+- Search Results – `screenshots/search-results.md`
+- Movie Detail – `screenshots/movie-detail.md`
+- Watchlist – `screenshots/watchlist.md`
+- Chat History – `screenshots/chat-history.md`
+- Admin Dashboard – `screenshots/admin-dashboard.md`
+
+---
+
+## Pitch Materials
+
+- Final Pitch Slides: `pitch/final-pitch-outline.md`
+- Demo Outline: `pitch/demo-outline.md`
+
+---
+
+## Data and Diagrams
+
+### Data
+
+- `data/final-sample-data.csv`
+- `data/final-testing-results.csv`
+- `data/lab11-activity-log.csv`
+- `data/lab11-prototype-records.csv`
+- `data/acquisition-metrics.csv`
+- `data/channel-plan.csv`
+
+### Diagrams
+
+- `diagrams/system-architecture.mmd`
+- `diagrams/final-demo-flow.mmd`
+- `diagrams/implementation-flow.mmd`
+
+---
+
+## Final Submission Notes
+
+The **WatchMate – AI Movie Recommendation System** prototype has been completed for the ICT111 Fundamental Technology Entrepreneurship course. The project includes the web prototype, screenshots, documentation, sample datasets, diagrams, marketing materials, testing documents, and presentation materials prepared for the final Lab 14 submission.
+
+The prototype implements all required functional requirements and demonstrates the core features of an AI-powered movie recommendation system, including AI chatbot interaction, personalized recommendations, movie search, movie details, watchlist management, recommendation history, and administrator functions.
