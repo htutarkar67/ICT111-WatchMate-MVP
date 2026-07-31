@@ -549,8 +549,6 @@ The landing page directly supports **FR-01** by presenting the WatchMate value p
 
 This lab focused on preparing the final presentation materials for the **WatchMate: AI Movie Recommendation System**. Our team completed the sales scenario, demo script, user testing plan, user testing results, and final improvement list to ensure the prototype is ready for the final demonstration in Lab 14.
 
----
-
 ## Files Completed
 
 - [/docs/sales-scenario.md](/docs/sales-scenario.md)
@@ -561,8 +559,6 @@ This lab focused on preparing the final presentation materials for the **WatchMa
 - [/docs/weekly-logbook.md](/docs/weekly-logbook.md)
 - [/screenshots/demo-flow.md](/screenshots/demo-flow.md)
 
----
-
 ## Prototype / Demo Link
 
 **Live Demo:**  
@@ -571,8 +567,6 @@ https://final-project-production-e4d4.up.railway.app/
 **GitHub Repository:**  
 https://github.com/BhoneMyatKyaw666/final-project
 
----
-
 ## Final Preparation Status
 
 The **WatchMate** prototype is **ready for Lab 14**. All core MVP features have been implemented, including the AI movie recommendation chatbot, movie search, trending movies, movie detail pages, watchlist, user authentication, administrator dashboard, and analytics dashboard.
@@ -580,3 +574,21 @@ The **WatchMate** prototype is **ready for Lab 14**. All core MVP features have 
 User testing was completed with **20 participants**, and the feedback was analyzed to identify usability improvements. Minor issues such as AI response speed, watchlist visibility, and filter usability have been addressed or documented for future enhancement.
 
 The team has completed all required documentation, diagrams, screenshots, and testing evidence. The project is now ready for the final demonstration, evaluation, and Lab 14 presentation.
+
+---
+
+# Lab 14: Final Prototype Submission & Presentation
+
+## Project Title
+**WatchMate - AI Movie Recommendation System**
+
+## Group Members
+
+| Name | Role | Main Contribution | GitHub Evidence |
+| --- | --- | --- | --- |
+| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Co-authored the final pitch slides, prepared the Go-to-Market strategy, Business Model Canvas, acquisition metrics, sales scenario, final demo script, and presentation materials in `/pitch/` and `/docs/`. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=taryarlinl66-sys) |
+| **Bhone Myat Kyaw** (`BhoneMyatKyaw666`) | Technical Lead | Co-authored the final pitch slides, finalized the AI Movie Recommendation System prototype, updated the prototype implementation, captured the final screenshots (`/screenshots/`), authored `docs/feature-implementation-status.md` and `docs/final-prototype-report.md`, and verified all functional requirements. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=BhoneMyatKyaw666) |
+| **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead & Documentation Lead | Co-authored the final pitch slides, designed the user interface, prepared `docs/final-reflection.md`, `docs/final-submission-checklist.md`, `docs/user-testing-plan.md`, `docs/marketing-message.md`, `docs/landing-page-content.md`, maintained `docs/weekly-logbook.md`, updated `README.md`, and organized the final project documentation for submission. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=htutarkar67) |
+
+## Project Overview
+
