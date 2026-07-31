@@ -4,7 +4,7 @@
 
 - **Date:** 28 July 2026
 - **Number of testers:** 20 users
-- **Prototype link:** https://final-project-production-e4d4.up.railway.app/
+- **Prototype link:** https://watchmate-mvp.up.railway.app/
 - **Testing location/platform:** Web application tested on Google Chrome and Microsoft Edge using desktop and mobile devices.
 
 ---
