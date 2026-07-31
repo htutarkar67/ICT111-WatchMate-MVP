@@ -12,9 +12,9 @@
 
 | Name | Role | Main Contribution | GitHub Evidence |
 |---|---|---|---|
-| **Tar Yar Lin Latt** | Product Lead | Co-authored the pitch presentation, developed the Business Model Canvas and Go-to-Market strategy, and prepared startup metrics and business documentation. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=taryarlinl66-sys) |
-| **Bhone Myat Kyaw** | Technical Lead | Developed the AI Movie Recommendation System prototype, implemented the application features, managed the project repository, and prepared the final prototype implementation report. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=BhoneMyatKyaw666)  |
-| **Htut Arkar Saing** | UX/UI Lead & Documentation Lead | Designed the user interface and wireframes, prepared project documentation, conducted user testing planning, and completed the final submission documents and repository organization. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=htutarkar67) |
+| **Tar Yar Lin Latt** (`taryarlinl66-sys`) | Product Lead | Co-authored the pitch presentation, developed the Business Model Canvas and Go-to-Market strategy, and prepared startup metrics and business documentation. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=taryarlinl66-sys) |
+| **Bhone Myat Kyaw** (`BhoneMyatKyaw666`) | Technical Lead | Developed the AI Movie Recommendation System prototype, implemented the application features, managed the project repository, and prepared the final prototype implementation report. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=BhoneMyatKyaw666)  |
+| **Htut Arkar Saing** (`htutarkar67`) | UX/UI Lead & Documentation Lead | Designed the user interface and wireframes, prepared project documentation, conducted user testing planning, and completed the final submission documents and repository organization. | [Commits](https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits?author=htutarkar67) |
 
 ---
 
