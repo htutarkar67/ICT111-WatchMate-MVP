@@ -53,7 +53,8 @@ The team intends to develop a web-based movie recommendation platform called Mov
 | Lab 02 | Opportunity Scanning & Selection | Reviewed several project ideas, applied NUF scoring, and selected the Movie Recommendation System. | Completed |
 
 ## Current Status
-During Lab 1, the team set up the project repository, selected the Movie Recommendation System concept, defined the target users and problem area, and assigned team responsibilities. The initial project structure was also organized to support future development.
+During Lab 1, the team established the project repository, chose the Movie Recommendation System as the project concept, identified the target users and problem statement, and allocated responsibilities among team members. The initial project framework was also prepared to facilitate future development.
+
 
 ### Current Status
 
