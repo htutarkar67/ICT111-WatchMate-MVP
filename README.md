@@ -14,9 +14,9 @@ WatchMate
 
 | Student ID | Name | Role | Responsibility |
 |---|---|---|---|
-| 6604128 | Tar Yar Lin Latt | Product Lead | Define problems, target users, and project direction |
-| 6703933 | Bhone Myat Kyaw | Technical Lead | Manage repository and develop the prototype |
-| 6704756 | Htut Arkar Saing | UX/UI & Documentation Lead | Design users interface, and maintain project documentation |
+| 6604128 | Tar Yar Lin Latt | Product Lead | Defined the product vision, identified target users, prepared the Business Model Canvas, Go-to-Market strategy, sales scenario, and contributed to the final pitch presentation. |
+| 6703933 | Bhone Myat Kyaw | Technical Lead | Developed the AI Movie Recommendation System, implemented frontend and backend features, integrated the AI chatbot and TMDB API, created system diagrams and flowcharts, designed the Power BI dashboard, managed the GitHub repository, and deployed the prototype. |
+| 6704756 | Htut Arkar Saing | UX/UI & Documentation Lead | Designed the user interface and wireframes, prepared project documentation, coordinated user testing, organized the repository, and completed the final submission documents. |
 
 ## Initial Problem Area
 Many movie viewers experience difficulty finding movies that match their interests and preferences. The increasing number of movies available on streaming platforms often causes users to spend excessive time searching for content. Existing recommendation systems may not always provide personalized suggestions that align with users' specific tastes and viewing habit.
